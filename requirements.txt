@@ -1,0 +1,8 @@
+jupyterlab
+cfbd
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+ebooklet
