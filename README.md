@@ -11,4 +11,7 @@ $ cd eda_final_project
 $ python -m venv .venv
 $ source .venv/bin/activate
 (.venv) $ pip install -r requirements.txt
+(.venv) $ jupyter lab
 ```
+
+This opens the following [notebook](./eda_final_project_code_group_5.ipynb)
