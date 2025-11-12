@@ -10,7 +10,7 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2006,Akron,fbs,Mid-American,,3.5036045156384734,12,4,8,0,-15.896,Joe Moorhead,False,17.0,20.0,-3.0
 2022,333,Alabama,fbs,SEC,West,10.457207126799414,13,11,2,0,27.296,Nick Saban,False,5.0,21.0,-16.0
 2023,333,Alabama,fbs,SEC,West,11.28134746735358,14,12,2,0,24.925,Nick Saban,True,14.0,38.0,-24.0
-2024,333,Alabama,fbs,SEC,,8.697743763438682,13,9,4,0,23.933,Kalen DeBoer,False,11.0,26.0,-15.0
+2024,333,Alabama,fbs,SEC,,8.697743763438682,13,9,4,0,23.933,Kalen DeBoer,False,11.0,25.0,-14.0
 2022,2010,Alabama A&M,fcs,SWAC,East,3.6017636125329977,11,4,7,0,,,False,2.0,0.0,2.0
 2023,2010,Alabama A&M,fcs,SWAC,East,5.014057161772787,11,5,6,0,,,False,9.0,0.0,9.0
 2024,2010,Alabama A&M,fcs,SWAC,East,6.349757501816714,12,6,6,0,,,False,2.0,10.0,-8.0
@@ -22,16 +22,16 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2016,Alcorn State,fcs,SWAC,West,4.105922010408881,12,6,6,0,,,False,4.0,3.0,1.0
 2022,2026,App State,fbs,Sun Belt,East,7.063498665750302,12,6,6,0,0.411,Shawn Clark,False,13.0,14.0,-1.0
 2023,2026,App State,fbs,Sun Belt,East,9.700118352434076,14,9,5,0,-0.603,Shawn Clark,False,15.0,21.0,-6.0
-2024,2026,App State,fbs,Sun Belt,East,4.634148235331524,11,5,6,0,-6.788,Shawn Clark,False,32.0,43.0,-11.0
+2024,2026,App State,fbs,Sun Belt,East,4.634148235331524,11,5,6,0,-6.788,Shawn Clark,False,32.0,41.0,-9.0
 2022,12,Arizona,fbs,Pac-12,,3.9937131368146206,12,5,7,0,-2.006,Jedd Fisch,False,8.0,26.0,-18.0
-2023,12,Arizona,fbs,Pac-12,,8.681701369190113,13,10,3,0,11.44,Jedd Fisch,True,24.0,31.0,-7.0
-2024,12,Arizona,fbs,Big 12,,4.2167032230106,12,4,8,0,-3.385,Brent Brennan,False,30.0,38.0,-8.0
+2023,12,Arizona,fbs,Pac-12,,8.681701369190113,13,10,3,0,11.44,Jedd Fisch,True,24.0,26.0,-2.0
+2024,12,Arizona,fbs,Big 12,,4.2167032230106,12,4,8,0,-3.385,Brent Brennan,False,30.0,35.0,-5.0
 2022,9,Arizona State,fbs,Pac-12,,5.358043951592553,12,3,9,0,-2.18,Shaun Aguano,True,30.0,30.0,0.0
 2023,9,Arizona State,fbs,Pac-12,,3.634008578313207,12,3,9,0,-7.512,Kenny Dillingham,False,28.0,28.0,0.0
-2024,9,Arizona State,fbs,Big 12,,10.650130252853703,14,11,3,0,11.793,Kenny Dillingham,False,17.0,22.0,-5.0
+2024,9,Arizona State,fbs,Big 12,,10.650130252853703,14,11,3,0,11.793,Kenny Dillingham,False,17.0,21.0,-4.0
 2022,8,Arkansas,fbs,SEC,West,8.529310198585382,13,7,6,0,6.93,Sam Pittman,False,17.0,31.0,-14.0
-2023,8,Arkansas,fbs,SEC,West,5.498399801920857,12,4,8,0,2.225,Sam Pittman,False,22.0,31.0,-9.0
-2024,8,Arkansas,fbs,SEC,,7.87864305772377,13,7,6,0,8.19,Sam Pittman,False,31.0,43.0,-12.0
+2023,8,Arkansas,fbs,SEC,West,5.498399801920857,12,4,8,0,2.225,Sam Pittman,False,22.0,30.0,-8.0
+2024,8,Arkansas,fbs,SEC,,7.87864305772377,13,7,6,0,8.19,Sam Pittman,False,31.0,41.0,-10.0
 2022,2032,Arkansas State,fbs,Sun Belt,West,4.003603191739838,12,3,9,0,-12.029,Butch Jones,False,8.0,13.0,-5.0
 2023,2032,Arkansas State,fbs,Sun Belt,West,5.607116358162902,13,6,7,0,-8.951,Butch Jones,False,17.0,21.0,-4.0
 2024,2032,Arkansas State,fbs,Sun Belt,West,4.608030386779824,13,8,5,0,-11.861,Butch Jones,False,32.0,29.0,3.0
@@ -40,7 +40,7 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2029,Arkansas-Pine Bluff,fcs,SWAC,West,3.394463745619437,12,3,9,0,,,False,1.0,6.0,-5.0
 2022,349,Army,fbs,FBS Independents,,7.143472376623744,12,6,6,0,-2.508,Jeff Monken,False,0.0,1.0,-1.0
 2023,349,Army,fbs,FBS Independents,,6.64921384272946,12,6,6,0,-8.953,Jeff Monken,False,0.0,9.0,-9.0
-2024,349,Army,fbs,American Athletic,,11.900202639307905,14,12,2,0,5.27,Jeff Monken,False,0.0,11.0,-11.0
+2024,349,Army,fbs,American Athletic,,11.900202639307905,14,12,2,0,5.27,Jeff Monken,False,0.0,10.0,-10.0
 2022,2,Auburn,fbs,SEC,West,6.735980425211763,12,5,7,0,6.205,Bryan Harsin,True,21.0,21.0,0.0
 2023,2,Auburn,fbs,SEC,West,6.402269708738939,13,6,7,0,8.916,Hugh Freeze,False,15.0,23.0,-8.0
 2024,2,Auburn,fbs,SEC,,7.215416284028155,12,5,7,0,9.659,Hugh Freeze,False,21.0,27.0,-6.0
@@ -48,11 +48,11 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2046,Austin Peay,fcs,UAC,,8.155227698372581,12,9,3,0,,,False,17.0,19.0,-2.0
 2024,2046,Austin Peay,fcs,UAC,,3.2783261180519543,12,4,8,0,,,False,23.0,8.0,15.0
 2022,252,BYU,fbs,FBS Independents,,6.633978548013562,13,8,5,0,0.819,Kalani Sitake,False,20.0,21.0,-1.0
-2023,252,BYU,fbs,Big 12,,3.616112728780986,12,5,7,0,-1.805,Kalani Sitake,False,9.0,17.0,-8.0
-2024,252,BYU,fbs,Big 12,,8.43082937690976,13,11,2,0,9.307,Kalani Sitake,False,13.0,29.0,-16.0
+2023,252,BYU,fbs,Big 12,,3.616112728780986,12,5,7,0,-1.805,Kalani Sitake,False,9.0,16.0,-7.0
+2024,252,BYU,fbs,Big 12,,8.43082937690976,13,11,2,0,9.307,Kalani Sitake,False,13.0,28.0,-15.0
 2022,2050,Ball State,fbs,Mid-American,West,4.568672872453927,12,5,7,0,-13.093,Mike Neu,False,10.0,10.0,0.0
-2023,2050,Ball State,fbs,Mid-American,West,5.707794769305532,12,4,8,0,-11.731,Mike Neu,True,11.0,16.0,-5.0
-2024,2050,Ball State,fbs,Mid-American,,3.354466754494901,12,3,9,0,-18.001,Colin Johnson,False,24.0,34.0,-10.0
+2023,2050,Ball State,fbs,Mid-American,West,5.707794769305532,12,4,8,0,-11.731,Mike Neu,True,11.0,14.0,-3.0
+2024,2050,Ball State,fbs,Mid-American,,3.354466754494901,12,3,9,0,-18.001,Colin Johnson,False,24.0,32.0,-8.0
 2022,239,Baylor,fbs,Big 12,,7.3809750936245955,13,6,7,0,9.044,Dave Aranda,False,13.0,12.0,1.0
 2023,239,Baylor,fbs,Big 12,,2.4182643705434783,12,3,9,0,-4.924,Dave Aranda,False,16.0,15.0,1.0
 2024,239,Baylor,fbs,Big 12,,8.056130708179111,13,8,5,0,9.105,Dave Aranda,False,23.0,17.0,6.0
@@ -61,13 +61,13 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2065,Bethune-Cookman,fcs,SWAC,East,2.872763011404083,12,2,10,0,,,False,5.0,5.0,0.0
 2022,68,Boise State,fbs,Mountain West,Mountain,10.46502299308519,14,10,4,0,3.797,Andy Avalos,False,9.0,17.0,-8.0
 2023,68,Boise State,fbs,Mountain West,Mountain,9.081047051623498,14,8,6,0,5.186,Andy Avalos,True,8.0,14.0,-6.0
-2024,68,Boise State,fbs,Mountain West,,10.79894123241294,14,12,2,0,10.993,Spencer Danielson,False,12.0,19.0,-7.0
+2024,68,Boise State,fbs,Mountain West,,10.79894123241294,14,12,2,0,10.993,Spencer Danielson,False,12.0,18.0,-6.0
 2022,103,Boston College,fbs,ACC,Atlantic,3.109028249629926,12,3,9,0,-7.442,Jeff Hafley,False,9.0,11.0,-2.0
 2023,103,Boston College,fbs,ACC,Atlantic,6.006971636459468,13,7,6,0,-5.102,Jeff Hafley,True,10.0,17.0,-7.0
 2024,103,Boston College,fbs,ACC,,7.269577560273723,13,7,6,0,4.829,Bill O'Brien,False,15.0,19.0,-4.0
 2022,189,Bowling Green,fbs,Mid-American,East,4.934003313814598,13,6,7,0,-16.18,Scot Loeffler,False,3.0,16.0,-13.0
 2023,189,Bowling Green,fbs,Mid-American,East,6.787308531770462,13,7,6,0,-5.514,Scot Loeffler,False,13.0,15.0,-2.0
-2024,189,Bowling Green,fbs,Mid-American,,7.443176189935018,13,7,6,0,-3.156,Scot Loeffler,False,21.0,29.0,-8.0
+2024,189,Bowling Green,fbs,Mid-American,,7.443176189935018,13,7,6,0,-3.156,Scot Loeffler,False,21.0,27.0,-6.0
 2022,225,Brown,fcs,Ivy,,2.3413269603973346,10,3,7,0,,,False,,,
 2023,225,Brown,fcs,Ivy,,3.071362271014605,10,5,5,0,,,False,0.0,3.0,-3.0
 2024,225,Brown,fcs,Ivy,,2.330663727593172,10,3,7,0,,,False,0.0,3.0,-3.0
@@ -78,8 +78,8 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2083,Bucknell,fcs,Patriot,,3.832023483284371,11,4,7,0,,,False,2.0,3.0,-1.0
 2024,2083,Bucknell,fcs,Patriot,,3.5531097514481544,12,6,6,0,,,False,4.0,5.0,-1.0
 2022,2084,Buffalo,fbs,Mid-American,East,7.196565220621764,13,7,6,0,-7.709,Maurice Linguist,False,10.0,14.0,-4.0
-2023,2084,Buffalo,fbs,Mid-American,East,3.559438224966651,12,3,9,0,-13.592,Maurice Linguist,True,17.0,17.0,0.0
-2024,2084,Buffalo,fbs,Mid-American,,7.680281927021848,13,9,4,0,-10.361,Pete Lembo,False,8.0,10.0,-2.0
+2023,2084,Buffalo,fbs,Mid-American,East,3.559438224966651,12,3,9,0,-13.592,Maurice Linguist,True,17.0,16.0,1.0
+2024,2084,Buffalo,fbs,Mid-American,,7.680281927021848,13,9,4,0,-10.361,Pete Lembo,False,8.0,9.0,-1.0
 2022,2086,Butler,fcs,Pioneer,,5.2714842191530655,11,7,4,0,,,False,,,
 2023,2086,Butler,fcs,Pioneer,,6.288394164009767,11,7,4,0,,,False,2.0,0.0,2.0
 2024,2086,Butler,fcs,Pioneer,,8.128107045952397,12,9,3,0,,,False,4.0,4.0,0.0
@@ -88,7 +88,7 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,13,Cal Poly,fcs,Big Sky,,3.2155881053308364,11,3,8,0,,,False,8.0,7.0,1.0
 2022,25,California,fbs,Pac-12,,3.658513391775718,12,4,8,0,-1.39,Justin Wilcox,False,20.0,26.0,-6.0
 2023,25,California,fbs,Pac-12,,6.406684563955697,13,6,7,0,4.077,Justin Wilcox,False,23.0,23.0,0.0
-2024,25,California,fbs,ACC,,6.989497551923431,13,6,7,0,4.302,Justin Wilcox,False,36.0,34.0,2.0
+2024,25,California,fbs,ACC,,6.989497551923431,13,6,7,0,4.302,Justin Wilcox,False,36.0,33.0,3.0
 2022,2097,Campbell,fcs,Big South,,3.3090112612701663,11,5,6,0,,,False,6.0,3.0,3.0
 2023,2097,Campbell,fcs,CAA,,4.271722950516014,11,5,6,0,,,False,7.0,7.0,0.0
 2024,2097,Campbell,fcs,CAA,,3.289399913893555,12,3,9,0,,,False,7.0,11.0,-4.0
@@ -100,13 +100,13 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2115,Central Connecticut,fcs,NEC,,4.930284855305205,13,7,6,0,,,False,2.0,1.0,1.0
 2022,2117,Central Michigan,fbs,Mid-American,West,5.347255088515795,12,4,8,0,-11.129,Jim McElwain,False,2.0,11.0,-9.0
 2023,2117,Central Michigan,fbs,Mid-American,West,3.7643715399385247,12,5,7,0,-13.01,Jim McElwain,False,6.0,16.0,-10.0
-2024,2117,Central Michigan,fbs,Mid-American,,4.9844152073936945,12,4,8,0,-14.808,Jim McElwain,False,10.0,19.0,-9.0
+2024,2117,Central Michigan,fbs,Mid-American,,4.9844152073936945,12,4,8,0,-14.808,Jim McElwain,False,10.0,14.0,-4.0
 2022,2127,Charleston Southern,fcs,Big South,,1.8902236848703595,10,2,8,0,,,False,,,
 2023,2127,Charleston Southern,fcs,Big South-OVC,,3.5489013285891327,11,4,7,0,,,False,0.0,2.0,-2.0
 2024,2127,Charleston Southern,fcs,Big South-OVC,,4.694073919642045,12,1,11,0,,,False,4.0,4.0,0.0
 2022,2429,Charlotte,fbs,Conference USA,,2.376026993426871,12,3,9,0,-17.759,Will Healy,True,17.0,21.0,-4.0
-2023,2429,Charlotte,fbs,American Athletic,,3.2378180541361177,12,3,9,0,-14.993,Biff Poggi,True,28.0,30.0,-2.0
-2024,2429,Charlotte,fbs,American Athletic,,3.044270826042523,12,5,7,0,-13.522,Tim Brewster,False,34.0,44.0,-10.0
+2023,2429,Charlotte,fbs,American Athletic,,3.2378180541361177,12,3,9,0,-14.993,Biff Poggi,True,28.0,29.0,-1.0
+2024,2429,Charlotte,fbs,American Athletic,,3.044270826042523,12,5,7,0,-13.522,Tim Brewster,False,34.0,35.0,-1.0
 2022,236,Chattanooga,fcs,Southern,,7.286317328035098,11,7,4,0,,,False,,,
 2023,236,Chattanooga,fcs,Southern,,8.429357601108954,13,8,5,0,,,False,4.0,2.0,2.0
 2024,236,Chattanooga,fcs,Southern,,7.405368727873858,12,7,5,0,,,False,5.0,15.0,-10.0
@@ -148,12 +148,12 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,48,Delaware,fcs,CAA,,7.733101421864328,11,9,2,0,,,False,8.0,3.0,5.0
 2022,2169,Delaware State,fcs,MEAC,,4.291263749452449,11,5,6,0,,,False,,,
 2023,2169,Delaware State,fcs,MEAC,,0.3193097251637879,11,1,10,0,,,False,4.0,1.0,3.0
-2024,2169,Delaware State,fcs,MEAC,,1.3953956479762737,12,1,11,0,,,False,8.0,3.0,5.0
+2024,2169,Delaware State,fcs,MEAC,,1.3953956479762737,12,1,11,0,,,False,8.0,2.0,6.0
 2022,2181,Drake,fcs,Pioneer,,3.510139288034585,11,3,8,0,,,False,,,
 2023,2181,Drake,fcs,Pioneer,,5.132249011657844,12,8,4,0,,,False,,,
 2024,2181,Drake,fcs,Pioneer,,5.031754763963682,12,8,3,1,,,False,2.0,2.0,0.0
 2022,150,Duke,fbs,ACC,Coastal,8.388743574134134,13,9,4,0,5.349,Mike Elko,False,6.0,16.0,-10.0
-2023,150,Duke,fbs,ACC,Coastal,6.941561596412663,13,8,5,0,8.778,Mike Elko,True,18.0,21.0,-3.0
+2023,150,Duke,fbs,ACC,Coastal,6.941561596412663,13,8,5,0,8.778,Mike Elko,True,18.0,18.0,0.0
 2024,150,Duke,fbs,ACC,,7.012492966063774,13,9,4,0,3.686,Manny Diaz,False,9.0,13.0,-4.0
 2022,2184,Duquesne,fcs,NEC,,1.8984614675780915,11,4,7,0,,,False,1.0,2.0,-1.0
 2023,2184,Duquesne,fcs,NEC,,6.817659288067889,12,7,5,0,,,False,3.0,2.0,1.0
@@ -181,7 +181,7 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,331,Eastern Washington,fcs,Big Sky,,4.079424543889022,12,4,8,0,,,False,5.0,4.0,1.0
 2022,2210,Elon,fcs,CAA,,5.792262376836578,12,8,4,0,,,False,1.0,1.0,0.0
 2023,2210,Elon,fcs,CAA,,5.774876562516108,11,6,5,0,,,False,3.0,5.0,-2.0
-2024,2210,Elon,fcs,CAA,,6.715781593240965,12,6,6,0,,,False,2.0,11.0,-9.0
+2024,2210,Elon,fcs,CAA,,6.715781593240965,12,6,6,0,,,False,2.0,10.0,-8.0
 2022,57,Florida,fbs,SEC,East,6.254924744494766,13,6,7,0,7.555,Billy Napier,False,12.0,25.0,-13.0
 2023,57,Florida,fbs,SEC,East,5.9464788624945,12,5,7,0,6.342,Billy Napier,False,15.0,23.0,-8.0
 2024,57,Florida,fbs,SEC,,7.748073980235289,13,8,5,0,11.901,Billy Napier,False,8.0,20.0,-12.0
@@ -190,19 +190,19 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,50,Florida A&M,fcs,SWAC,East,4.607692699266125,12,7,5,0,,,False,17.0,5.0,12.0
 2022,2226,Florida Atlantic,fbs,Conference USA,,7.021202189835405,12,5,7,0,-4.413,Willie Taggart,True,12.0,18.0,-6.0
 2023,2226,Florida Atlantic,fbs,American Athletic,,3.923183905309284,12,4,8,0,-7.215,Tom Herman,False,20.0,34.0,-14.0
-2024,2226,Florida Atlantic,fbs,American Athletic,,5.428544497529731,12,3,9,0,-12.288,Tom Herman,False,38.0,36.0,2.0
+2024,2226,Florida Atlantic,fbs,American Athletic,,5.428544497529731,12,3,9,0,-12.288,Tom Herman,False,38.0,32.0,6.0
 2022,2229,Florida International,fbs,Conference USA,,2.4866482887519537,12,4,8,0,-25.404,Mike MacIntyre,False,8.0,19.0,-11.0
 2023,2229,Florida International,fbs,Conference USA,,3.1718629850145237,12,4,8,0,-21.253,Mike MacIntyre,False,10.0,16.0,-6.0
-2024,2229,Florida International,fbs,Conference USA,,6.384605791367858,12,4,8,0,-11.982,Mike MacIntyre,False,23.0,36.0,-13.0
+2024,2229,Florida International,fbs,Conference USA,,6.384605791367858,12,4,8,0,-11.982,Mike MacIntyre,False,23.0,34.0,-11.0
 2022,52,Florida State,fbs,ACC,Atlantic,9.494500205110302,13,10,3,0,15.503,Mike Norvell,False,11.0,23.0,-12.0
-2023,52,Florida State,fbs,ACC,Atlantic,10.452484506827076,14,13,1,0,19.915,Mike Norvell,False,17.0,19.0,-2.0
-2024,52,Florida State,fbs,ACC,,1.8067782514400064,12,2,10,0,-3.911,Mike Norvell,False,22.0,34.0,-12.0
+2023,52,Florida State,fbs,ACC,Atlantic,10.452484506827076,14,13,1,0,19.915,Mike Norvell,False,17.0,18.0,-1.0
+2024,52,Florida State,fbs,ACC,,1.8067782514400064,12,2,10,0,-3.911,Mike Norvell,False,22.0,33.0,-11.0
 2022,2230,Fordham,fcs,Patriot,,7.365988331373684,12,9,3,0,,,False,1.0,1.0,0.0
 2023,2230,Fordham,fcs,Patriot,,5.747460974530086,11,6,5,0,,,False,0.0,1.0,-1.0
 2024,2230,Fordham,fcs,Patriot,,1.978714785183752,12,2,10,0,,,False,0.0,2.0,-2.0
 2022,278,Fresno State,fbs,Mountain West,West,8.401889406908776,14,10,4,0,3.726,Jeff Tedford,False,8.0,24.0,-16.0
 2023,278,Fresno State,fbs,Mountain West,West,6.207914118436058,13,9,4,0,-3.493,Jeff Tedford,True,7.0,11.0,-4.0
-2024,278,Fresno State,fbs,Mountain West,,6.477155329024348,13,6,7,0,-2.996,Tim Skipper,False,21.0,26.0,-5.0
+2024,278,Fresno State,fbs,Mountain West,,6.477155329024348,13,6,7,0,-2.996,Tim Skipper,False,21.0,22.0,-1.0
 2022,231,Furman,fcs,Southern,,7.961501202526168,13,10,3,0,,,False,0.0,2.0,-2.0
 2023,231,Furman,fcs,Southern,,7.509132008810567,13,10,3,0,,,False,2.0,6.0,-4.0
 2024,231,Furman,fcs,Southern,,2.806022283083705,12,3,8,1,,,False,3.0,3.0,0.0
@@ -211,19 +211,19 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2241,Gardner-Webb,fcs,Big South-OVC,,5.40458009150313,12,4,8,0,,,False,9.0,8.0,1.0
 2022,46,Georgetown,fcs,Patriot,,2.71926373163401,11,2,9,0,,,False,0.0,1.0,-1.0
 2023,46,Georgetown,fcs,Patriot,,5.8599218918028475,11,5,6,0,,,False,1.0,3.0,-2.0
-2024,46,Georgetown,fcs,Patriot,,5.135416941537501,11,5,6,0,,,False,1.0,3.0,-2.0
+2024,46,Georgetown,fcs,Patriot,,5.135416941537501,11,5,6,0,,,False,1.0,2.0,-1.0
 2022,61,Georgia,fbs,SEC,East,14.38770281519346,15,15,0,0,29.908,Kirby Smart,False,4.0,15.0,-11.0
 2023,61,Georgia,fbs,SEC,East,12.5577106502658,14,13,1,0,24.777,Kirby Smart,False,11.0,26.0,-15.0
 2024,61,Georgia,fbs,SEC,,9.672673443996022,14,11,3,0,22.091,Kirby Smart,False,10.0,20.0,-10.0
 2022,290,Georgia Southern,fbs,Sun Belt,East,4.3310468065594065,13,6,7,0,-6.049,Clay Helton,False,15.0,15.0,0.0
-2023,290,Georgia Southern,fbs,Sun Belt,East,4.860874030795419,13,6,7,0,-7.579,Clay Helton,False,12.0,19.0,-7.0
-2024,290,Georgia Southern,fbs,Sun Belt,East,5.675921573133078,13,8,5,0,-2.353,Clay Helton,False,16.0,18.0,-2.0
+2023,290,Georgia Southern,fbs,Sun Belt,East,4.860874030795419,13,6,7,0,-7.579,Clay Helton,False,12.0,18.0,-6.0
+2024,290,Georgia Southern,fbs,Sun Belt,East,5.675921573133078,13,8,5,0,-2.353,Clay Helton,False,16.0,16.0,0.0
 2022,2247,Georgia State,fbs,Sun Belt,East,6.615837884863028,12,4,8,0,-4.864,Shawn Elliott,False,19.0,20.0,-1.0
 2023,2247,Georgia State,fbs,Sun Belt,East,7.416657249880071,13,7,6,0,-8.616,Shawn Elliott,False,31.0,34.0,-3.0
-2024,2247,Georgia State,fbs,Sun Belt,East,1.977850522614789,12,3,9,0,-10.248,Shawn Elliott,False,27.0,37.0,-10.0
+2024,2247,Georgia State,fbs,Sun Belt,East,1.977850522614789,12,3,9,0,-10.248,Shawn Elliott,False,27.0,35.0,-8.0
 2022,59,Georgia Tech,fbs,ACC,Coastal,3.684522199634893,12,5,7,0,-3.476,Geoff Collins,True,16.0,20.0,-4.0
-2023,59,Georgia Tech,fbs,ACC,Coastal,5.721089519848352,13,7,6,0,3.049,Brent Key,False,12.0,33.0,-21.0
-2024,59,Georgia Tech,fbs,ACC,,8.299482815850844,13,7,6,0,7.402,Brent Key,False,23.0,32.0,-9.0
+2023,59,Georgia Tech,fbs,ACC,Coastal,5.721089519848352,13,7,6,0,3.049,Brent Key,False,12.0,31.0,-19.0
+2024,59,Georgia Tech,fbs,ACC,,8.299482815850844,13,7,6,0,7.402,Brent Key,False,23.0,31.0,-8.0
 2022,2755,Grambling,fcs,SWAC,West,1.658698652363663,11,3,8,0,,,False,2.0,3.0,-1.0
 2023,2755,Grambling,fcs,SWAC,West,3.34322471270622,11,5,6,0,,,False,10.0,12.0,-2.0
 2024,2755,Grambling,fcs,SWAC,West,3.28555597070419,12,5,7,0,,,False,4.0,5.0,-1.0
@@ -234,13 +234,13 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,108,Harvard,fcs,Ivy,,6.362051819171635,10,8,2,0,,,False,0.0,9.0,-9.0
 2024,108,Harvard,fcs,Ivy,,7.140523984162304,10,8,2,0,,,False,0.0,10.0,-10.0
 2022,62,Hawai'i,fbs,Mountain West,West,2.9155671643628924,13,3,10,0,-19.508,Timmy Chang,False,8.0,9.0,-1.0
-2023,62,Hawai'i,fbs,Mountain West,West,3.9713952343657537,13,5,8,0,-14.93,Timmy Chang,False,6.0,11.0,-5.0
-2024,62,Hawai'i,fbs,Mountain West,,5.3011440218501615,12,5,7,0,-11.741,Timmy Chang,False,13.0,25.0,-12.0
+2023,62,Hawai'i,fbs,Mountain West,West,3.9713952343657537,13,5,8,0,-14.93,Timmy Chang,False,6.0,10.0,-4.0
+2024,62,Hawai'i,fbs,Mountain West,,5.3011440218501615,12,5,7,0,-11.741,Timmy Chang,False,13.0,23.0,-10.0
 2022,107,Holy Cross,fcs,Patriot,,8.70978908560281,13,12,1,0,,,False,0.0,2.0,-2.0
 2023,107,Holy Cross,fcs,Patriot,,6.591111083477448,11,7,4,0,,,False,0.0,8.0,-8.0
 2024,107,Holy Cross,fcs,Patriot,,7.392228181314701,12,6,6,0,,,False,3.0,8.0,-5.0
 2022,248,Houston,fbs,American Athletic,,7.952554865690328,13,8,5,0,4.061,Dana Holgorsen,False,20.0,21.0,-1.0
-2023,248,Houston,fbs,Big 12,,2.775606899817383,12,4,8,0,-2.113,Dana Holgorsen,True,27.0,34.0,-7.0
+2023,248,Houston,fbs,Big 12,,2.775606899817383,12,4,8,0,-2.113,Dana Holgorsen,True,27.0,32.0,-5.0
 2024,248,Houston,fbs,Big 12,,4.963046480468042,12,4,8,0,-3.444,Willie Fritz,False,28.0,28.0,0.0
 2022,2277,Houston Christian,fcs,Southland,,0.956822731411616,11,2,9,0,,,False,4.0,1.0,3.0
 2023,2277,Houston Christian,fcs,Southland,,5.0494846707789165,11,6,5,0,,,False,4.0,4.0,0.0
@@ -250,13 +250,13 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,47,Howard,fcs,MEAC,,3.5531196917467796,12,4,8,0,,,False,0.0,1.0,-1.0
 2022,70,Idaho,fcs,Big Sky,,4.884959962581094,12,7,5,0,,,False,,,
 2023,70,Idaho,fcs,Big Sky,,8.426868177608787,13,9,4,0,,,False,2.0,8.0,-6.0
-2024,70,Idaho,fcs,Big Sky,,7.557434909738274,14,10,4,0,,,False,8.0,20.0,-12.0
+2024,70,Idaho,fcs,Big Sky,,7.557434909738274,14,10,4,0,,,False,8.0,19.0,-11.0
 2022,304,Idaho State,fcs,Big Sky,,0.0798982339467246,11,1,10,0,,,False,1.0,2.0,-1.0
 2023,304,Idaho State,fcs,Big Sky,,1.0266924781399058,11,3,8,0,,,False,5.0,2.0,3.0
 2024,304,Idaho State,fcs,Big Sky,,2.632166071208872,12,5,7,0,,,False,6.0,6.0,0.0
 2022,356,Illinois,fbs,Big Ten,West,10.178352321979332,13,8,5,0,9.857,Bret Bielema,False,7.0,11.0,-4.0
 2023,356,Illinois,fbs,Big Ten,West,5.843894709926475,12,5,7,0,0.543,Bret Bielema,False,12.0,24.0,-12.0
-2024,356,Illinois,fbs,Big Ten,,8.468578368934404,13,10,3,0,5.208,Bret Bielema,False,18.0,24.0,-6.0
+2024,356,Illinois,fbs,Big Ten,,8.468578368934404,13,10,3,0,5.208,Bret Bielema,False,18.0,22.0,-4.0
 2022,2287,Illinois State,fcs,MVFC,,4.147435922307085,11,6,5,0,,,False,2.0,0.0,2.0
 2023,2287,Illinois State,fcs,MVFC,,6.55761863673337,11,6,5,0,,,False,4.0,1.0,3.0
 2024,2287,Illinois State,fcs,MVFC,,8.824562256663516,14,10,4,0,,,False,7.0,6.0,1.0
@@ -264,7 +264,7 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2916,Incarnate Word,fcs,Southland,,7.282727945505266,11,9,2,0,,,False,11.0,1.0,10.0
 2024,2916,Incarnate Word,fcs,Southland,,8.883592135721559,14,11,3,0,,,False,13.0,8.0,5.0
 2022,84,Indiana,fbs,Big Ten,East,1.7430787709538371,12,4,8,0,-4.19,Tom Allen,False,23.0,24.0,-1.0
-2023,84,Indiana,fbs,Big Ten,East,4.168797102906604,12,3,9,0,-2.761,Tom Allen,True,30.0,42.0,-12.0
+2023,84,Indiana,fbs,Big Ten,East,4.168797102906604,12,3,9,0,-2.761,Tom Allen,True,30.0,39.0,-9.0
 2024,84,Indiana,fbs,Big Ten,,10.765014753505865,13,11,2,0,18.73,Curt Cignetti,False,23.0,27.0,-4.0
 2022,282,Indiana State,fcs,MVFC,,3.730924424671392,11,2,9,0,,,False,1.0,0.0,1.0
 2023,282,Indiana State,fcs,MVFC,,2.4359982312468436,11,1,10,0,,,False,4.0,5.0,-1.0
@@ -280,9 +280,9 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2296,Jackson State,fcs,SWAC,East,11.418062131093633,14,12,2,0,,,False,10.0,3.0,7.0
 2022,55,Jacksonville State,fcs,Atlantic Sun,,8.091210858965267,11,9,2,0,,,True,2.0,0.0,2.0
 2023,55,Jacksonville State,fbs,Conference USA,,7.61437907610617,13,9,4,0,-3.69,Rich Rodriguez,False,19.0,14.0,5.0
-2024,55,Jacksonville State,fbs,Conference USA,,9.27395112120199,14,9,5,0,-0.913,Rich Rodriguez,False,22.0,27.0,-5.0
+2024,55,Jacksonville State,fbs,Conference USA,,9.27395112120199,14,9,5,0,-0.913,Rich Rodriguez,False,22.0,24.0,-2.0
 2022,256,James Madison,fbs,Sun Belt,East,8.426511092310333,11,8,3,0,2.371,Curt Cignetti,False,5.0,4.0,1.0
-2023,256,James Madison,fbs,Sun Belt,East,9.717090482691892,13,11,2,0,6.522,Curt Cignetti,True,26.0,23.0,3.0
+2023,256,James Madison,fbs,Sun Belt,East,9.717090482691892,13,11,2,0,6.522,Curt Cignetti,True,26.0,20.0,6.0
 2024,256,James Madison,fbs,Sun Belt,East,9.443245761734016,13,9,4,0,2.903,Bob Chesney,False,29.0,26.0,3.0
 2022,2305,Kansas,fbs,Big 12,,6.906380529269764,13,6,7,0,3.37,Lance Leipold,False,12.0,14.0,-2.0
 2023,2305,Kansas,fbs,Big 12,,10.655140268245544,13,9,4,0,9.088,Lance Leipold,False,11.0,13.0,-2.0
@@ -292,12 +292,12 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2306,Kansas State,fbs,Big 12,,9.594218856386115,13,9,4,0,11.098,Chris Klieman,False,16.0,26.0,-10.0
 2022,338,Kennesaw State,fcs,Atlantic Sun,,5.728029724060722,11,5,6,0,,,False,1.0,0.0,1.0
 2023,338,Kennesaw State,fcs,FCS Independents,,5.362481246623481,9,3,6,0,,,True,10.0,3.0,7.0
-2024,338,Kennesaw State,fbs,Conference USA,,2.0884602692478444,12,2,10,0,-21.686,Brian Bohannon,False,27.0,23.0,4.0
+2024,338,Kennesaw State,fbs,Conference USA,,2.0884602692478444,12,2,10,0,-21.686,Brian Bohannon,False,27.0,19.0,8.0
 2022,2309,Kent State,fbs,Mid-American,East,4.15433861055576,12,5,7,0,-7.012,Sean Lewis,True,7.0,17.0,-10.0
 2023,2309,Kent State,fbs,Mid-American,East,2.108804210759372,12,1,11,0,-23.961,Kenni Burns,False,16.0,17.0,-1.0
-2024,2309,Kent State,fbs,Mid-American,,1.1498040711725308,12,0,12,0,-31.206,Kenni Burns,False,12.0,30.0,-18.0
+2024,2309,Kent State,fbs,Mid-American,,1.1498040711725308,12,0,12,0,-31.206,Kenni Burns,False,12.0,27.0,-15.0
 2022,96,Kentucky,fbs,SEC,East,7.18751183710253,13,7,6,0,5.824,Mark Stoops,False,12.0,21.0,-9.0
-2023,96,Kentucky,fbs,SEC,East,6.852863456834255,13,7,6,0,7.33,Mark Stoops,False,12.0,23.0,-11.0
+2023,96,Kentucky,fbs,SEC,East,6.852863456834255,13,7,6,0,7.33,Mark Stoops,False,12.0,22.0,-10.0
 2024,96,Kentucky,fbs,SEC,,4.185662002414942,12,4,8,0,4.707,Mark Stoops,False,25.0,30.0,-5.0
 2022,99,LSU,fbs,SEC,West,8.937714291632972,14,10,4,0,17.436,Brian Kelly,False,14.0,21.0,-7.0
 2023,99,LSU,fbs,SEC,West,8.890185873099984,13,10,3,0,20.874,Brian Kelly,False,10.0,27.0,-17.0
@@ -312,8 +312,8 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2329,Lehigh,fcs,Patriot,,2.4062747675169405,11,2,9,0,,,False,0.0,1.0,-1.0
 2024,2329,Lehigh,fcs,Patriot,,8.229526412056696,13,9,4,0,,,False,1.0,0.0,1.0
 2022,2335,Liberty,fbs,FBS Independents,,7.287218048079832,13,8,5,0,-3.902,Josh Aldridge,True,13.0,14.0,-1.0
-2023,2335,Liberty,fbs,Conference USA,,12.766022655837745,14,13,1,0,3.816,Jamey Chadwell,False,18.0,18.0,0.0
-2024,2335,Liberty,fbs,Conference USA,,7.795726698362949,12,8,4,0,-6.943,Jamey Chadwell,False,20.0,28.0,-8.0
+2023,2335,Liberty,fbs,Conference USA,,12.766022655837745,14,13,1,0,3.816,Jamey Chadwell,False,18.0,17.0,1.0
+2024,2335,Liberty,fbs,Conference USA,,7.795726698362949,12,8,4,0,-6.943,Jamey Chadwell,False,20.0,27.0,-7.0
 2022,2815,Lindenwood,fcs,OVC,,3.6030518657366417,10,7,3,0,,,False,,,
 2023,2815,Lindenwood,fcs,Big South-OVC,,3.8451896496463864,10,3,7,0,,,False,3.0,0.0,3.0
 2024,2815,Lindenwood,fcs,Big South-OVC,,6.394616791343391,12,5,7,0,,,False,8.0,4.0,4.0
@@ -325,10 +325,10 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,309,Louisiana,fbs,Sun Belt,West,9.630338076900111,14,10,4,0,-0.152,Michael Desormeaux,False,5.0,12.0,-7.0
 2022,2348,Louisiana Tech,fbs,Conference USA,,3.809922057915364,12,3,9,0,-13.24,Sonny Cumbie,False,19.0,23.0,-4.0
 2023,2348,Louisiana Tech,fbs,Conference USA,,4.2065989666827726,12,3,9,0,-15.166,Sonny Cumbie,False,12.0,22.0,-10.0
-2024,2348,Louisiana Tech,fbs,Conference USA,,4.903229528055918,13,5,8,0,-10.693,Sonny Cumbie,False,9.0,33.0,-24.0
+2024,2348,Louisiana Tech,fbs,Conference USA,,4.903229528055918,13,5,8,0,-10.693,Sonny Cumbie,False,9.0,31.0,-22.0
 2022,97,Louisville,fbs,ACC,Atlantic,8.320110381938436,13,8,5,0,10.719,Deion Branch,True,26.0,25.0,1.0
 2023,97,Louisville,fbs,ACC,Atlantic,9.74858020465242,14,10,4,0,11.36,Jeff Brohm,False,28.0,29.0,-1.0
-2024,97,Louisville,fbs,ACC,,8.447919140315149,13,9,4,0,16.534,Jeff Brohm,False,30.0,30.0,0.0
+2024,97,Louisville,fbs,ACC,,8.447919140315149,13,9,4,0,16.534,Jeff Brohm,False,30.0,27.0,3.0
 2022,311,Maine,fcs,CAA,,2.7124875694506234,11,2,9,0,,,False,1.0,4.0,-3.0
 2023,311,Maine,fcs,CAA,,2.154886154880568,11,2,9,0,,,False,3.0,5.0,-2.0
 2024,311,Maine,fcs,CAA,,4.82488545130113,12,5,7,0,,,False,6.0,4.0,2.0
@@ -337,19 +337,19 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2368,Marist,fcs,Pioneer,,1.2674977435704526,11,1,10,0,,,False,,,
 2022,276,Marshall,fbs,Sun Belt,East,10.370431532011144,13,9,4,0,-0.398,Charles Huff,False,11.0,14.0,-3.0
 2023,276,Marshall,fbs,Sun Belt,East,6.2434084092360775,13,6,7,0,-5.714,Charles Huff,False,28.0,33.0,-5.0
-2024,276,Marshall,fbs,Sun Belt,East,8.377104791452176,13,10,3,0,2.784,Charles Huff,False,52.0,56.0,-4.0
+2024,276,Marshall,fbs,Sun Belt,East,8.377104791452176,13,10,3,0,2.784,Charles Huff,False,52.0,54.0,-2.0
 2022,120,Maryland,fbs,Big Ten,East,7.812368751981297,13,8,5,0,7.842,Mike Locksley,False,10.0,22.0,-12.0
 2023,120,Maryland,fbs,Big Ten,East,8.686284739437186,13,8,5,0,8.085,Mike Locksley,False,8.0,13.0,-5.0
 2024,120,Maryland,fbs,Big Ten,,3.5286025680340214,12,4,8,0,-0.535,Mike Locksley,False,15.0,31.0,-16.0
 2022,113,Massachusetts,fbs,FBS Independents,,1.690376074844485,12,1,11,0,-24.191,Don Brown,False,21.0,19.0,2.0
 2023,113,Massachusetts,fbs,FBS Independents,,4.204681253996235,12,3,9,0,-17.844,Don Brown,False,29.0,23.0,6.0
-2024,113,Massachusetts,fbs,FBS Independents,,4.768325849006023,12,2,10,0,-17.327,Don Brown,False,35.0,27.0,8.0
+2024,113,Massachusetts,fbs,FBS Independents,,4.768325849006023,12,2,10,0,-17.327,Don Brown,False,35.0,26.0,9.0
 2022,2377,McNeese,fcs,Southland,,4.520045085950471,11,4,7,0,,,False,2.0,1.0,1.0
 2023,2377,McNeese,fcs,Southland,,1.6608260052265518,11,1,10,0,,,False,12.0,1.0,11.0
 2024,2377,McNeese,fcs,Southland,,7.01224907331471,12,6,6,0,,,False,6.0,9.0,-3.0
 2022,235,Memphis,fbs,American Athletic,,7.627254270583741,13,7,6,0,4.188,Ryan Silverfield,False,19.0,26.0,-7.0
 2023,235,Memphis,fbs,American Athletic,,7.77400429979447,13,10,3,0,2.782,Ryan Silverfield,False,30.0,24.0,6.0
-2024,235,Memphis,fbs,American Athletic,,8.927476560509126,13,11,2,0,2.129,Ryan Silverfield,False,36.0,32.0,4.0
+2024,235,Memphis,fbs,American Athletic,,8.927476560509126,13,11,2,0,2.129,Ryan Silverfield,False,36.0,31.0,5.0
 2022,2382,Mercer,fcs,Southern,,7.682757404022883,11,7,4,0,,,False,2.0,0.0,2.0
 2023,2382,Mercer,fcs,Southern,,8.843657382514992,13,9,4,0,,,False,7.0,2.0,5.0
 2024,2382,Mercer,fcs,Southern,,10.22980137458105,14,11,3,0,,,False,8.0,5.0,3.0
@@ -359,24 +359,24 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2771,Merrimack,fcs,FCS Independents,,5.307658144580277,11,5,6,0,,,False,2.0,2.0,0.0
 2022,2390,Miami,fbs,ACC,Coastal,4.911148871075735,12,5,7,0,-0.466,Mario Cristobal,False,15.0,24.0,-9.0
 2023,2390,Miami,fbs,ACC,Coastal,8.383222497819775,13,7,6,0,11.169,Mario Cristobal,False,14.0,28.0,-14.0
-2024,2390,Miami,fbs,ACC,,9.993131094500134,13,10,3,0,17.338,Mario Cristobal,False,18.0,20.0,-2.0
+2024,2390,Miami,fbs,ACC,,9.993131094500134,13,10,3,0,17.338,Mario Cristobal,False,18.0,19.0,-1.0
 2022,193,Miami (OH),fbs,Mid-American,East,4.792097573859011,13,6,7,0,-11.731,Chuck Martin,False,4.0,11.0,-7.0
 2023,193,Miami (OH),fbs,Mid-American,East,8.9748380762999,14,11,3,0,-1.253,Chuck Martin,False,5.0,11.0,-6.0
 2024,193,Miami (OH),fbs,Mid-American,,7.1606374045047545,14,9,5,0,-3.352,Chuck Martin,False,16.0,12.0,4.0
 2022,130,Michigan,fbs,Big Ten,East,12.560026693449178,14,13,1,0,23.62,Jim Harbaugh,False,9.0,13.0,-4.0
 2023,130,Michigan,fbs,Big Ten,East,14.121569799064128,15,15,0,0,27.625,Jim Harbaugh,True,7.0,17.0,-10.0
-2024,130,Michigan,fbs,Big Ten,,7.61100363119269,13,8,5,0,9.382,Sherrone Moore,False,17.0,30.0,-13.0
+2024,130,Michigan,fbs,Big Ten,,7.61100363119269,13,8,5,0,9.382,Sherrone Moore,False,17.0,29.0,-12.0
 2022,127,Michigan State,fbs,Big Ten,East,3.860906254003236,12,5,7,0,5.288,Mel Tucker,True,14.0,17.0,-3.0
-2023,127,Michigan State,fbs,Big Ten,East,4.287639977155193,12,4,8,0,-3.512,Harlon Barnett,True,24.0,46.0,-22.0
+2023,127,Michigan State,fbs,Big Ten,East,4.287639977155193,12,4,8,0,-3.512,Harlon Barnett,True,24.0,41.0,-17.0
 2024,127,Michigan State,fbs,Big Ten,,4.536884775944729,12,5,7,0,-3.839,Jonathan Smith,False,23.0,23.0,0.0
 2022,2393,Middle Tennessee,fbs,Conference USA,,6.9697120688151175,13,8,5,0,-6.562,Rick Stockstill,False,9.0,8.0,1.0
-2023,2393,Middle Tennessee,fbs,Conference USA,,4.6199987892459555,12,4,8,0,-10.135,Rick Stockstill,True,12.0,30.0,-18.0
+2023,2393,Middle Tennessee,fbs,Conference USA,,4.6199987892459555,12,4,8,0,-10.135,Rick Stockstill,True,12.0,28.0,-16.0
 2024,2393,Middle Tennessee,fbs,Conference USA,,2.61457352482858,12,3,9,0,-19.398,Derek Mason,False,12.0,31.0,-19.0
 2022,135,Minnesota,fbs,Big Ten,West,9.709562045344564,13,9,4,0,11.422,P.J. Fleck,False,10.0,18.0,-8.0
 2023,135,Minnesota,fbs,Big Ten,West,6.284012992760301,13,6,7,0,-0.564,P.J. Fleck,False,12.0,18.0,-6.0
 2024,135,Minnesota,fbs,Big Ten,,8.20528757039677,13,8,5,0,9.315,P.J. Fleck,False,21.0,20.0,1.0
 2022,344,Mississippi State,fbs,SEC,West,6.883963807732934,13,9,4,0,13.237,Zach Arnett,False,13.0,27.0,-14.0
-2023,344,Mississippi State,fbs,SEC,West,4.791082871678017,12,5,7,0,0.859,Zach Arnett,True,18.0,27.0,-9.0
+2023,344,Mississippi State,fbs,SEC,West,4.791082871678017,12,5,7,0,0.859,Zach Arnett,True,18.0,26.0,-8.0
 2024,344,Mississippi State,fbs,SEC,,2.296442691976717,12,2,10,0,0.192,Jeff Lebby,False,32.0,35.0,-3.0
 2022,2400,Mississippi Valley State,fcs,SWAC,East,0.0718284628239357,11,2,9,0,,,False,2.0,0.0,2.0
 2023,2400,Mississippi Valley State,fcs,SWAC,East,2.3530724264380054,11,1,10,0,,,False,0.0,3.0,-3.0
@@ -401,46 +401,46 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2413,Morehead State,fcs,Pioneer,,5.9084874883961005,12,7,5,0,,,False,1.0,1.0,0.0
 2022,2415,Morgan State,fcs,MEAC,,3.910755103376226,11,4,7,0,,,False,2.0,0.0,2.0
 2023,2415,Morgan State,fcs,MEAC,,2.7736616566974734,11,4,6,1,,,False,3.0,0.0,3.0
-2024,2415,Morgan State,fcs,MEAC,,1.4636912660169077,12,6,6,0,,,False,2.0,2.0,0.0
+2024,2415,Morgan State,fcs,MEAC,,1.4636912660169077,12,6,6,0,,,False,2.0,1.0,1.0
 2022,93,Murray State,fcs,OVC,,2.8225181928275425,11,2,9,0,,,False,,,
 2023,93,Murray State,fcs,MVFC,,2.4477143254668055,11,2,9,0,,,False,14.0,2.0,12.0
 2024,93,Murray State,fcs,MVFC,,2.2577935723066274,12,1,11,0,,,False,3.0,5.0,-2.0
 2022,152,NC State,fbs,ACC,Atlantic,6.871235621426741,13,8,5,0,6.545,Dave Doeren,False,6.0,12.0,-6.0
-2023,152,NC State,fbs,ACC,Atlantic,8.422652449172915,13,9,4,0,6.943,Dave Doeren,False,15.0,23.0,-8.0
+2023,152,NC State,fbs,ACC,Atlantic,8.422652449172915,13,9,4,0,6.943,Dave Doeren,False,15.0,22.0,-7.0
 2024,152,NC State,fbs,ACC,,7.871416005767503,13,6,7,0,0.43,Dave Doeren,False,18.0,19.0,-1.0
 2022,2426,Navy,fbs,American Athletic,,8.608996106859646,12,4,8,0,-3.458,Ken Niumatalolo,True,0.0,3.0,-3.0
 2023,2426,Navy,fbs,American Athletic,,5.813718223734726,12,5,7,0,-12.092,Brian Newberry,False,0.0,6.0,-6.0
 2024,2426,Navy,fbs,American Athletic,,10.639224867368664,13,10,3,0,-0.331,Brian Newberry,False,0.0,5.0,-5.0
 2022,158,Nebraska,fbs,Big Ten,West,5.026819285649255,12,4,8,0,-0.651,Scott Frost,True,13.0,28.0,-15.0
 2023,158,Nebraska,fbs,Big Ten,West,8.114665478272558,12,5,7,0,0.695,Matt Rhule,False,8.0,10.0,-2.0
-2024,158,Nebraska,fbs,Big Ten,,8.110988385540308,13,7,6,0,6.154,Matt Rhule,False,15.0,40.0,-25.0
+2024,158,Nebraska,fbs,Big Ten,,8.110988385540308,13,7,6,0,6.154,Matt Rhule,False,15.0,37.0,-22.0
 2022,2440,Nevada,fbs,Mountain West,West,3.0488197584211427,12,2,10,0,-16.465,Ken Wilson,False,13.0,13.0,0.0
 2023,2440,Nevada,fbs,Mountain West,West,2.532588155921476,12,2,10,0,-19.065,Ken Wilson,True,22.0,23.0,-1.0
-2024,2440,Nevada,fbs,Mountain West,,5.588096540035893,13,3,10,0,-8.417,Jeff Choate,False,20.0,31.0,-11.0
+2024,2440,Nevada,fbs,Mountain West,,5.588096540035893,13,3,10,0,-8.417,Jeff Choate,False,20.0,30.0,-10.0
 2022,160,New Hampshire,fcs,CAA,,6.398083796895799,13,9,4,0,,,False,,,
 2023,160,New Hampshire,fcs,CAA,,4.330971056718656,11,6,5,0,,,False,0.0,2.0,-2.0
 2024,160,New Hampshire,fcs,CAA,,6.5454794831802365,13,8,5,0,,,False,2.0,3.0,-1.0
 2022,167,New Mexico,fbs,Mountain West,Mountain,2.444179443020334,12,2,10,0,-19.076,Danny Gonzales,False,14.0,17.0,-3.0
-2023,167,New Mexico,fbs,Mountain West,Mountain,4.316747674741911,12,4,8,0,-14.483,Danny Gonzales,True,28.0,26.0,2.0
-2024,167,New Mexico,fbs,Mountain West,,4.052849294625585,12,5,7,0,-10.018,Bronco Mendenhall,False,35.0,36.0,-1.0
+2023,167,New Mexico,fbs,Mountain West,Mountain,4.316747674741911,12,4,8,0,-14.483,Danny Gonzales,True,28.0,23.0,5.0
+2024,167,New Mexico,fbs,Mountain West,,4.052849294625585,12,5,7,0,-10.018,Bronco Mendenhall,False,35.0,31.0,4.0
 2022,166,New Mexico State,fbs,FBS Independents,,7.289065248229595,13,7,6,0,-14.896,Jerry Kill,False,7.0,7.0,0.0
-2023,166,New Mexico State,fbs,Conference USA,,10.336405910005048,15,10,5,0,-5.585,Jerry Kill,True,13.0,40.0,-27.0
+2023,166,New Mexico State,fbs,Conference USA,,10.336405910005048,15,10,5,0,-5.585,Jerry Kill,True,13.0,38.0,-25.0
 2024,166,New Mexico State,fbs,Conference USA,,4.6415016944541065,12,3,9,0,-20.775,Tony Sanchez,False,21.0,33.0,-12.0
 2022,2447,Nicholls,fcs,Southland,,3.1930921427019245,11,3,8,0,,,False,,,
 2023,2447,Nicholls,fcs,Southland,,6.388506076253616,12,7,5,0,,,False,2.0,1.0,1.0
 2024,2447,Nicholls,fcs,Southland,,5.882923384741713,12,4,8,0,,,False,4.0,2.0,2.0
 2022,2450,Norfolk State,fcs,MEAC,,0.6693672227560815,11,2,9,0,,,False,0.0,4.0,-4.0
 2023,2450,Norfolk State,fcs,MEAC,,3.124907836981648,11,3,8,0,,,False,2.0,1.0,1.0
-2024,2450,Norfolk State,fcs,MEAC,,4.612378594603813,12,4,8,0,,,False,7.0,5.0,2.0
+2024,2450,Norfolk State,fcs,MEAC,,4.612378594603813,12,4,8,0,,,False,7.0,3.0,4.0
 2022,2453,North Alabama,fcs,Atlantic Sun,,2.6786607215027884,11,1,10,0,,,False,3.0,1.0,2.0
 2023,2453,North Alabama,fcs,UAC,,2.3170114848956427,11,3,8,0,,,False,8.0,1.0,7.0
 2024,2453,North Alabama,fcs,UAC,,2.7910014605774403,12,3,9,0,,,False,9.0,8.0,1.0
 2022,153,North Carolina,fbs,ACC,Coastal,7.118315943121559,14,9,5,0,6.195,Mack Brown,False,10.0,18.0,-8.0
 2023,153,North Carolina,fbs,ACC,Coastal,6.94860987844693,13,8,5,0,10.237,Mack Brown,False,10.0,23.0,-13.0
-2024,153,North Carolina,fbs,ACC,,5.988871290725752,13,6,7,0,2.602,Mack Brown,False,39.0,55.0,-16.0
+2024,153,North Carolina,fbs,ACC,,5.988871290725752,13,6,7,0,2.602,Mack Brown,False,39.0,48.0,-9.0
 2022,2448,North Carolina A&T,fcs,Big South,,3.3132777584070556,11,7,4,0,,,False,2.0,4.0,-2.0
 2023,2448,North Carolina A&T,fcs,CAA,,0.5388264677257746,11,1,10,0,,,False,3.0,1.0,2.0
-2024,2448,North Carolina A&T,fcs,CAA,,1.6322320911066135,12,1,11,0,,,False,2.0,10.0,-8.0
+2024,2448,North Carolina A&T,fcs,CAA,,1.6322320911066135,12,1,11,0,,,False,2.0,7.0,-5.0
 2022,2428,North Carolina Central,fcs,MEAC,,7.824362257272715,12,10,2,0,,,False,2.0,1.0,1.0
 2023,2428,North Carolina Central,fcs,MEAC,,7.295323914620509,12,9,3,0,,,False,5.0,4.0,1.0
 2024,2428,North Carolina Central,fcs,MEAC,,6.791581337433507,11,8,3,0,,,False,0.0,3.0,-3.0
@@ -460,11 +460,11 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2458,Northern Colorado,fcs,Big Sky,,2.3769940541978203,11,0,11,0,,,False,1.0,5.0,-4.0
 2024,2458,Northern Colorado,fcs,Big Sky,,1.9703351180616535,12,1,11,0,,,False,4.0,3.0,1.0
 2022,2459,Northern Illinois,fbs,Mid-American,West,5.659617626280408,12,3,9,0,-14.204,Thomas Hammock,False,4.0,11.0,-7.0
-2023,2459,Northern Illinois,fbs,Mid-American,West,7.948583422560658,13,7,6,0,-7.254,Thomas Hammock,False,6.0,19.0,-13.0
-2024,2459,Northern Illinois,fbs,Mid-American,,10.088076587285729,13,8,5,0,-4.256,Thomas Hammock,False,5.0,26.0,-21.0
+2023,2459,Northern Illinois,fbs,Mid-American,West,7.948583422560658,13,7,6,0,-7.254,Thomas Hammock,False,6.0,18.0,-12.0
+2024,2459,Northern Illinois,fbs,Mid-American,,10.088076587285729,13,8,5,0,-4.256,Thomas Hammock,False,5.0,25.0,-20.0
 2022,2460,Northern Iowa,fcs,MVFC,,6.817896605404642,11,6,5,0,,,False,4.0,0.0,4.0
 2023,2460,Northern Iowa,fcs,MVFC,,4.626132947069042,11,6,5,0,,,False,4.0,3.0,1.0
-2024,2460,Northern Iowa,fcs,MVFC,,3.3039072427208493,12,3,9,0,,,False,4.0,6.0,-2.0
+2024,2460,Northern Iowa,fcs,MVFC,,3.3039072427208493,12,3,9,0,,,False,4.0,5.0,-1.0
 2022,77,Northwestern,fbs,Big Ten,West,3.47451668694066,12,1,11,0,-7.588,Pat Fitzgerald,True,3.0,8.0,-5.0
 2023,77,Northwestern,fbs,Big Ten,West,4.875339892516529,13,8,5,0,-0.304,David Braun,False,6.0,12.0,-6.0
 2024,77,Northwestern,fbs,Big Ten,,4.130524359166857,12,4,8,0,-5.033,David Braun,False,14.0,12.0,2.0
@@ -475,23 +475,23 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,87,Notre Dame,fbs,FBS Independents,,10.637840603697049,13,10,3,0,20.776,Marcus Freeman,False,9.0,18.0,-9.0
 2024,87,Notre Dame,fbs,FBS Independents,,13.184164567005586,16,14,2,0,25.305,Marcus Freeman,False,8.0,14.0,-6.0
 2022,195,Ohio,fbs,Mid-American,East,7.408813594852338,14,10,4,0,-5.963,Tim Albin,False,4.0,6.0,-2.0
-2023,195,Ohio,fbs,Mid-American,East,9.20340869032661,13,10,3,0,-5.037,Tim Albin,False,21.0,26.0,-5.0
+2023,195,Ohio,fbs,Mid-American,East,9.20340869032661,13,10,3,0,-5.037,Tim Albin,False,21.0,25.0,-4.0
 2024,195,Ohio,fbs,Mid-American,,10.257367454427296,14,11,3,0,-1.023,Tim Albin,False,21.0,16.0,5.0
 2022,194,Ohio State,fbs,Big Ten,East,9.809388963394197,13,11,2,0,25.771,Ryan Day,False,8.0,9.0,-1.0
-2023,194,Ohio State,fbs,Big Ten,East,10.130952321332964,13,11,2,0,27.485,Ryan Day,False,7.0,26.0,-19.0
-2024,194,Ohio State,fbs,Big Ten,,15.20301777267821,16,14,2,0,24.823,Ryan Day,False,11.0,15.0,-4.0
+2023,194,Ohio State,fbs,Big Ten,East,10.130952321332964,13,11,2,0,27.485,Ryan Day,False,7.0,25.0,-18.0
+2024,194,Ohio State,fbs,Big Ten,,15.20301777267821,16,14,2,0,24.823,Ryan Day,False,11.0,14.0,-3.0
 2022,201,Oklahoma,fbs,Big 12,,7.258832896886252,13,6,7,0,9.969,Brent Venables,False,18.0,27.0,-9.0
 2023,201,Oklahoma,fbs,Big 12,,10.88962520047889,13,10,3,0,22.492,Brent Venables,False,16.0,25.0,-9.0
-2024,201,Oklahoma,fbs,SEC,,4.97822272964347,13,6,7,0,10.943,Brent Venables,False,20.0,34.0,-14.0
+2024,201,Oklahoma,fbs,SEC,,4.97822272964347,13,6,7,0,10.943,Brent Venables,False,20.0,33.0,-13.0
 2022,197,Oklahoma State,fbs,Big 12,,5.476452362264645,13,7,6,0,6.663,Mike Gundy,False,13.0,19.0,-6.0
 2023,197,Oklahoma State,fbs,Big 12,,5.77052764029184,14,10,4,0,6.132,Mike Gundy,False,8.0,11.0,-3.0
-2024,197,Oklahoma State,fbs,Big 12,,3.2763890633687,12,3,9,0,-0.188,Mike Gundy,False,40.0,31.0,9.0
+2024,197,Oklahoma State,fbs,Big 12,,3.2763890633687,12,3,9,0,-0.188,Mike Gundy,False,40.0,30.0,10.0
 2022,295,Old Dominion,fbs,Sun Belt,East,1.5267098873951883,12,3,9,0,-10.538,Ricky Rahne,False,6.0,20.0,-14.0
 2023,295,Old Dominion,fbs,Sun Belt,East,5.413422875992956,13,6,7,0,-9.52,Ricky Rahne,False,15.0,32.0,-17.0
 2024,295,Old Dominion,fbs,Sun Belt,East,5.978360050098397,12,5,7,0,-2.342,Ricky Rahne,False,12.0,32.0,-20.0
 2022,145,Ole Miss,fbs,SEC,West,9.25705926914302,13,8,5,0,12.342,Lane Kiffin,False,25.0,38.0,-13.0
 2023,145,Ole Miss,fbs,SEC,West,9.354529777476506,13,11,2,0,15.302,Lane Kiffin,False,25.0,24.0,1.0
-2024,145,Ole Miss,fbs,SEC,,11.173295804083596,13,10,3,0,20.608,Lane Kiffin,False,28.0,30.0,-2.0
+2024,145,Ole Miss,fbs,SEC,,11.173295804083596,13,10,3,0,20.608,Lane Kiffin,False,28.0,29.0,-1.0
 2022,2483,Oregon,fbs,Pac-12,,10.520552378625103,13,10,3,0,14.225,Dan Lanning,False,15.0,34.0,-19.0
 2023,2483,Oregon,fbs,Pac-12,,12.653452222109038,14,12,2,0,25.043,Dan Lanning,False,14.0,20.0,-6.0
 2024,2483,Oregon,fbs,Big Ten,,11.512575801334169,14,13,1,0,21.125,Dan Lanning,False,11.0,14.0,-3.0
@@ -505,7 +505,7 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,219,Pennsylvania,fcs,Ivy,,6.337337535848848,10,6,4,0,,,False,1.0,5.0,-4.0
 2024,219,Pennsylvania,fcs,Ivy,,6.080729904186711,10,4,6,0,,,False,0.0,5.0,-5.0
 2022,221,Pittsburgh,fbs,ACC,Coastal,9.349578529177968,13,9,4,0,7.918,Pat Narduzzi,False,7.0,13.0,-6.0
-2023,221,Pittsburgh,fbs,ACC,Coastal,4.3186934917016195,12,3,9,0,-0.369,Pat Narduzzi,False,14.0,22.0,-8.0
+2023,221,Pittsburgh,fbs,ACC,Coastal,4.3186934917016195,12,3,9,0,-0.369,Pat Narduzzi,False,14.0,20.0,-6.0
 2024,221,Pittsburgh,fbs,ACC,,6.521596776808393,13,7,6,0,3.991,Pat Narduzzi,False,15.0,26.0,-11.0
 2022,2502,Portland State,fcs,Big Sky,,5.086837340324562,11,4,7,0,,,False,4.0,0.0,4.0
 2023,2502,Portland State,fcs,Big Sky,,4.133802299578327,11,5,6,0,,,False,8.0,4.0,4.0
@@ -521,13 +521,13 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,163,Princeton,fcs,Ivy,,1.789836101192068,10,3,7,0,,,False,1.0,7.0,-6.0
 2022,2509,Purdue,fbs,Big Ten,West,6.460504799625862,14,8,6,0,4.283,Brian Brohm,True,15.0,25.0,-10.0
 2023,2509,Purdue,fbs,Big Ten,West,5.206786173050185,12,4,8,0,-0.634,Ryan Walters,False,18.0,28.0,-10.0
-2024,2509,Purdue,fbs,Big Ten,,2.1867086428319564,12,1,11,0,-13.836,Ryan Walters,False,51.0,56.0,-5.0
+2024,2509,Purdue,fbs,Big Ten,,2.1867086428319564,12,1,11,0,-13.836,Ryan Walters,False,51.0,54.0,-3.0
 2022,227,Rhode Island,fcs,CAA,,7.1030977660017305,11,7,4,0,,,False,4.0,3.0,1.0
 2023,227,Rhode Island,fcs,CAA,,2.024714121743227,11,6,5,0,,,False,5.0,2.0,3.0
 2024,227,Rhode Island,fcs,CAA,,8.653167621045464,14,11,3,0,,,False,11.0,2.0,9.0
 2022,242,Rice,fbs,Conference USA,,5.1501491988443755,13,5,8,0,-14.078,Mike Bloomgren,False,5.0,4.0,1.0
 2023,242,Rice,fbs,American Athletic,,5.333376090068548,13,6,7,0,-3.93,Mike Bloomgren,True,10.0,3.0,7.0
-2024,242,Rice,fbs,American Athletic,,3.4177199987229425,12,4,8,0,-8.58,Pete Alamar,False,11.0,21.0,-10.0
+2024,242,Rice,fbs,American Athletic,,3.4177199987229425,12,4,8,0,-8.58,Pete Alamar,False,11.0,19.0,-8.0
 2022,257,Richmond,fcs,CAA,,8.710602987365014,13,9,4,0,,,False,0.0,5.0,-5.0
 2023,257,Richmond,fcs,CAA,,6.246527332255188,13,9,4,0,,,False,0.0,3.0,-3.0
 2024,257,Richmond,fcs,CAA,,7.453929855906346,13,10,3,0,,,False,3.0,10.0,-7.0
@@ -536,7 +536,7 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2523,Robert Morris,fcs,NEC,,6.962986172505178,12,7,5,0,,,False,8.0,5.0,3.0
 2022,164,Rutgers,fbs,Big Ten,East,4.850608864250418,12,4,8,0,-7.796,Greg Schiano,False,7.0,12.0,-5.0
 2023,164,Rutgers,fbs,Big Ten,East,6.343079326395482,13,7,6,0,2.552,Greg Schiano,False,6.0,15.0,-9.0
-2024,164,Rutgers,fbs,Big Ten,,6.757048603830634,13,7,6,0,3.857,Greg Schiano,False,19.0,23.0,-4.0
+2024,164,Rutgers,fbs,Big Ten,,6.757048603830634,13,7,6,0,3.857,Greg Schiano,False,19.0,22.0,-3.0
 2022,2545,SE Louisiana,fcs,Southland,,6.197541213777778,13,9,4,0,,,False,2.0,3.0,-1.0
 2023,2545,SE Louisiana,fcs,Southland,,4.192723290731533,11,3,8,0,,,False,1.0,4.0,-3.0
 2024,2545,SE Louisiana,fcs,Southland,,5.176372378322957,12,7,5,0,,,False,,,
@@ -551,7 +551,7 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2529,Sacred Heart,fcs,FCS Independents,,6.26206686122793,11,5,6,0,,,False,1.0,3.0,-2.0
 2022,2534,Sam Houston,fcs,Western Athletic,,3.4509458255225174,9,5,4,0,,,True,5.0,1.0,4.0
 2023,2534,Sam Houston,fbs,Conference USA,,3.53272730471506,12,3,9,0,-14.085,K.C. Keeler,True,12.0,5.0,7.0
-2024,2534,Sam Houston,fbs,Conference USA,,7.057325119162935,13,10,3,0,-6.961,Brad Cornelsen,False,26.0,33.0,-7.0
+2024,2534,Sam Houston,fbs,Conference USA,,7.057325119162935,13,10,3,0,-6.961,Brad Cornelsen,False,26.0,30.0,-4.0
 2022,2535,Samford,fcs,Southern,,7.5415111508917745,13,11,2,0,,,False,1.0,0.0,1.0
 2023,2535,Samford,fcs,Southern,,5.204667748176611,11,6,5,0,,,False,7.0,3.0,4.0
 2024,2535,Samford,fcs,Southern,,4.214018550502499,12,4,7,1,,,False,11.0,7.0,4.0
@@ -560,13 +560,13 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,301,San Diego,fcs,Pioneer,,7.793670472251307,11,8,3,0,,,False,4.0,0.0,4.0
 2022,21,San Diego State,fbs,Mountain West,West,7.5563502323064515,13,7,6,0,-5.387,Brady Hoke,False,5.0,13.0,-8.0
 2023,21,San Diego State,fbs,Mountain West,West,5.639138927369647,12,4,8,0,-10.899,Brady Hoke,True,24.0,36.0,-12.0
-2024,21,San Diego State,fbs,Mountain West,,3.5039869240676653,12,3,9,0,-13.599,Sean Lewis,False,19.0,25.0,-6.0
+2024,21,San Diego State,fbs,Mountain West,,3.5039869240676653,12,3,9,0,-13.599,Sean Lewis,False,19.0,23.0,-4.0
 2022,23,San José State,fbs,Mountain West,West,5.503003438066545,12,7,5,0,-5.871,Brent Brennan,False,7.0,9.0,-2.0
-2023,23,San José State,fbs,Mountain West,West,7.054976053626107,13,7,6,0,0.229,Brent Brennan,True,14.0,27.0,-13.0
+2023,23,San José State,fbs,Mountain West,West,7.054976053626107,13,7,6,0,0.229,Brent Brennan,True,14.0,25.0,-11.0
 2024,23,San José State,fbs,Mountain West,,6.2596128897058225,13,7,6,0,-5.133,Ken Niumatalolo,False,13.0,16.0,-3.0
 2022,6,South Alabama,fbs,Sun Belt,West,10.263201454416196,13,10,3,0,-1.447,Kane Wommack,False,9.0,4.0,5.0
-2023,6,South Alabama,fbs,Sun Belt,West,7.771549249783735,13,7,6,0,0.785,Kane Wommack,True,15.0,16.0,-1.0
-2024,6,South Alabama,fbs,Sun Belt,West,7.901882477744811,13,7,6,0,0.261,Major Applewhite,False,23.0,24.0,-1.0
+2023,6,South Alabama,fbs,Sun Belt,West,7.771549249783735,13,7,6,0,0.785,Kane Wommack,True,15.0,15.0,0.0
+2024,6,South Alabama,fbs,Sun Belt,West,7.901882477744811,13,7,6,0,0.261,Major Applewhite,False,23.0,22.0,1.0
 2022,2579,South Carolina,fbs,SEC,East,6.840453841147032,13,8,5,0,4.416,Shane Beamer,False,10.0,17.0,-7.0
 2023,2579,South Carolina,fbs,SEC,East,5.604162594441235,12,5,7,0,6.054,Shane Beamer,False,22.0,26.0,-4.0
 2024,2579,South Carolina,fbs,SEC,,10.006863300044262,13,9,4,0,14.834,Shane Beamer,False,18.0,24.0,-6.0
@@ -580,8 +580,8 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2571,South Dakota State,fcs,MVFC,,13.10620751977494,15,15,0,0,,,False,2.0,0.0,2.0
 2024,2571,South Dakota State,fcs,MVFC,,11.851943352734397,15,12,3,0,,,False,13.0,21.0,-8.0
 2022,58,South Florida,fbs,American Athletic,,3.3903067784797445,12,1,11,0,-10.481,Daniel Da Prato,True,19.0,26.0,-7.0
-2023,58,South Florida,fbs,American Athletic,,6.797797443628671,13,7,6,0,-9.854,Alex Golesh,False,14.0,21.0,-7.0
-2024,58,South Florida,fbs,American Athletic,,6.759114997222183,13,7,6,0,-3.472,Alex Golesh,False,23.0,25.0,-2.0
+2023,58,South Florida,fbs,American Athletic,,6.797797443628671,13,7,6,0,-9.854,Alex Golesh,False,14.0,20.0,-6.0
+2024,58,South Florida,fbs,American Athletic,,6.759114997222183,13,7,6,0,-3.472,Alex Golesh,False,23.0,24.0,-1.0
 2022,2546,Southeast Missouri State,fcs,OVC,,7.63052355630712,12,9,3,0,,,False,0.0,3.0,-3.0
 2023,2546,Southeast Missouri State,fcs,Big South-OVC,,5.238729079073407,11,4,7,0,,,False,3.0,2.0,1.0
 2024,2546,Southeast Missouri State,fcs,Big South-OVC,,6.7048879201584235,13,9,4,0,,,False,5.0,5.0,0.0
@@ -590,10 +590,10 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2582,Southern,fcs,SWAC,West,5.850503534227803,13,8,5,0,,,False,2.0,6.0,-4.0
 2022,79,Southern Illinois,fcs,MVFC,,6.291809229178552,11,5,6,0,,,False,2.0,2.0,0.0
 2023,79,Southern Illinois,fcs,MVFC,,8.12905288720143,13,8,5,0,,,False,6.0,4.0,2.0
-2024,79,Southern Illinois,fcs,MVFC,,4.157093864282836,12,4,8,0,,,False,3.0,9.0,-6.0
+2024,79,Southern Illinois,fcs,MVFC,,4.157093864282836,12,4,8,0,,,False,3.0,8.0,-5.0
 2022,2572,Southern Miss,fbs,Sun Belt,West,6.896306654106202,13,7,6,0,-6.085,Will Hall,False,8.0,6.0,2.0
 2023,2572,Southern Miss,fbs,Sun Belt,West,4.140541627917707,12,3,9,0,-14.169,Will Hall,False,17.0,7.0,10.0
-2024,2572,Southern Miss,fbs,Sun Belt,West,1.5151647558977213,12,1,11,0,-21.712,Will Hall,False,52.0,42.0,10.0
+2024,2572,Southern Miss,fbs,Sun Belt,West,1.5151647558977213,12,1,11,0,-21.712,Will Hall,False,52.0,41.0,11.0
 2022,253,Southern Utah,fcs,Western Athletic,,4.050117472271147,11,5,6,0,,,False,1.0,5.0,-4.0
 2023,253,Southern Utah,fcs,UAC,,6.302664031397204,11,6,5,0,,,False,4.0,1.0,3.0
 2024,253,Southern Utah,fcs,UAC,,7.211093555712421,12,7,5,0,,,False,7.0,7.0,0.0
@@ -608,7 +608,7 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,24,Stanford,fbs,ACC,,3.810818710546931,12,3,9,0,-5.299,Troy Taylor,False,17.0,27.0,-10.0
 2022,2617,Stephen F. Austin,fcs,Western Athletic,,4.8191585199453115,11,6,5,0,,,False,3.0,2.0,1.0
 2023,2617,Stephen F. Austin,fcs,UAC,,4.107713412527595,11,3,8,0,,,False,15.0,3.0,12.0
-2024,2617,Stephen F. Austin,fcs,Southland,,6.486684261007166,12,7,5,0,,,False,10.0,4.0,6.0
+2024,2617,Stephen F. Austin,fcs,Southland,,6.486684261007166,12,7,5,0,,,False,10.0,3.0,7.0
 2022,56,Stetson,fcs,Pioneer,,2.0477414147616413,11,4,6,1,,,False,,,
 2023,56,Stetson,fcs,Pioneer,,0.6460126776329128,11,3,8,0,,,False,2.0,1.0,1.0
 2024,56,Stetson,fcs,Pioneer,,2.0413025122741875,12,2,9,1,,,False,2.0,2.0,0.0
@@ -617,19 +617,19 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,284,Stonehill,fcs,NEC,,1.5124897157388246,11,1,10,0,,,False,,,
 2022,2619,Stony Brook,fcs,CAA,,2.714713008433999,11,2,9,0,,,False,7.0,2.0,5.0
 2023,2619,Stony Brook,fcs,CAA,,0.6487516296028543,11,0,10,1,,,False,1.0,1.0,0.0
-2024,2619,Stony Brook,fcs,CAA,,6.1406567783482355,12,8,4,0,,,False,4.0,3.0,1.0
+2024,2619,Stony Brook,fcs,CAA,,6.1406567783482355,12,8,4,0,,,False,4.0,2.0,2.0
 2022,183,Syracuse,fbs,ACC,Atlantic,6.247216096987285,13,7,6,0,5.084,Dino Babers,False,9.0,15.0,-6.0
-2023,183,Syracuse,fbs,ACC,Atlantic,6.109475485787092,13,6,7,0,2.396,Dino Babers,True,19.0,29.0,-10.0
-2024,183,Syracuse,fbs,ACC,,6.149897698376089,13,10,3,0,3.99,Fran Brown,False,16.0,26.0,-10.0
+2023,183,Syracuse,fbs,ACC,Atlantic,6.109475485787092,13,6,7,0,2.396,Dino Babers,True,19.0,28.0,-9.0
+2024,183,Syracuse,fbs,ACC,,6.149897698376089,13,10,3,0,3.99,Fran Brown,False,16.0,24.0,-8.0
 2022,2628,TCU,fbs,Big 12,,10.324848578954755,15,13,2,0,14.378,Sonny Dykes,False,13.0,17.0,-4.0
-2023,2628,TCU,fbs,Big 12,,6.209705223056343,12,5,7,0,9.511,Sonny Dykes,False,23.0,20.0,3.0
-2024,2628,TCU,fbs,Big 12,,8.906212192410981,13,9,4,0,8.023,Sonny Dykes,False,11.0,19.0,-8.0
+2023,2628,TCU,fbs,Big 12,,6.209705223056343,12,5,7,0,9.511,Sonny Dykes,False,23.0,19.0,4.0
+2024,2628,TCU,fbs,Big 12,,8.906212192410981,13,9,4,0,8.023,Sonny Dykes,False,11.0,18.0,-7.0
 2022,2627,Tarleton State,fcs,Western Athletic,,5.392004029747148,11,6,5,0,,,False,2.0,2.0,0.0
 2023,2627,Tarleton State,fcs,UAC,,6.768794913674509,11,8,3,0,,,False,2.0,2.0,0.0
-2024,2627,Tarleton State,fcs,UAC,,10.607905886973771,14,10,4,0,,,False,6.0,2.0,4.0
+2024,2627,Tarleton State,fcs,UAC,,10.607905886973771,14,10,4,0,,,False,6.0,1.0,5.0
 2022,218,Temple,fbs,American Athletic,,4.443983901191349,12,3,9,0,-11.777,Stan Drayton,False,11.0,28.0,-17.0
 2023,218,Temple,fbs,American Athletic,,2.847281087613609,12,3,9,0,-19.353,Stan Drayton,False,15.0,31.0,-16.0
-2024,218,Temple,fbs,American Athletic,,2.501061874077142,12,3,9,0,-18.721,Stan Drayton,False,24.0,23.0,1.0
+2024,218,Temple,fbs,American Athletic,,2.501061874077142,12,3,9,0,-18.721,Stan Drayton,False,24.0,22.0,2.0
 2022,2633,Tennessee,fbs,SEC,East,9.749081155455064,13,11,2,0,22.728,Josh Heupel,False,8.0,22.0,-14.0
 2023,2633,Tennessee,fbs,SEC,East,8.817403246997422,13,9,4,0,14.091,Josh Heupel,False,9.0,16.0,-7.0
 2024,2633,Tennessee,fbs,SEC,,9.764479085666787,13,10,3,0,20.786,Josh Heupel,False,7.0,24.0,-17.0
@@ -640,19 +640,19 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2635,Tennessee Tech,fcs,Big South-OVC,,4.0136738909417415,11,4,7,0,,,False,7.0,4.0,3.0
 2024,2635,Tennessee Tech,fcs,Big South-OVC,,6.604607092379615,12,7,5,0,,,False,12.0,4.0,8.0
 2022,251,Texas,fbs,Big 12,,9.791174312752483,13,8,5,0,19.379,Steve Sarkisian,False,5.0,20.0,-15.0
-2023,251,Texas,fbs,Big 12,,11.296934751329628,14,12,2,0,23.196,Steve Sarkisian,False,10.0,25.0,-15.0
+2023,251,Texas,fbs,Big 12,,11.296934751329628,14,12,2,0,23.196,Steve Sarkisian,False,10.0,24.0,-14.0
 2024,251,Texas,fbs,SEC,,12.344395372482223,16,13,3,0,26.107,Steve Sarkisian,False,11.0,13.0,-2.0
 2022,245,Texas A&M,fbs,SEC,West,4.6657725755918635,12,5,7,0,7.2,Jimbo Fisher,False,13.0,32.0,-19.0
-2023,245,Texas A&M,fbs,SEC,West,8.414501282881327,13,7,6,0,15.36,Jimbo Fisher,True,26.0,32.0,-6.0
+2023,245,Texas A&M,fbs,SEC,West,8.414501282881327,13,7,6,0,15.36,Jimbo Fisher,True,26.0,30.0,-4.0
 2024,245,Texas A&M,fbs,SEC,,8.231245363251418,13,8,5,0,14.297,Mike Elko,False,13.0,30.0,-17.0
 2022,2640,Texas Southern,fcs,SWAC,West,5.375069102064609,11,5,6,0,,,False,2.0,1.0,1.0
 2023,2640,Texas Southern,fcs,SWAC,West,1.7343992996461657,11,3,8,0,,,False,6.0,2.0,4.0
 2024,2640,Texas Southern,fcs,SWAC,West,5.369197759161259,11,5,6,0,,,False,4.0,8.0,-4.0
 2022,326,Texas State,fbs,Sun Belt,West,4.443363952073579,12,4,8,0,-12.869,Jake Spavital,True,37.0,24.0,13.0
 2023,326,Texas State,fbs,Sun Belt,West,8.479230792898626,13,8,5,0,-8.459,G.J. Kinne,False,30.0,22.0,8.0
-2024,326,Texas State,fbs,Sun Belt,West,8.589085210810687,13,8,5,0,2.247,G.J. Kinne,False,34.0,34.0,0.0
+2024,326,Texas State,fbs,Sun Belt,West,8.589085210810687,13,8,5,0,2.247,G.J. Kinne,False,34.0,33.0,1.0
 2022,2641,Texas Tech,fbs,Big 12,,6.383732635580702,13,8,5,0,8.326,Joey McGuire,False,7.0,18.0,-11.0
-2023,2641,Texas Tech,fbs,Big 12,,6.04586070190089,13,7,6,0,6.237,Joey McGuire,False,16.0,24.0,-8.0
+2023,2641,Texas Tech,fbs,Big 12,,6.04586070190089,13,7,6,0,6.237,Joey McGuire,False,16.0,23.0,-7.0
 2024,2641,Texas Tech,fbs,Big 12,,5.98720107064572,13,8,5,0,6.204,Joey McGuire,False,21.0,24.0,-3.0
 2022,2643,The Citadel,fcs,Southern,,5.802981593388418,11,4,7,0,,,False,,,
 2023,2643,The Citadel,fcs,Southern,,1.4691874979100688,11,0,11,0,,,False,1.0,0.0,1.0
@@ -667,14 +667,14 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2653,Troy,fbs,Sun Belt,West,10.079827670218418,14,11,3,0,5.742,Greg Gasparato,True,10.0,23.0,-13.0
 2024,2653,Troy,fbs,Sun Belt,West,6.4430176126277665,12,4,8,0,-7.249,Gerad Parker,False,4.0,12.0,-8.0
 2022,2655,Tulane,fbs,American Athletic,,10.069436737123477,14,12,2,0,9.496,Willie Fritz,False,7.0,11.0,-4.0
-2023,2655,Tulane,fbs,American Athletic,,9.914853247807606,14,11,3,0,3.05,Willie Fritz,True,22.0,26.0,-4.0
-2024,2655,Tulane,fbs,American Athletic,,9.750732842271267,14,9,5,0,10.537,Jon Sumrall,False,30.0,27.0,3.0
+2023,2655,Tulane,fbs,American Athletic,,9.914853247807606,14,11,3,0,3.05,Willie Fritz,True,22.0,24.0,-2.0
+2024,2655,Tulane,fbs,American Athletic,,9.750732842271267,14,9,5,0,10.537,Jon Sumrall,False,30.0,26.0,4.0
 2022,202,Tulsa,fbs,American Athletic,,4.999757325228414,12,5,7,0,-4.107,Philip Montgomery,True,8.0,11.0,-3.0
 2023,202,Tulsa,fbs,American Athletic,,5.364906297901139,12,4,8,0,-13.345,Kevin Wilson,True,12.0,24.0,-12.0
-2024,202,Tulsa,fbs,American Athletic,,3.136740737611128,12,3,9,0,-23.104,Ryan Switzer,False,31.0,34.0,-3.0
+2024,202,Tulsa,fbs,American Athletic,,3.136740737611128,12,3,9,0,-23.104,Ryan Switzer,False,31.0,26.0,5.0
 2022,5,UAB,fbs,Conference USA,,9.223410176098104,13,7,6,0,0.176,Bryant Vincent,True,7.0,13.0,-6.0
 2023,5,UAB,fbs,American Athletic,,6.126876907002459,12,4,8,0,-10.908,Trent Dilfer,False,19.0,21.0,-2.0
-2024,5,UAB,fbs,American Athletic,,4.587440342212202,12,3,9,0,-12.74,Trent Dilfer,False,29.0,37.0,-8.0
+2024,5,UAB,fbs,American Athletic,,4.587440342212202,12,3,9,0,-12.74,Trent Dilfer,False,29.0,31.0,-2.0
 2022,399,UAlbany,fcs,CAA,,3.6424048258405177,11,3,8,0,,,False,1.0,1.0,0.0
 2023,399,UAlbany,fcs,CAA,,8.334947323398282,15,11,4,0,,,False,7.0,4.0,3.0
 2024,399,UAlbany,fcs,CAA,,2.076625908255683,12,4,8,0,,,False,,,
@@ -683,34 +683,34 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,302,UC Davis,fcs,Big Sky,,9.364472457081732,14,11,3,0,,,False,9.0,2.0,7.0
 2022,2116,UCF,fbs,American Athletic,,8.575552106388,14,9,5,0,6.904,Gus Malzahn,False,18.0,19.0,-1.0
 2023,2116,UCF,fbs,Big 12,,9.300313107028485,13,6,7,0,9.736,Gus Malzahn,False,25.0,26.0,-1.0
-2024,2116,UCF,fbs,Big 12,,7.383046939154127,12,4,8,0,5.283,Gus Malzahn,False,38.0,50.0,-12.0
+2024,2116,UCF,fbs,Big 12,,7.383046939154127,12,4,8,0,5.283,Gus Malzahn,False,38.0,46.0,-8.0
 2022,26,UCLA,fbs,Pac-12,,9.786850718124285,13,9,4,0,8.553,Chip Kelly,False,14.0,7.0,7.0
-2023,26,UCLA,fbs,Pac-12,,8.61597362323131,13,8,5,0,7.056,Chip Kelly,True,21.0,20.0,1.0
-2024,26,UCLA,fbs,Big Ten,,5.220820764547191,12,5,7,0,2.781,Deshaun Foster,False,30.0,35.0,-5.0
+2023,26,UCLA,fbs,Pac-12,,8.61597362323131,13,8,5,0,7.056,Chip Kelly,True,21.0,17.0,4.0
+2024,26,UCLA,fbs,Big Ten,,5.220820764547191,12,5,7,0,2.781,Deshaun Foster,False,30.0,34.0,-4.0
 2022,41,UConn,fbs,FBS Independents,,6.266431161912275,13,6,7,0,-14.733,Jim Mora,False,12.0,10.0,2.0
-2023,41,UConn,fbs,FBS Independents,,3.616995477203681,12,3,9,0,-15.874,Jim Mora,False,24.0,20.0,4.0
-2024,41,UConn,fbs,FBS Independents,,9.164834146277462,13,9,4,0,-3.325,Jim Mora,False,23.0,22.0,1.0
+2023,41,UConn,fbs,FBS Independents,,3.616995477203681,12,3,9,0,-15.874,Jim Mora,False,24.0,19.0,5.0
+2024,41,UConn,fbs,FBS Independents,,9.164834146277462,13,9,4,0,-3.325,Jim Mora,False,23.0,19.0,4.0
 2022,2433,UL Monroe,fbs,Sun Belt,West,2.932622848605087,12,4,8,0,-13.687,Terry Bowden,False,7.0,21.0,-14.0
 2023,2433,UL Monroe,fbs,Sun Belt,West,1.3038651471992004,12,2,10,0,-19.6,Terry Bowden,True,16.0,25.0,-9.0
-2024,2433,UL Monroe,fbs,Sun Belt,West,5.1850684390796005,12,5,7,0,-11.333,Bryant Vincent,False,14.0,22.0,-8.0
+2024,2433,UL Monroe,fbs,Sun Belt,West,5.1850684390796005,12,5,7,0,-11.333,Bryant Vincent,False,14.0,21.0,-7.0
 2022,2439,UNLV,fbs,Mountain West,West,5.649057691845799,12,5,7,0,-10.768,Marcus Arroyo,True,9.0,18.0,-9.0
 2023,2439,UNLV,fbs,Mountain West,West,8.35712683027659,14,9,5,0,-1.823,Barry Odom,False,19.0,19.0,0.0
-2024,2439,UNLV,fbs,Mountain West,,10.928636756589317,14,11,3,0,5.991,Barry Odom,False,40.0,43.0,-3.0
+2024,2439,UNLV,fbs,Mountain West,,10.928636756589317,14,11,3,0,5.991,Barry Odom,False,39.0,40.0,-1.0
 2022,30,USC,fbs,Pac-12,,9.836385439453885,14,11,3,0,13.164,Lincoln Riley,False,16.0,21.0,-5.0
 2023,30,USC,fbs,Pac-12,,6.2600445580270625,13,8,5,0,13.091,Lincoln Riley,False,16.0,29.0,-13.0
-2024,30,USC,fbs,Big Ten,,6.6266730506343725,13,7,6,0,13.269,Lincoln Riley,False,15.0,28.0,-13.0
+2024,30,USC,fbs,Big Ten,,6.6266730506343725,13,7,6,0,13.269,Lincoln Riley,False,15.0,27.0,-12.0
 2022,2630,UT Martin,fcs,OVC,,6.8360916278096315,11,7,4,0,,,False,1.0,1.0,0.0
 2023,2630,UT Martin,fcs,Big South-OVC,,7.422125890236519,11,8,3,0,,,False,11.0,5.0,6.0
 2024,2630,UT Martin,fcs,Big South-OVC,,9.502854091098884,14,9,5,0,,,False,8.0,7.0,1.0
 2022,2638,UTEP,fbs,Conference USA,,4.494274713124155,12,5,7,0,-11.393,Dana Dimel,False,2.0,5.0,-3.0
-2023,2638,UTEP,fbs,Conference USA,,4.653267694648889,12,3,9,0,-14.68,Dana Dimel,True,27.0,38.0,-11.0
+2023,2638,UTEP,fbs,Conference USA,,4.653267694648889,12,3,9,0,-14.68,Dana Dimel,True,27.0,37.0,-10.0
 2024,2638,UTEP,fbs,Conference USA,,4.497080439568821,12,3,9,0,-19.407,Scotty Walden,False,26.0,39.0,-13.0
 2022,2636,UTSA,fbs,Conference USA,,9.775110014725774,14,11,3,0,3.336,Jeff Traylor,False,8.0,13.0,-5.0
 2023,2636,UTSA,fbs,American Athletic,,9.093620246043988,13,9,4,0,1.111,Jeff Traylor,False,15.0,12.0,3.0
 2024,2636,UTSA,fbs,American Athletic,,7.451140420531065,13,7,6,0,-5.581,Jeff Traylor,False,20.0,20.0,0.0
 2022,254,Utah,fbs,Pac-12,,9.62514945020242,14,10,4,0,19.146,Kyle Whittingham,False,9.0,19.0,-10.0
 2023,254,Utah,fbs,Pac-12,,8.74529921971851,13,8,5,0,10.768,Kyle Whittingham,False,11.0,24.0,-13.0
-2024,254,Utah,fbs,Big 12,,6.636350929869128,12,5,7,0,5.029,Kyle Whittingham,False,21.0,33.0,-12.0
+2024,254,Utah,fbs,Big 12,,6.636350929869128,12,5,7,0,5.029,Kyle Whittingham,False,21.0,32.0,-11.0
 2022,328,Utah State,fbs,Mountain West,Mountain,5.616414921447496,13,6,7,0,-11.489,Blake Anderson,False,7.0,21.0,-14.0
 2023,328,Utah State,fbs,Mountain West,Mountain,6.337432901954777,13,6,7,0,-7.651,Blake Anderson,False,20.0,26.0,-6.0
 2024,328,Utah State,fbs,Mountain West,,5.045168449018577,12,4,8,0,-10.773,Blake Anderson,False,24.0,38.0,-14.0
@@ -724,13 +724,13 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2674,Valparaiso,fcs,Pioneer,,2.8572073133618745,11,3,8,0,,,False,0.0,1.0,-1.0
 2024,2674,Valparaiso,fcs,Pioneer,,3.2049262662296223,12,4,7,1,,,False,0.0,2.0,-2.0
 2022,238,Vanderbilt,fbs,SEC,East,4.84516554793668,12,5,7,0,-6.834,Clark Lea,False,3.0,13.0,-10.0
-2023,238,Vanderbilt,fbs,SEC,East,1.3351751097476925,12,2,10,0,-9.102,Clark Lea,False,22.0,24.0,-2.0
+2023,238,Vanderbilt,fbs,SEC,East,1.3351751097476925,12,2,10,0,-9.102,Clark Lea,False,22.0,23.0,-1.0
 2024,238,Vanderbilt,fbs,SEC,,7.077453743282387,13,7,6,0,6.463,Clark Lea,False,20.0,21.0,-1.0
 2022,222,Villanova,fcs,CAA,,5.083687159389945,11,6,5,0,,,False,0.0,2.0,-2.0
 2023,222,Villanova,fcs,CAA,,10.1006589751137,13,10,3,0,,,False,0.0,4.0,-4.0
-2024,222,Villanova,fcs,CAA,,6.907479644254576,14,10,4,0,,,False,3.0,2.0,1.0
+2024,222,Villanova,fcs,CAA,,6.907479644254576,14,10,4,0,,,False,3.0,1.0,2.0
 2022,258,Virginia,fbs,ACC,Coastal,4.070386934757569,10,3,7,0,-3.957,Tony Elliott,False,8.0,14.0,-6.0
-2023,258,Virginia,fbs,ACC,Coastal,5.28305039795405,12,3,9,0,-5.286,Tony Elliott,False,13.0,17.0,-4.0
+2023,258,Virginia,fbs,ACC,Coastal,5.28305039795405,12,3,9,0,-5.286,Tony Elliott,False,13.0,16.0,-3.0
 2024,258,Virginia,fbs,ACC,,4.258877965863164,12,5,7,0,-1.289,Tony Elliott,False,31.0,23.0,8.0
 2022,259,Virginia Tech,fbs,ACC,Coastal,5.0060560099313465,11,3,8,0,-6.192,Brent Pry,False,9.0,21.0,-12.0
 2023,259,Virginia Tech,fbs,ACC,Coastal,7.124493280588259,13,7,6,0,4.101,Brent Pry,False,7.0,18.0,-11.0
@@ -740,20 +740,20 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2024,2681,Wagner,fcs,NEC,,4.068333395969437,12,4,8,0,,,False,1.0,2.0,-1.0
 2022,154,Wake Forest,fbs,ACC,Atlantic,8.369783449580337,13,8,5,0,7.586,Dave Clawson,False,3.0,11.0,-8.0
 2023,154,Wake Forest,fbs,ACC,Atlantic,4.234224632197234,12,4,8,0,-1.563,Dave Clawson,False,5.0,15.0,-10.0
-2024,154,Wake Forest,fbs,ACC,,4.1396489805563155,12,4,8,0,-5.059,Dave Clawson,False,33.0,27.0,6.0
+2024,154,Wake Forest,fbs,ACC,,4.1396489805563155,12,4,8,0,-5.059,Dave Clawson,False,33.0,26.0,7.0
 2022,264,Washington,fbs,Pac-12,,8.230901694511436,13,11,2,0,11.472,Kalen DeBoer,False,10.0,22.0,-12.0
-2023,264,Washington,fbs,Pac-12,,10.632341177096174,15,14,1,0,17.544,Kalen DeBoer,True,27.0,36.0,-9.0
+2023,264,Washington,fbs,Pac-12,,10.632341177096174,15,14,1,0,17.544,Kalen DeBoer,True,27.0,30.0,-3.0
 2024,264,Washington,fbs,Big Ten,,7.248212292779996,13,6,7,0,5.047,Jedd Fisch,False,18.0,32.0,-14.0
 2022,265,Washington State,fbs,Pac-12,,5.490055236697067,13,7,6,0,3.766,Jake Dickert,False,9.0,36.0,-27.0
 2023,265,Washington State,fbs,Pac-12,,5.648213428157859,12,5,7,0,3.221,Jake Dickert,False,12.0,27.0,-15.0
-2024,265,Washington State,fbs,Pac-12,,8.873875310293844,13,8,5,0,1.667,Jake Dickert,False,34.0,70.0,-36.0
+2024,265,Washington State,fbs,Pac-12,,8.873875310293844,13,8,5,0,1.667,Jake Dickert,False,34.0,60.0,-26.0
 2022,2692,Weber State,fcs,Big Sky,,9.012398408468297,13,10,3,0,,,False,2.0,5.0,-3.0
 2023,2692,Weber State,fcs,Big Sky,,4.524732560404309,11,6,5,0,,,False,5.0,7.0,-2.0
-2024,2692,Weber State,fcs,Big Sky,,6.176202675193222,12,4,8,0,,,False,7.0,8.0,-1.0
+2024,2692,Weber State,fcs,Big Sky,,6.176202675193222,12,4,8,0,,,False,6.0,8.0,-2.0
 2024,2698,West Georgia,fcs,UAC,,3.2061370908744147,11,4,7,0,,,False,5.0,9.0,-4.0
 2022,277,West Virginia,fbs,Big 12,,5.324602623833775,12,5,7,0,4.097,Neal Brown,False,14.0,22.0,-8.0
 2023,277,West Virginia,fbs,Big 12,,8.816005172762647,13,9,4,0,5.931,Neal Brown,False,13.0,25.0,-12.0
-2024,277,West Virginia,fbs,Big 12,,4.905630370385611,13,6,7,0,1.795,Neal Brown,False,51.0,50.0,1.0
+2024,277,West Virginia,fbs,Big 12,,4.905630370385611,13,6,7,0,1.795,Neal Brown,False,51.0,49.0,2.0
 2022,2717,Western Carolina,fcs,Southern,,4.322392830095871,11,6,5,0,,,False,1.0,2.0,-1.0
 2023,2717,Western Carolina,fcs,Southern,,6.765143911026888,11,7,4,0,,,False,0.0,2.0,-2.0
 2024,2717,Western Carolina,fcs,Southern,,6.4421301257301264,12,7,5,0,,,False,5.0,10.0,-5.0
@@ -761,17 +761,17 @@ Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Tot
 2023,2710,Western Illinois,fcs,MVFC,,0.1671556805425703,11,0,11,0,,,False,5.0,1.0,4.0
 2024,2710,Western Illinois,fcs,Big South-OVC,,3.5330936712865575,12,4,8,0,,,False,3.0,6.0,-3.0
 2022,98,Western Kentucky,fbs,Conference USA,,8.582883913889692,14,9,5,0,5.077,Tyson Helton,False,12.0,20.0,-8.0
-2023,98,Western Kentucky,fbs,Conference USA,,6.18475319617502,13,8,5,0,-5.151,Tyson Helton,False,21.0,30.0,-9.0
-2024,98,Western Kentucky,fbs,Conference USA,,6.4133321610878635,14,8,6,0,-7.663,Tyson Helton,False,42.0,39.0,3.0
+2023,98,Western Kentucky,fbs,Conference USA,,6.18475319617502,13,8,5,0,-5.151,Tyson Helton,False,21.0,28.0,-7.0
+2024,98,Western Kentucky,fbs,Conference USA,,6.4133321610878635,14,8,6,0,-7.663,Tyson Helton,False,42.0,34.0,8.0
 2022,2711,Western Michigan,fbs,Mid-American,West,4.301971730411199,12,5,7,0,-12.495,Tim Lester,True,6.0,10.0,-4.0
 2023,2711,Western Michigan,fbs,Mid-American,West,4.468933161342783,12,4,8,0,-13.543,Lance Taylor,False,11.0,23.0,-12.0
-2024,2711,Western Michigan,fbs,Mid-American,,5.329759304646534,13,6,7,0,-10.952,Lance Taylor,False,23.0,28.0,-5.0
+2024,2711,Western Michigan,fbs,Mid-American,,5.329759304646534,13,6,7,0,-10.952,Lance Taylor,False,23.0,26.0,-3.0
 2022,2729,William & Mary,fcs,CAA,,9.209783383057088,13,11,2,0,,,False,,,
 2023,2729,William & Mary,fcs,CAA,,5.935499091732632,11,6,5,0,,,False,2.0,1.0,1.0
-2024,2729,William & Mary,fcs,CAA,,7.189391670385092,12,7,5,0,,,False,4.0,3.0,1.0
+2024,2729,William & Mary,fcs,CAA,,7.189391670385092,12,7,5,0,,,False,4.0,2.0,2.0
 2022,275,Wisconsin,fbs,Big Ten,West,8.8171866766723,13,7,6,0,8.148,Paul Chryst,True,14.0,19.0,-5.0
 2023,275,Wisconsin,fbs,Big Ten,West,6.44006280777893,13,7,6,0,6.043,Luke Fickell,False,16.0,23.0,-7.0
-2024,275,Wisconsin,fbs,Big Ten,,4.7935133967450545,12,5,7,0,4.781,Luke Fickell,False,18.0,33.0,-15.0
+2024,275,Wisconsin,fbs,Big Ten,,4.7935133967450545,12,5,7,0,4.781,Luke Fickell,False,18.0,32.0,-14.0
 2022,2747,Wofford,fcs,Southern,,2.684400866715483,11,3,8,0,,,False,0.0,3.0,-3.0
 2023,2747,Wofford,fcs,Southern,,3.0380746173928665,11,2,9,0,,,False,3.0,2.0,1.0
 2024,2747,Wofford,fcs,Southern,,4.3570215843916555,12,5,7,0,,,False,6.0,3.0,3.0

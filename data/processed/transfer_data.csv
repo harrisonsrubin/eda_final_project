@@ -5158,14 +5158,7 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Julian,Humphrey,CB,Georgia,,2024-01-03T00:27:00.000Z,,4.0,Immediate
 2024,Kyle,Williams,WR,Washington State,,2023-12-27T18:20:00.000Z,,3.0,Immediate
 2024,Jayson,Jenkins,DL,Tennessee,,2024-04-22T19:24:00.000Z,,3.0,Immediate
-2024,Tacario,Davis,CB,Arizona,,2024-01-23T16:37:00.000Z,0.92,4.0,Withdrawn
 2024,AK,Kelly,WR,Wake Forest,,2023-12-04T20:28:00.000Z,,3.0,Immediate
-2024,Devin,Sherwood,QB,Virginia,,2023-12-05T22:17:00.000Z,,,Withdrawn
-2024,Ralph,Mency,DL,Middle Tennessee,,2023-12-04T17:10:00.000Z,,3.0,Withdrawn
-2024,Tybo,Rogers,RB,Washington,,2024-01-19T06:00:00.000Z,0.88,3.0,Withdrawn
-2024,Charles,Brantley,CB,Michigan State,,2023-12-09T16:45:00.000Z,,3.0,Withdrawn
-2024,Chase,Bisontis,OT,Texas A&M,,2023-12-06T18:35:00.000Z,0.94,4.0,Withdrawn
-2024,Carl,Biddings,DL,Indiana,,2023-12-12T13:53:00.000Z,,,Withdrawn
 2024,Hunter,Vivaldi,WR,Texas A&M,,2023-09-05T17:48:00.000Z,,,Immediate
 2024,Ahmad,Nalls,LB,Kent State,,2023-10-02T17:34:00.000Z,,3.0,Immediate
 2024,Quentin,Ajiero,CB,Duke,,2024-04-29T20:16:00.000Z,,3.0,Immediate
@@ -5174,18 +5167,14 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Will,Shaffer,LB,Utah State,,2024-04-18T16:07:00.000Z,0.83,3.0,Immediate
 2024,Greyson,Morgan,TE,Hawai'i,,2023-09-27T17:35:00.000Z,,,Immediate
 2024,Moussa,Berry,WR,Western Kentucky,,2024-04-25T00:07:00.000Z,,,Immediate
-2024,Jalen,Emery,CB,Houston,,2024-04-24T23:15:00.000Z,,3.0,Withdrawn
-2024,Nate,Temple,EDGE,Pittsburgh,,2023-11-29T21:26:00.000Z,,3.0,Withdrawn
 2024,Billy,Conaway,RB,Kansas,,2024-04-17T18:52:00.000Z,,,Immediate
 2024,Da'Marcus,Cosby II,CB,Sam Houston,,2024-04-17T19:33:00.000Z,,,Immediate
 2024,Bradley,Weaver,DL,Ohio,,2024-04-23T15:27:00.000Z,,3.0,Immediate
 2024,Anthony,Madrigal,OLB,San José State,,2023-11-29T06:00:00.000Z,,2.0,Immediate
 2024,Antonio,Gates Jr.,WR,Michigan State,,2024-04-22T17:49:00.000Z,,4.0,Immediate
 2024,NyNy,Davis,WR,UL Monroe,,2024-04-17T18:45:00.000Z,,2.0,Immediate
-2024,Christian,Ellis,S,New Mexico,,2023-11-29T16:21:00.000Z,,3.0,Withdrawn
 2024,Collin,Gamble,CB,California,,2024-04-22T16:10:00.000Z,,3.0,Immediate
 2024,Clay,Nanke,EDGE,Colorado State,,2023-12-07T17:13:00.000Z,,3.0,Immediate
-2024,Malik,Dixon,S,UConn,,2023-11-30T17:49:00.000Z,,3.0,Withdrawn
 2024,George,French,OT,Pittsburgh,,2024-04-17T18:42:00.000Z,,,Immediate
 2024,Guerlens,Milfort,DL,UAB,,2024-04-17T18:40:00.000Z,,3.0,Immediate
 2024,Kadan,Lewis,DL,Arkansas State,,2024-04-17T18:35:00.000Z,,3.0,Immediate
@@ -5201,38 +5190,20 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Kiael,Kelly,QB,Ball State,,2024-04-15T20:50:00.000Z,,3.0,Immediate
 2024,Max,Marsh,QB,Kansas State,,2024-04-16T00:23:00.000Z,,3.0,Immediate
 2024,Joseph,McKay,RB,East Carolina,,2023-12-04T12:51:00.000Z,,3.0,Immediate
-2024,Tavian,Combs,S,New Mexico,,2023-11-28T15:25:00.000Z,,2.0,Withdrawn
 2024,Jeremiah,Josephs,CB,Tennessee State,,2024-04-16T20:54:00.000Z,0.84,3.0,Immediate
 2024,Major,Byrd,S,North Carolina,,2023-12-04T12:10:00.000Z,,,Immediate
-2024,Corey,Ellington,S,Mississippi State,,2023-12-07T22:02:00.000Z,,3.0,Withdrawn
-2024,Jordan,Dingle,TE,Kentucky,,2023-12-07T21:47:00.000Z,,3.0,Withdrawn
-2024,Andrew,Henry,RB,New Mexico,,2023-11-29T16:40:00.000Z,,3.0,Withdrawn
-2024,Kaidon,Salter,QB,Liberty,,2024-01-02T22:24:00.000Z,0.92,4.0,Withdrawn
-2024,Jaquez,Moore,RB,Duke,,2023-12-06T19:39:00.000Z,,3.0,Withdrawn
-2024,Bryson,Rodgers,WR,Ohio State,,2024-01-02T22:01:00.000Z,0.89,3.0,Withdrawn
 2024,Stone,Hollenbach,QB,Western Michigan,,2023-11-29T22:50:00.000Z,,2.0,Immediate
-2024,Jonathan,Bax,EDGE,TCU,,2023-12-05T20:31:00.000Z,,3.0,Withdrawn
-2024,Juan,Davis,TE,Texas,,2024-01-06T06:00:00.000Z,,3.0,Withdrawn
-2024,Brayden,Schager,QB,Hawai'i,,2023-12-06T15:23:00.000Z,,3.0,Withdrawn
-2024,Israel,Carter,QB,South Florida,,2024-01-04T18:26:00.000Z,,3.0,Withdrawn
 2024,Luke,Hamilton,RB,West Virginia,,2024-01-17T15:02:00.000Z,,,Immediate
 2024,Artez,Hooker,WR,Florida International,,2024-04-16T19:02:00.000Z,,3.0,Immediate
 2024,Dylan,Gebbia,QB,North Texas,,2024-04-16T19:00:00.000Z,,3.0,Immediate
 2024,Cevan,Edwards,DL,Memphis,,2024-04-16T18:57:00.000Z,,3.0,Immediate
-2024,Bryce,Stephens,WR,Arkansas,,2023-12-07T19:55:00.000Z,,3.0,Withdrawn
 2024,Malcolm,Pugh,DL,Georgia Tech,,2023-12-15T16:01:00.000Z,,3.0,Immediate
-2024,Jaylen,Stinson,S,Duke,,2023-11-30T21:24:00.000Z,,3.0,Withdrawn
 2024,Daniel,Harris,CB,Georgia,,2023-12-26T02:46:00.000Z,,4.0,Immediate
 2024,Darius,Gooden,CB,Massachusetts,,2024-03-25T23:10:00.000Z,0.81,3.0,Immediate
 2024,DeAndra,Burns Jr.,WR,Arkansas State,,2024-04-16T18:56:00.000Z,,3.0,Immediate
 2024,Declan,McMahon,RB,Indiana,,2024-04-16T18:54:00.000Z,,,Immediate
-2024,Cam'Ron,Valdez,RB,Texas Tech,,2023-12-09T04:52:00.000Z,,3.0,Withdrawn
-2024,Alex,Bauman,TE,Tulane,,2023-12-12T20:58:00.000Z,,3.0,Withdrawn
 2024,Grant,Bingham,OT,Kentucky,,2023-11-30T00:19:00.000Z,,4.0,Immediate
-2024,Jalil,Smith,DL,Syracuse,,2023-12-14T18:41:00.000Z,,3.0,Withdrawn
 2024,Jacob,Page,WR,Colorado,,2024-04-16T18:15:00.000Z,,3.0,Immediate
-2024,Clayton,Coll,LB,Ball State,,2023-12-01T23:11:00.000Z,0.86,3.0,Withdrawn
-2024,Tyreek,Chappell,CB,Texas A&M,,2023-12-06T23:10:00.000Z,0.88,3.0,Withdrawn
 2024,Wyatt,Anderson,IOL,Western Kentucky,,2023-12-04T18:50:00.000Z,,,Immediate
 2024,Kyle,McNamara,WR,UTEP,,2024-04-16T17:56:00.000Z,,2.0,Immediate
 2024,Tanner,Blount,LB,Fresno State,,2023-11-30T22:29:00.000Z,,,Immediate
@@ -5244,24 +5215,15 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Josh,Lee,TE,Hillsdale College,,2023-12-01T17:01:00.000Z,,,Immediate
 2024,Owen,Gibbs,LB,Heidelberg,,2023-12-01T16:56:00.000Z,,,Immediate
 2024,Rickie,Davis,CB,Western Kentucky,,2024-04-16T17:21:00.000Z,,,Immediate
-2024,Aydan,White,CB,NC State,,2024-01-03T06:00:00.000Z,,3.0,Withdrawn
 2024,Bam,Booker,EDGE,Bowling Green,,2024-04-16T15:11:00.000Z,,3.0,Immediate
 2024,Evan,Blalock,CB,UL Monroe,,2024-04-16T15:07:00.000Z,,,Immediate
 2024,Tyler,Thomas,DL,UAB,,2024-04-16T15:00:00.000Z,,,Immediate
-2024,Ethan,Ellis,OT,Middle Tennessee,,2023-12-04T19:22:00.000Z,,3.0,Withdrawn
 2024,Josh,Dixon,CB,Wyoming,,2024-04-16T14:31:00.000Z,,2.0,Immediate
 2024,Sage,Ryan,S,LSU,,2023-12-15T16:38:00.000Z,,4.0,Immediate
-2024,Donaven,McCulley,WR,Indiana,,2023-11-28T16:52:00.000Z,0.91,4.0,Withdrawn
 2024,Deonte,Stanley,CB,Middle Tennessee,,2024-04-22T18:32:00.000Z,,,Immediate
 2024,Anthony,Johnson Jr.,CB,Western Kentucky,,2024-04-16T14:02:00.000Z,0.87,3.0,Immediate
-2024,Peyton,Waters,S,Washington,,2024-01-21T06:00:00.000Z,0.89,3.0,Withdrawn
-2024,Kai,Horton,QB,Tulane,,2023-12-09T16:33:00.000Z,,3.0,Withdrawn
-2024,Raymond,Pulido,IOL,Arizona,,2024-01-18T00:13:00.000Z,0.91,4.0,Withdrawn
-2024,Justin,Benton,DL,Houston,,2023-12-12T15:03:00.000Z,,3.0,Withdrawn
-2024,Dorian,Thomas,TE,Arizona,,2024-01-17T23:50:00.000Z,,3.0,Withdrawn
 2024,Miles,Kauderer,EDGE,Marist,,2023-11-21T21:25:00.000Z,,,Immediate
 2024,Jacoby,Windmon,LB,Michigan State,,2023-12-11T15:12:00.000Z,,3.0,Immediate
-2024,Jay,Toia,DL,UCLA,,2024-04-18T18:21:00.000Z,0.9,4.0,Withdrawn
 2024,Steven,Cattledge,EDGE,Troy,,2023-12-26T21:30:00.000Z,,3.0,Immediate
 2024,Sean,Sallis,TE,Marshall,,2023-12-04T14:35:00.000Z,,3.0,Immediate
 2024,Brian,Battie,RB,Auburn,,2024-01-01T21:16:00.000Z,,3.0,Immediate
@@ -5269,17 +5231,13 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Darius,Snow,LB,Michigan State,,2023-11-27T13:28:00.000Z,,3.0,Immediate
 2024,Willie,Harts,CB,Arizona State,,2024-02-05T20:20:00.000Z,,3.0,Immediate
 2024,Je'Vaun,Dabon,S,UTSA,,2023-12-24T21:32:00.000Z,,3.0,Immediate
-2024,Demond,Arter,IOL,Ohio,,2023-12-12T15:05:00.000Z,,2.0,Withdrawn
 2024,Nolan,Matthews-Harris,TE,SMU,,2023-12-04T15:42:00.000Z,,3.0,Immediate
-2024,Shadrick,Byrd,RB,Charlotte,,2023-11-28T14:14:00.000Z,,3.0,Withdrawn
-2024,Otis,Pitts,IOL,UTEP,,2023-11-28T16:28:00.000Z,,,Withdrawn
 2024,TJ,Butler,EDGE,Charlotte,,2023-12-18T19:46:00.000Z,,3.0,Immediate
 2024,Jason,Moore,DL,Temple,,2024-04-18T12:43:00.000Z,,,Immediate
 2024,Will,Buck,EDGE,San Diego,,2023-12-04T19:49:00.000Z,,2.0,Immediate
 2024,Jonathon,Batzke,P,Toledo,,2023-12-12T14:59:00.000Z,,2.0,Immediate
 2024,Jalyn,Stanford,S,Houston,,2024-04-18T15:20:00.000Z,0.84,3.0,Immediate
 2024,Kalani,Norris,WR,Middle Tennessee,,2023-12-20T16:57:00.000Z,,3.0,Immediate
-2024,Kevo,Wesley,IOL,Vanderbilt,,2023-11-27T20:51:00.000Z,,3.0,Withdrawn
 2024,Brandon,McElroy,DL,San Diego State,,2024-04-23T18:00:00.000Z,,,Immediate
 2024,JuTahn,McClain,RB,Kentucky,,2023-12-01T18:52:00.000Z,,4.0,Immediate
 2024,Trelon,Slade,CB,Coastal Carolina,,2024-04-16T19:53:00.000Z,,,Immediate
@@ -5374,7 +5332,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Mike,Florentine,LS,Northern Illinois,,2023-12-13T17:09:00.000Z,,,Immediate
 2024,Brendon,Strickland,QB,Louisiana Tech,,2024-04-30T02:02:00.000Z,,,Immediate
 2024,Caron,Robinson,RB,Buffalo,,2024-04-30T02:01:00.000Z,,2.0,Immediate
-2024,Brandon,George,LB,Pittsburgh,,2023-11-27T22:02:00.000Z,,4.0,Withdrawn
 2024,William,Frattalone,S,Northern Iowa,,2024-04-24T00:10:00.000Z,,,Immediate
 2024,Bryce,Simpson,IOL,Baylor,,2024-04-29T21:49:00.000Z,,3.0,Immediate
 2024,Chauncey,Carter,CB,Wyoming,,2024-04-29T21:28:00.000Z,,3.0,Immediate
@@ -5407,7 +5364,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Mekhi,Fox,WR,Colorado State,,2024-04-23T17:38:00.000Z,,4.0,Immediate
 2024,Abdul-Lateef,Audu,CB,Western Kentucky,,2023-11-28T16:34:00.000Z,,3.0,Immediate
 2024,Corey,Cuascut-Palmer,WR,Temple,,2024-04-17T20:13:00.000Z,,3.0,Immediate
-2024,Keegan,Jones,WR,UCLA,,2023-11-27T06:00:00.000Z,,3.0,Withdrawn
 2024,Zyier,Thornton,EDGE,New Mexico State,,2024-04-23T17:28:00.000Z,,2.0,Immediate
 2024,Davon,Martin,CB,Arkansas State,,2024-04-23T17:25:00.000Z,,3.0,Immediate
 2024,Terrence,Spence,S,Holy Cross,,2023-11-20T18:40:00.000Z,,2.0,Immediate
@@ -5468,14 +5424,11 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Keshon,Artis,LB,Northern Illinois,,2024-04-22T13:55:00.000Z,,4.0,Immediate
 2024,Kamarro,Edmonds,RB,East Carolina,,2024-04-22T18:06:00.000Z,,4.0,Immediate
 2024,Shane,Illingworth,QB,Nevada,,2024-04-22T19:17:00.000Z,,3.0,Immediate
-2024,Jaden,Voisin,S,South Alabama,,2023-12-24T16:34:00.000Z,0.88,3.0,Withdrawn
 2024,Logan,Lester,WR,Western Michigan,,2024-04-22T20:35:00.000Z,,3.0,Immediate
 2024,Isaiah,Newell,RB,Oregon State,,2024-04-22T20:21:00.000Z,,3.0,Immediate
 2024,Mike,Franklin,RB,UTEP,,2024-04-22T20:16:00.000Z,,3.0,Immediate
 2024,Rayquon,Hartley,LB,Middle Tennessee,,2024-04-22T18:25:00.000Z,,3.0,Immediate
 2024,Sean,Brown,CB,Michigan State,,2024-04-22T18:00:00.000Z,,3.0,Immediate
-2024,Caden,Veltkamp,QB,Western Kentucky,,2023-12-04T15:36:00.000Z,,3.0,Withdrawn
-2024,Tyshawn,Wyatt,OT,James Madison,,2023-12-04T15:33:00.000Z,,3.0,Withdrawn
 2024,Darien,Clayborne,RB,Alabama,,2024-04-22T15:29:00.000Z,,,Immediate
 2024,Keylen,Gulley,CB,Eastern Michigan,,2024-04-17T18:39:00.000Z,,,Immediate
 2024,Antonio,Robinson,WR,Marshall,,2024-04-21T14:56:00.000Z,,2.0,Immediate
@@ -5500,12 +5453,10 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Grant,Tisdale,QB,TCU,,2024-04-18T14:51:00.000Z,,3.0,Immediate
 2024,Zy,Brockington,DL,Memphis,,2023-12-04T14:13:00.000Z,,3.0,Immediate
 2024,Torren,Union,S,New Mexico State,,2024-04-18T14:42:00.000Z,,,Immediate
-2024,Brandon,Baldwin,OT,Michigan State,,2023-11-29T19:16:00.000Z,,3.0,Withdrawn
 2024,Larry,Preston,CB,Florida International,,2024-04-17T14:31:00.000Z,,,Immediate
 2024,Demouy,Kennedy,LB,Colorado,,2024-04-18T14:44:00.000Z,0.86,3.0,Immediate
 2024,Dennard,Flowers,EDGE,Arkansas State,,2024-04-16T16:26:00.000Z,,3.0,Immediate
 2024,Nukuluve,Helu,RB,BYU,,2024-04-16T16:26:00.000Z,,3.0,Immediate
-2024,Carter,Smith,OT,Indiana,,2023-11-28T01:52:00.000Z,0.88,3.0,Withdrawn
 2024,Tyler,Williams,S,UTEP,,2023-11-28T01:52:00.000Z,,3.0,Immediate
 2024,Willie,Moise,DL,Coastal Carolina,,2024-04-16T16:25:00.000Z,,3.0,Immediate
 2024,Kanious,Vaughn,EDGE,Utah,,2024-04-26T20:41:00.000Z,0.86,3.0,Immediate
@@ -5515,7 +5466,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Viontay,Robinson,DL,UTEP,,2024-04-16T15:44:00.000Z,,2.0,Immediate
 2024,Rico,Arnold,WR,Georgia State,,2023-12-04T19:19:00.000Z,,2.0,Immediate
 2024,Marvin,Scott III,RB,Florida Atlantic,,2024-04-16T15:14:00.000Z,,3.0,Immediate
-2024,Khmori,House,LB,Washington,,2024-01-26T06:37:00.000Z,0.87,3.0,Withdrawn
 2024,Blake,Murphy,QB,UL Monroe,,2024-04-16T15:20:00.000Z,,3.0,Immediate
 2024,Zach,Blackwood,DL,Colorado,,2023-09-14T15:19:00.000Z,,3.0,Immediate
 2024,Charlie,Katarincic,IOL,West Virginia,,2024-04-16T15:17:00.000Z,,3.0,Immediate
@@ -5527,15 +5477,11 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Kaleb,Barnett,CB,Temple,,2024-04-16T12:16:00.000Z,,3.0,Immediate
 2024,Gensley,Auguste,DL,Temple,,2024-04-16T12:15:00.000Z,,3.0,Immediate
 2024,Eric,Reed,CB,Georgia Tech,,2024-04-15T20:23:00.000Z,,4.0,Immediate
-2024,Trayvon,Rudolph,WR,Northern Illinois,,2023-12-04T17:14:00.000Z,,3.0,Withdrawn
-2024,Miles,Davis,WR,BYU,,2023-12-07T06:00:00.000Z,,3.0,Withdrawn
-2024,Tanner,Koziol,TE,Ball State,,2023-12-04T14:36:00.000Z,0.88,3.0,Withdrawn
 2024,Jaelon,Barbarin,RB,Michigan State,,2024-04-16T12:01:00.000Z,,3.0,Immediate
 2024,Joshua,Ficklin,RB,Illinois State,,2024-04-16T11:48:00.000Z,,,Immediate
 2024,Tajae,Broadie,TE,Old Dominion,,2024-04-16T10:26:00.000Z,,3.0,Immediate
 2024,JeCareon,Lathan,CB,Old Dominion,,2024-04-06T05:00:00.000Z,,3.0,Immediate
 2024,Joseph,Solomon,IOL,App State,,2023-12-22T21:40:00.000Z,,2.0,Immediate
-2024,Trenilyas,Tatum,LB,Georgia Tech,,2023-12-28T06:00:00.000Z,,3.0,Withdrawn
 2024,Michael,Erhart,LB,Oregon State,,2024-04-15T01:07:00.000Z,,3.0,Immediate
 2024,Max,Hoskins,P,Washington State,,2024-05-02T21:09:00.000Z,,,Immediate
 2024,Kamryn,Farrar,LB,SMU,,2023-12-08T14:30:00.000Z,,3.0,Immediate
@@ -5544,10 +5490,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Muwaffaq,Parkman,RB,Syracuse,,2024-04-12T19:36:00.000Z,0.84,3.0,Immediate
 2024,Jalen,Jackson,LB,Georgia Southern,,2024-04-12T16:35:00.000Z,,2.0,Immediate
 2024,Keith,Wheeler,WR,Tulsa,,2023-12-04T16:53:00.000Z,,3.0,Immediate
-2024,Chauncey,Logan,CB,James Madison,,2023-12-05T01:45:00.000Z,,,Withdrawn
-2024,Brayden,Dorman,QB,Arizona,,2024-01-15T22:38:00.000Z,,4.0,Withdrawn
-2024,Nick,Nash,WR,San José State,,2024-01-23T06:00:00.000Z,0.9,4.0,Withdrawn
-2024,Khris,Bogle,EDGE,Michigan State,,2023-12-09T15:27:00.000Z,,4.0,Withdrawn
 2024,Landon,Samson,WR,South Carolina,,2023-12-04T20:14:00.000Z,,3.0,Immediate
 2024,Pearson,Toomey,OT,Furman,,2023-12-13T14:16:00.000Z,0.86,3.0,Immediate
 2024,Justin,Lynch,CB,Bowling Green,,2024-04-16T14:48:00.000Z,,,Immediate
@@ -5556,8 +5498,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Nick,Mosley,RB,Bowling Green,,2023-12-06T18:05:00.000Z,,3.0,Immediate
 2024,Bryce,Kissi,WR,Rutgers,,2023-12-05T22:06:00.000Z,,,Immediate
 2024,Adam,Mihalek,K,Florida,,2023-12-04T16:40:00.000Z,,,Immediate
-2024,Ryan,Smith,EDGE,Duke,,2023-12-21T15:13:00.000Z,,3.0,Withdrawn
-2024,Jamie,Felix,RB,Georgia Tech,,2023-12-04T18:19:00.000Z,,3.0,Withdrawn
 2024,Nijel,McGriff,DL,Louisiana,,2023-12-18T17:48:00.000Z,,3.0,Immediate
 2024,Thaiu,Jones-Bell,WR,Alabama,,2023-12-04T22:05:00.000Z,,4.0,Immediate
 2024,Rian,Davis,LB,UCF,,2024-04-03T22:07:00.000Z,0.85,3.0,Immediate
@@ -5571,8 +5511,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Aidan,Bitter,WR,Iowa State,,2024-04-04T22:23:00.000Z,,3.0,Immediate
 2024,Lovie,Jenkins,S,Florida A&M,,2024-04-04T19:19:00.000Z,,3.0,Immediate
 2024,Ashton,Wolff,K,Colorado State,,2023-12-20T17:01:00.000Z,,2.0,Immediate
-2024,Kristian,Phillips,IOL,Michigan State,,2023-12-09T20:16:00.000Z,,3.0,Withdrawn
-2024,Dylan,Early,S,New Mexico State,,2023-12-25T04:03:00.000Z,,2.0,Withdrawn
 2024,Tyrese,Chambers,WR,Maryland,,2023-12-20T23:30:00.000Z,,,Immediate
 2024,Derrian,Brown,RB,Texas,,2024-04-02T20:01:00.000Z,,4.0,Immediate
 2024,S'Maje,Burrell,LB,Texas,,2024-04-11T23:15:00.000Z,0.85,3.0,Immediate
@@ -5591,7 +5529,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Kade,Moore,WR,BYU,,2024-01-09T06:00:00.000Z,,2.0,Immediate
 2024,Chris,Bowerfind,LS,UCF,,2024-01-11T18:44:00.000Z,,,Immediate
 2024,Brenyen,Scott,S,Temple,,2023-12-31T15:32:00.000Z,,,Immediate
-2024,Dyson,McCutcheon,CB,Washington,,2024-01-14T18:41:00.000Z,,3.0,Withdrawn
 2024,Deshawn,McKnight,DL,App State,,2023-12-08T15:55:00.000Z,,3.0,Immediate
 2024,Darrell,Starling,S,Troy,,2023-12-08T15:55:00.000Z,,3.0,Immediate
 2024,Laine,Jenkins,EDGE,Illinois,,2024-04-16T16:49:00.000Z,,3.0,Immediate
@@ -5616,13 +5553,11 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Jesiah,Stevens-Silva,TE,Central Michigan,,2023-12-04T20:43:00.000Z,,2.0,Immediate
 2024,Mike,Ciaffoni,IOL,Rutgers,,2023-12-04T21:08:00.000Z,,3.0,Immediate
 2024,Jonathan,Patrick Jr.,WR,UTEP,,2023-12-05T15:53:00.000Z,,2.0,Immediate
-2024,Quantavious,Leslie,IOL,Western Kentucky,,2023-12-04T16:00:00.000Z,,3.0,Withdrawn
 2024,DQ,James,RB,Wyoming,,2023-12-04T16:29:00.000Z,,3.0,Immediate
 2024,Khali,Saunders,LB,Kent State,,2023-12-04T20:34:00.000Z,,3.0,Immediate
 2024,Hayden,Erickson,OT,Utah,,2023-12-04T20:52:00.000Z,,2.0,Immediate
 2024,Ethan,Presutty,WR,Old Dominion,,2023-12-04T20:52:00.000Z,,,Immediate
 2024,Travonte,O'Neal,DL,Florida International,,2023-12-05T14:37:00.000Z,,3.0,Immediate
-2024,PJ,Johnson III,WR,New Mexico State,,2023-12-05T15:11:00.000Z,,3.0,Withdrawn
 2024,Keenan,Cupit,EDGE,UCF,,2023-12-05T14:35:00.000Z,,3.0,Immediate
 2024,Shawn,Charles,WR,Arizona State,,2023-12-07T20:10:00.000Z,,,Immediate
 2024,Curtis,Roberts,LB,Florida Atlantic,,2023-12-04T15:55:00.000Z,,3.0,Immediate
@@ -5658,11 +5593,7 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Phil,Gunn,IOL,Ball State,,2023-12-30T00:15:00.000Z,,2.0,Immediate
 2024,Carlson,Joseph,RB,Florida,,2023-12-04T16:18:00.000Z,,,Immediate
 2024,Russell,Tabor,QB,North Carolina,,2023-12-04T21:00:00.000Z,,,Immediate
-2024,Abi,Nwabuoku-Okonji,DL,James Madison,,2023-12-05T01:53:00.000Z,,3.0,Withdrawn
-2024,Marquis,Cooper,CB,Buffalo,,2023-12-05T15:10:00.000Z,,,Withdrawn
-2024,DJ,Lundy,LB,Florida State,,2023-12-18T16:52:00.000Z,0.89,3.0,Withdrawn
 2024,Spencer,Curtis,WR,Nevada,,2024-03-27T05:00:00.000Z,,,Immediate
-2024,Keyan,Burnett,TE,Arizona,,2024-01-17T06:00:00.000Z,,4.0,Withdrawn
 2024,Fabian,Rogosch,EDGE,Troy,,2023-12-07T20:01:00.000Z,,,Immediate
 2024,Adam,Tomczyk,DL,Utah State,,2023-12-11T20:36:00.000Z,,3.0,Immediate
 2024,Reggion,Bennett,RB,Jacksonville State,,2024-03-27T05:00:00.000Z,,2.0,Immediate
@@ -5670,7 +5601,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Dashaun,Davis,WR,App State,,2023-12-04T23:41:00.000Z,,2.0,Immediate
 2024,Carlos,Fletcher,DL,Georgia State,,2024-04-16T18:57:00.000Z,,3.0,Immediate
 2024,Malone,Mataele,CB,Utah State,,2023-12-12T01:51:00.000Z,,3.0,Immediate
-2024,Vincent,Holmes,S,Washington,,2024-04-16T17:49:00.000Z,0.89,3.0,Withdrawn
 2024,Oshae,Baker,CB,UT Martin,,2023-12-08T16:42:00.000Z,0.86,3.0,Immediate
 2024,Michael,Tetteh,DL,Buffalo,,2023-12-04T16:44:00.000Z,,2.0,Immediate
 2024,Justin,Wood,LS,Miami,,2024-04-16T18:55:00.000Z,,,Immediate
@@ -5686,9 +5616,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Tyren,Mason,WR,Western Michigan,,2023-12-04T19:51:00.000Z,,3.0,Immediate
 2024,Kalil,Girault,WR,Arkansas,,2023-12-01T22:42:00.000Z,,,Immediate
 2024,Vincent,Lumia,OT,Louisville,,2023-12-29T14:48:00.000Z,,,Immediate
-2024,Soane,Toia,DL,San José State,,2024-01-22T06:00:00.000Z,,3.0,Withdrawn
-2024,Paki,Finau,OT,Washington,,2024-01-23T15:46:00.000Z,0.9,4.0,Withdrawn
-2024,Jaron,Glover,WR,Michigan State,,2023-12-09T21:12:00.000Z,,3.0,Withdrawn
 2024,Larry,Robinson,QB,Army,,2023-12-15T18:32:00.000Z,,3.0,Immediate
 2024,Marcus,Vinson,TE,UTEP,,2023-12-04T17:14:00.000Z,,3.0,Immediate
 2024,Riyad,Wilmot,EDGE,Maryland,,2023-12-12T01:49:00.000Z,,3.0,Immediate
@@ -5875,9 +5802,7 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2024,Kyle,Williams,RB,Temple,,2024-04-18T12:43:00.000Z,,3.0,Immediate
 2024,Dorian,Morris,CB,North Texas,,2023-12-04T22:56:00.000Z,,3.0,Immediate
 2024,Vincent,Nunley,S,Washington,,2023-12-05T14:27:00.000Z,,3.0,Immediate
-2024,TJ,Smith,S,Georgia Southern,,2024-01-08T06:00:00.000Z,,3.0,Withdrawn
 2024,Keyshon,Mills,CB,SMU,,2024-04-30T22:17:00.000Z,,3.0,Immediate
-2024,Spencer,Holstege,IOL,UCLA,,2023-12-19T00:55:00.000Z,,3.0,Withdrawn
 2024,Syrus,Dumas,CB,UTSA,,2023-12-04T04:42:00.000Z,,,Immediate
 2025,Parker,Jacobs,DL,Robert Morris,Youngstown State,2025-04-20T13:30:00.000Z,,,Immediate
 2025,Rex,Lahr,IOL,Liberty,Youngstown State,2025-04-25T15:44:00.000Z,,3.0,Immediate
@@ -6075,7 +6000,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Sione,Hala,LB,Boston College,Weber State,2024-12-25T06:00:00.000Z,0.86,3.0,Immediate
 2025,Zach,Hrbacek,RB,Sam Houston,Weber State,2025-04-25T19:02:00.000Z,,,Immediate
 2025,Jackson,Gilkey,QB,UTSA,Weber State,2024-12-25T02:47:00.000Z,,3.0,Immediate
-2025,Sione,Moa,RB,BYU,Weber State,2025-08-20T16:34:34.000Z,0.81,3.0,Withdrawn
 2025,Cash,McCollum,QB,North Texas,Weber State,2025-02-05T20:42:00.000Z,,3.0,Immediate
 2025,Anthony,LaFrance,OT,New Mexico State,Wayne State,2025-05-19T13:46:00.000Z,,3.0,Immediate
 2025,AJ,Vaipulu,IOL,New Mexico State,Washington State,2025-04-22T01:05:00.000Z,0.86,3.0,Immediate
@@ -6395,7 +6319,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Kamuela,Ka'aihue,LB,Arizona,UNLV,2025-01-13T02:29:00.000Z,,3.0,Immediate
 2025,Koy,Moore,WR,Western Kentucky,UNLV,2025-01-15T20:02:00.000Z,0.85,3.0,Immediate
 2025,Jordan,Buchanan,CB,South Alabama,UNLV,2025-02-05T20:52:00.000Z,,3.0,Immediate
-2025,Donovan,Spellman,EDGE,Charlotte,UNLV,2025-04-28T13:26:00.000Z,,3.0,Withdrawn
 2025,Isaiah,Patterson,LB,UCLA,UNLV,2025-04-29T18:45:00.000Z,0.85,3.0,Immediate
 2025,Alani,Makihele,IOL,UCLA,UNLV,2025-04-26T00:15:00.000Z,,3.0,Immediate
 2025,Tunmise,Adeleye,DL,Texas State,UNLV,2025-04-15T16:51:00.000Z,0.85,3.0,Immediate
@@ -9645,12 +9568,8 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Romario,Noel,S,Baylor,Abilene Christian,2025-04-23T00:59:00.000Z,,3.0,Immediate
 2025,Nathan,Jones,TE,Minnesota,Abilene Christian,2025-03-23T19:11:00.000Z,0.86,3.0,Immediate
 2025,TJ,Jones,CB,Hawai'i,,2025-04-24T16:22:00.000Z,,2.0,Immediate
-2025,Darius,Wallace,LB,Charlotte,,2025-07-28T00:48:12.000Z,,3.0,Withdrawn
-2025,Terique,Miles-Parker,EDGE,Norfolk State,,2025-07-28T00:25:30.000Z,,,Withdrawn
 2025,Ethan,Torres,S,Washington State,,2025-04-22T00:45:00.000Z,,,Immediate
 2025,Jahvante,Royal,CB,New Mexico,,2025-04-23T00:04:00.000Z,,3.0,Immediate
-2025,Tyler,Strain,CB,Illinois,,2025-05-04T22:22:44.000Z,,3.0,Withdrawn
-2025,Eli,Wallace,EDGE,Sam Houston,,2025-05-10T18:52:19.000Z,,,Withdrawn
 2025,Mike,Matthews,WR,Tennessee,,2024-12-29T06:00:00.000Z,0.92,4.0,Immediate
 2025,Jay,Gardenhire,OT,Colorado,,2025-04-19T14:47:00.000Z,,3.0,Immediate
 2025,Jake,Yurachek,LB,Arkansas,,2024-12-29T16:21:00.000Z,,2.0,Immediate
@@ -9663,41 +9582,28 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Santino,Marucci,QB,New Mexico State,,2025-04-01T21:54:00.000Z,,3.0,Immediate
 2025,Khai,Prean,WR,Tulane,,2024-12-28T15:16:00.000Z,,4.0,Immediate
 2025,Leroy,Bowers,S,Southern,,2025-04-17T18:11:00.000Z,,3.0,Immediate
-2025,Demarko,Williams,S,Western Kentucky,,2025-04-30T01:21:19.000Z,,3.0,Withdrawn
 2025,Evan,Taylor,CB,Nebraska,,2025-04-29T14:25:00.000Z,,3.0,Immediate
-2025,Jaydan,Mayes,CB,Army,,2025-04-23T18:10:00.000Z,0.86,3.0,Withdrawn
 2025,Kade,Millard,LB,San José State,,2025-04-23T00:04:00.000Z,,3.0,Immediate
-2025,Korion,Sharpe,IOL,North Carolina A&T,,2025-06-08T05:04:02.000Z,,,Withdrawn
 2025,Brian,Pierce,WR,San Diego State,,2025-04-23T17:57:00.000Z,,,Immediate
 2025,Luby,Maurice,WR,Florida International,,2025-04-25T18:45:00.000Z,,3.0,Immediate
 2025,D'Angelo,Davis,EDGE,Nevada,,2025-04-19T02:12:00.000Z,,3.0,Immediate
-2025,Kamron,Frye,OT,William & Mary,,2025-06-08T05:05:57.000Z,,,Withdrawn
 2025,Chase,Harrison,QB,Ball State,,2025-04-23T21:02:00.000Z,,3.0,Immediate
 2025,Ean,Rhea,EDGE,Emory & Henry College,,2025-05-02T19:48:00.000Z,0.85,3.0,Immediate
 2025,Nacari,Ashley,LB,Georgia Tech,,2025-04-25T19:16:00.000Z,,3.0,Immediate
 2025,Alijah,Lacey,EDGE,Georgia Southern,,2025-04-24T19:58:00.000Z,,3.0,Immediate
 2025,Quran,Boyd,RB,Duke,,2025-04-23T15:54:00.000Z,,3.0,Immediate
-2025,Jason,Collins Jr.,RB,Morgan State,,2025-05-26T05:06:18.000Z,,,Withdrawn
 2025,Jadrian,Gibbs,S,Massachusetts,,2025-04-25T15:48:00.000Z,,3.0,Immediate
-2025,David,Stone,DL,Oklahoma,,2025-04-20T23:54:56.000Z,0.95,4.0,Withdrawn
 2025,Fabian,Ross,CB,Hawai'i,,2025-04-23T20:51:00.000Z,,4.0,Immediate
 2025,Jakiah,Leftwich,OT,UCF,,2025-04-26T04:51:00.000Z,0.86,3.0,Immediate
 2025,Kaden,Holmes,S,Toledo,,2025-04-25T14:40:00.000Z,,,Immediate
 2025,Aidan,McCowan,CB,Arkansas,,2025-07-09T18:25:00.000Z,,,Immediate
 2025,Boone,Morris,LB,Kansas State,,2025-04-23T05:00:00.000Z,,3.0,Immediate
-2025,Tyrone,Fowler Jr.,EDGE,Ferris State,,2025-05-13T20:23:00.000Z,0.84,3.0,Withdrawn
-2025,Sam,Kenerson,WR,Georgia Southern,,2025-05-10T03:12:51.000Z,,3.0,Withdrawn
 2025,Ty,McCutcheon,QB,Utah Tech,,2025-04-23T23:54:00.000Z,,3.0,Immediate
 2025,Blake,Hogshooter,WR,Houston,,2025-04-26T02:32:00.000Z,,3.0,Immediate
-2025,Gage,Jones,S,Washington State,,2025-01-06T05:36:50.000Z,,3.0,Withdrawn
 2025,Travor,Randle,CB,UL Monroe,,2024-12-27T17:47:00.000Z,,2.0,Immediate
-2025,Alex,Atcavage,IOL,Florida Atlantic,,2024-12-27T07:32:41.000Z,,3.0,Withdrawn
 2025,Jaydn,Girard,WR,Wake Forest,,2025-04-16T14:08:00.000Z,,3.0,Immediate
-2025,Ted,Hurst,WR,Georgia State,,2025-04-23T21:08:00.000Z,0.92,4.0,Withdrawn
-2025,Jayce,Freeman,WR,Stony Brook,,2025-06-06T15:56:18.000Z,,,Withdrawn
 2025,Gavin,Fugate,LB,Washington State,,2025-04-21T15:14:00.000Z,,2.0,Immediate
 2025,Shamus,Florio,P,Yale,,2025-01-13T06:00:00.000Z,,,Immediate
-2025,AJ,Brown,S,UAB,,2025-01-26T23:21:13.000Z,,3.0,Withdrawn
 2025,Ian,Massey,S,Colorado,,2024-12-30T16:13:00.000Z,,,Immediate
 2025,Jamorri,Colson,CB,Washington State,,2024-12-20T19:56:00.000Z,,3.0,Immediate
 2025,Da'Shawn,Elder,S,Middle Tennessee,,2025-04-02T00:35:00.000Z,,3.0,Immediate
@@ -9705,28 +9611,18 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,BJ,Hendrickson III,CB,Franklin Pierce,,2025-05-29T05:00:00.000Z,,,Immediate
 2025,Antonio,Doyle Jr.,EDGE,UNLV,,2025-02-28T06:00:00.000Z,0.85,3.0,Immediate
 2025,Ty,Furnish,IOL,Virginia,,2024-12-09T15:59:00.000Z,,3.0,Immediate
-2025,Viron,Ellison Jr.,RB,Tulsa,,2025-01-22T10:50:53.000Z,,3.0,Withdrawn
 2025,Andrew,Savaiinaea,TE,Nevada,,2025-04-17T20:59:00.000Z,,3.0,Immediate
 2025,Kanye,Roberts,RB,App State,,2024-12-03T18:22:00.000Z,,2.0,Immediate
 2025,Terry,Wilkins,RB,Middle Tennessee,,2024-12-02T20:15:00.000Z,,2.0,Immediate
-2025,Joe,Labas,QB,Central Michigan,,2025-01-17T22:26:48.000Z,,4.0,Withdrawn
-2025,Jaleel,Skinner,TE,Louisville,,2024-12-29T22:00:37.000Z,,4.0,Withdrawn
-2025,Caleb,Hood,RB,North Carolina,,2025-01-11T15:03:02.000Z,,4.0,Withdrawn
 2025,DJ,Justice,WR,UCLA,,2024-12-03T14:38:00.000Z,,3.0,Immediate
 2025,Jake,Retzlaff,QB,BYU,,2025-06-30T01:55:00.000Z,0.9,4.0,Immediate
-2025,Logan,Forbes,WR,Michigan,,2025-01-22T11:10:00.000Z,,,Withdrawn
-2025,DeCorion,Temple,TE,Central Michigan,,2025-01-21T20:10:51.000Z,,3.0,Withdrawn
 2025,Joshua,Swift,S,UCLA,,2025-04-16T22:49:00.000Z,,2.0,Immediate
 2025,Aslan,Fraser,S,Washington State,,2025-04-16T16:14:00.000Z,,2.0,Immediate
-2025,Skyler,Bell,WR,UConn,,2025-01-04T21:50:04.000Z,,3.0,Withdrawn
 2025,Jeremiah,Aaron,WR,North Texas,,2024-12-04T02:07:00.000Z,,3.0,Immediate
 2025,Gabe,Blair,IOL,North Texas,,2024-12-05T04:01:00.000Z,,3.0,Immediate
-2025,Joey,Bearns III,TE,Charlotte,,2025-01-21T19:11:16.000Z,,3.0,Withdrawn
 2025,Tavien,Ford,IOL,New Mexico,,2024-12-03T06:00:00.000Z,,,Immediate
 2025,Jake,Maggio,LS,South Carolina State,,2024-12-18T06:00:00.000Z,,,Immediate
-2025,Jordan,Favors,S,App State,,2025-01-22T04:46:36.000Z,,3.0,Withdrawn
 2025,BJ,Diakite,EDGE,Vanderbilt,,2024-12-04T18:07:00.000Z,,3.0,Immediate
-2025,Easton,Bonnett,LS,South Florida,,2025-04-21T20:53:00.000Z,,,Withdrawn
 2025,Mohamed,Kaba,LB,South Carolina,,2024-12-02T19:52:00.000Z,,4.0,Immediate
 2025,Tabias,Hinton,LB,Mississippi State,,2024-12-03T16:54:00.000Z,,3.0,Immediate
 2025,Jordan,Kwiatkowski,LB,Central Michigan,,2024-12-03T06:00:00.000Z,,3.0,Immediate
@@ -9739,42 +9635,28 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,AJ,Odums,CB,UTEP,,2024-12-03T06:00:00.000Z,,2.0,Immediate
 2025,Evan,Jackson,CB,Stanford,,2024-12-04T06:00:00.000Z,,,Immediate
 2025,Trey,Williams,CB,Air Force,,2024-12-02T19:58:00.000Z,,,Immediate
-2025,Jonathan,Cabral-Martin,CB,Northern Iowa,,2025-01-22T04:36:36.000Z,,,Withdrawn
-2025,Vinson,Davis III,WR,Southern Illinois,,2025-05-28T16:19:13.000Z,,3.0,Withdrawn
 2025,Brenden,Segovia,P,Maryland,,2024-12-03T06:00:00.000Z,,2.0,Immediate
-2025,Parker,Stone,LS,Tulsa,,2025-01-21T20:08:12.000Z,,2.0,Withdrawn
 2025,Gabe,Russo,P,Auburn,,2024-12-03T17:22:00.000Z,,2.0,Immediate
 2025,Dakota,Williams,WR,Louisiana Tech,,2025-04-26T02:32:00.000Z,,3.0,Immediate
-2025,Braxton,Fely,DL,Boise State,,2025-04-28T17:36:39.000Z,0.86,3.0,Withdrawn
 2025,Brayden,Dorman,QB,Arizona,,2024-12-01T23:38:00.000Z,,4.0,Immediate
-2025,Tee,Denson,CB,Jacksonville State,,2025-07-28T01:19:34.000Z,,3.0,Withdrawn
-2025,Jackson,Veasy,DL,Jacksonville State,,2025-01-26T22:50:52.000Z,,,Withdrawn
-2025,Andres,Miyares Jr.,QB,North Carolina,,2025-07-28T14:03:55.000Z,,,Withdrawn
 2025,Charles,DePrima,QB,Harvard,,2024-11-29T06:00:00.000Z,,2.0,Immediate
-2025,Cooper,Blomstrom,EDGE,Georgetown,,2025-05-26T05:32:37.000Z,,,Withdrawn
 2025,Cutter,Stewart,QB,Houston Christian,,2024-12-02T22:29:00.000Z,,,Immediate
 2025,Hinckley,Ropati,RB,BYU,,2025-04-26T02:43:00.000Z,,3.0,Immediate
-2025,Hunter,Smith,IOL,Tarleton State,,2025-05-05T19:18:25.000Z,0.86,3.0,Withdrawn
 2025,Robbie,Pizzolato,IOL,Tulane,,2025-04-24T14:23:00.000Z,0.84,3.0,Immediate
-2025,Collin,Westfelt,LS,Jacksonville State,,2025-01-29T15:48:18.000Z,,,Withdrawn
 2025,Ben,Bouzi,CB,Colorado,,2025-04-22T16:42:00.000Z,,3.0,Immediate
 2025,Mycah,Pittman,WR,Utah,,2024-12-19T18:17:00.000Z,,4.0,Immediate
-2025,Josh,Meredith,WR,Washington State,,2025-01-02T05:31:22.000Z,,3.0,Withdrawn
 2025,Nico,Dowdell,S,Georgia Tech,,2025-06-30T16:21:00.000Z,,3.0,Immediate
 2025,Jayden,Anderson,WR,Virginia Tech,,2025-07-09T15:17:00.000Z,0.85,3.0,Immediate
 2025,Kendall,Karr,TE,Coastal Carolina,,2024-12-02T18:00:00.000Z,,3.0,Immediate
 2025,Tyler,Devera,TE,Elon,,2024-11-27T06:00:00.000Z,,3.0,Immediate
 2025,Chase,Nenad,WR,Yale,,2024-11-27T06:00:00.000Z,,3.0,Immediate
 2025,Jayden,Weber,WR,Sacramento State,,2024-11-28T06:00:00.000Z,,2.0,Immediate
-2025,Terrez,Worthy,RB,Temple,,2025-01-23T06:00:00.000Z,,,Withdrawn
 2025,Talyn,Hunter,IOL,Old Dominion,,2024-10-29T14:40:00.000Z,0.79,2.0,Immediate
 2025,Marcus,Williams,OT,TCU,,2024-11-13T12:49:00.000Z,,3.0,Immediate
 2025,J’Shun,Bodiford,OT,Middle Tennessee,,2024-11-13T19:26:00.000Z,,3.0,Immediate
 2025,Davis,Watson,OT,Cornell,,2024-10-10T05:00:00.000Z,,,Immediate
 2025,Tupu,Alualu,DL,San Diego State,,2024-12-29T06:00:00.000Z,,,Immediate
-2025,Jamar,Rucks,EDGE,Kennesaw State,,2025-01-20T23:49:46.000Z,,3.0,Withdrawn
 2025,Richard,Thomas,EDGE,Florida Atlantic,,2025-04-23T00:04:00.000Z,,3.0,Immediate
-2025,Demarcus,Smith,DL,UAB,,2025-07-28T00:03:48.000Z,,3.0,Withdrawn
 2025,Bryce,Myers,TE,Pennsylvania,,2024-11-25T16:54:00.000Z,,,Immediate
 2025,Arian,Gregory,LB,Southern Miss,,2025-04-03T18:43:00.000Z,,3.0,Immediate
 2025,Demarcus,Hendricks,EDGE,Texas A&M-Kingsville,,2024-11-25T22:52:00.000Z,,3.0,Immediate
@@ -9783,15 +9665,12 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Tyler,Huenemann,DL,Harvard,,2024-11-26T21:13:00.000Z,,3.0,Immediate
 2025,Brandon,Svets,EDGE,Harvard,,2024-11-27T02:02:00.000Z,,3.0,Immediate
 2025,Danny,Royster,EDGE,Ball State,,2024-11-18T18:05:00.000Z,,3.0,Immediate
-2025,Tai,Newhouse,DL,Tulsa,,2025-01-21T18:34:17.000Z,,2.0,Withdrawn
 2025,Alvin,Gulley Jr.,DL,Yale,,2024-11-25T20:45:00.000Z,,2.0,Immediate
 2025,Jaylan,Jarrett,DL,Kennesaw State,,2024-11-11T22:00:00.000Z,,,Immediate
 2025,Reggie,Peterson,LB,Florida International,,2024-12-01T19:29:00.000Z,,3.0,Immediate
 2025,Marcus,Alexander,LB,Harvard,,2024-11-26T01:30:00.000Z,,2.0,Immediate
 2025,Tyler,Lepolo,LB,Temple,,2024-11-29T20:15:00.000Z,,2.0,Immediate
 2025,John,Tessmann,LB,Davidson,,2024-11-29T20:36:00.000Z,,,Immediate
-2025,Garland,Benyard,LB,Kennesaw State,,2025-01-20T23:48:02.000Z,,,Withdrawn
-2025,Cornell,Allen,S,Charlotte,,2025-02-02T02:51:42.000Z,,3.0,Withdrawn
 2025,Moses,Gray,RB,Southern Miss,,2025-04-26T02:32:00.000Z,0.83,3.0,Immediate
 2025,Boyton,Cheney,CB,Missouri,,2024-11-14T18:03:00.000Z,,,Immediate
 2025,Loren,Ward,DL,Florida Atlantic,,2025-04-23T00:04:00.000Z,,3.0,Immediate
@@ -9802,61 +9681,43 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Muhammad-Ali,Kobo,DL,Cornell,,2024-12-09T14:32:00.000Z,,,Immediate
 2025,Immanuel,Hawkins,DL,UL Monroe,,2024-12-09T14:23:00.000Z,,,Immediate
 2025,Malik,Bradford,WR,UNLV,,2025-04-30T14:31:00.000Z,,3.0,Immediate
-2025,Josh,Franklin,WR,Western Michigan,,2025-04-26T17:27:40.000Z,,2.0,Withdrawn
 2025,Mali,Hamrick,EDGE,North Carolina,,2025-04-16T17:30:00.000Z,0.85,3.0,Immediate
-2025,Genesis,Smith,S,Arizona,,2024-12-19T17:30:00.000Z,,3.0,Withdrawn
 2025,Blake,Boda,QB,Arkansas,,2025-04-24T23:56:00.000Z,,3.0,Immediate
 2025,Kayden,Greene,S,Washington,,2024-12-19T20:04:00.000Z,,2.0,Immediate
-2025,Ny,Carr,WR,Miami,,2025-04-24T13:57:47.000Z,0.86,3.0,Withdrawn
-2025,CJ,Montes,QB,Kent State,,2025-04-27T19:11:00.000Z,0.84,3.0,Withdrawn
 2025,Caleb,Coley,CB,Michigan State,,2025-04-01T17:50:00.000Z,,3.0,Immediate
-2025,Zukudo,Igwenagu,EDGE,Massachusetts,,2024-12-19T15:38:05.000Z,0.83,3.0,Withdrawn
 2025,Robert,Shockey,QB,Marshall,,2025-04-16T22:09:00.000Z,,,Immediate
 2025,Jayden,George,QB,Florida Atlantic,,2025-03-28T05:00:00.000Z,,,Immediate
 2025,Darren,Barkins,CB,Washington,,2024-12-17T22:06:00.000Z,,3.0,Immediate
 2025,Landon,Hullaby,S,UTEP,,2025-04-11T17:46:00.000Z,,3.0,Immediate
-2025,Braylen,Russell,RB,Arkansas,,2024-12-22T04:43:19.000Z,,4.0,Withdrawn
 2025,Freddie,Dubose,WR,Texas,,2025-04-11T17:35:00.000Z,,3.0,Immediate
 2025,Markevious,Brown,CB,Purdue,,2025-04-09T01:50:00.000Z,0.87,3.0,Immediate
 2025,Pershaun,Fann,LB,Buffalo,,2025-04-22T01:31:00.000Z,,3.0,Immediate
 2025,Solo,Lewis,WR,Louisiana Tech,,2025-04-09T14:53:00.000Z,,3.0,Immediate
 2025,Andrew,Maushardt,QB,California,,2025-04-17T17:41:00.000Z,,3.0,Immediate
-2025,Austin,Blaske,IOL,North Carolina,,2024-12-17T09:17:44.000Z,,4.0,Withdrawn
 2025,Derick,Mourning Jr.,LB,Texas State,,2025-04-16T12:21:00.000Z,,3.0,Immediate
 2025,Jacob,Jones,QB,South Alabama,,2024-12-17T17:40:00.000Z,,3.0,Immediate
 2025,Dillon,Robinson,IOL,Bowling Green,,2025-04-01T22:39:00.000Z,,2.0,Immediate
-2025,Jacob,Busic,EDGE,UCLA,,2025-04-29T14:34:00.000Z,,,Withdrawn
 2025,Joshua,Wiggins,CB,Liberty,,2025-04-16T14:16:00.000Z,,3.0,Immediate
 2025,Antwaan,Mays,WR,Marshall,,2025-04-16T14:06:00.000Z,,3.0,Immediate
-2025,Keyjuan,Brown,RB,Louisville,,2025-01-10T03:09:38.000Z,,3.0,Withdrawn
 2025,Nick,Floyd,RB,Utah State,,2024-12-20T15:36:00.000Z,,,Immediate
-2025,Hudson,Cedarland,LB,Washington State,,2025-01-06T16:42:00.000Z,,3.0,Withdrawn
 2025,Jamel,Howard,DL,Wisconsin,,2024-12-21T21:49:00.000Z,,3.0,Immediate
 2025,Mitch,Melton,LB,Sam Houston,,2025-04-25T15:48:00.000Z,,,Immediate
 2025,Kiersten,Lee,LB,Georgia State,,2025-04-23T21:20:00.000Z,,3.0,Immediate
-2025,Bryson,Lamb,EDGE,Washington State,,2025-01-03T06:40:19.000Z,,2.0,Withdrawn
 2025,Riley,Moore,P,Massachusetts,,2024-12-16T21:05:00.000Z,,,Immediate
 2025,Hunter,Renner,P,Northwestern,,2024-12-16T20:50:00.000Z,,2.0,Immediate
-2025,Danny,Lewis Jr.,TE,Alabama,,2024-12-16T18:51:09.000Z,,3.0,Withdrawn
 2025,Darius,Owens,S,Akron,,2024-12-16T17:10:00.000Z,,3.0,Immediate
 2025,Ja'mori,Coard,DL,Buffalo,,2025-04-16T22:43:00.000Z,,3.0,Immediate
 2025,Terrell,Taylor,S,Utah State,,2024-12-16T16:50:00.000Z,,3.0,Immediate
-2025,Sirad,Bryant,S,UAB,,2024-12-30T00:30:02.000Z,,3.0,Withdrawn
 2025,Anwar,Lewis,RB,Jacksonville State,,2024-12-28T17:06:00.000Z,,,Immediate
 2025,Tyree,Carlisle,CB,Tulsa,,2025-01-06T17:39:00.000Z,,,Immediate
 2025,Will,Safris,P,Utah State,,2025-04-19T02:16:00.000Z,,,Immediate
-2025,Dierre,Kelly,DL,Bowling Green,,2025-07-28T00:17:59.000Z,,2.0,Withdrawn
-2025,Keona,Davis,DL,Nebraska,,2024-12-14T15:55:55.000Z,,3.0,Withdrawn
 2025,Sylas,Gomez,QB,Sam Houston,,2025-04-16T14:11:00.000Z,,,Immediate
 2025,Khalib,Johns,LB,Kent State,,2025-01-28T06:00:00.000Z,,,Immediate
-2025,Selman,Bridges,CB,Arkansas,,2024-12-12T23:23:56.000Z,,4.0,Withdrawn
 2025,Drew,Tuazama,DL,UCLA,,2025-01-16T18:59:00.000Z,,,Immediate
-2025,Omar,Graham Jr.,LB,Florida State,,2024-12-12T22:00:42.000Z,,3.0,Withdrawn
 2025,Reed,Jesiolowski,TE,Southern Miss,,2024-12-12T21:46:00.000Z,,3.0,Immediate
 2025,Michael,DiPasquale,RB,App State,,2025-04-21T16:08:00.000Z,,,Immediate
 2025,Rick,Moore,OT,Old Dominion,,2025-04-24T23:30:00.000Z,,,Immediate
 2025,Ronald,Daragjati,K,Miami,,2024-12-12T19:15:00.000Z,,,Immediate
-2025,Aidan,Banfield,IOL,North Carolina,,2024-12-12T19:14:57.000Z,0.88,3.0,Withdrawn
 2025,Markeston,Douglas,TE,Florida State,,2025-04-27T01:08:00.000Z,0.86,3.0,Immediate
 2025,Davion,Ross,S,Sacramento State,,2025-04-05T01:18:00.000Z,,,Immediate
 2025,Aidan,Ryan,S,Virginia,,2024-12-12T15:59:00.000Z,,3.0,Immediate
@@ -9921,16 +9782,11 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Brian,Kilbane Jr.,IOL,Akron,,2024-12-11T06:00:00.000Z,,2.0,Immediate
 2025,Osaro,Aihie,LB,Air Force,,2025-04-15T01:21:00.000Z,,3.0,Immediate
 2025,Anthony,Garrett,QB,Glenville State ,,2024-12-11T22:34:00.000Z,,2.0,Immediate
-2025,Bryce,Dixon,DL,Liberty,,2025-05-26T05:26:39.000Z,,3.0,Withdrawn
 2025,Justin,Stewart,DL,Virginia,,2025-04-18T18:43:00.000Z,,,Immediate
-2025,Kobe,Paysour,WR,North Carolina,,2024-12-17T20:49:06.000Z,,3.0,Withdrawn
 2025,Jaylon,Shelton,CB,UTEP,,2025-06-17T20:21:00.000Z,,,Immediate
 2025,Ian,Hershey,K,Arizona State,,2025-04-22T05:00:00.000Z,,2.0,Immediate
-2025,Austin,Boyd,IOL,UNLV,,2025-01-29T03:27:18.000Z,,3.0,Withdrawn
 2025,Jack,Mills,IOL,Ole Miss,,2024-12-10T19:00:00.000Z,,3.0,Immediate
 2025,AJ,Rollins,TE,Nebraska,,2024-12-10T19:00:00.000Z,,3.0,Immediate
-2025,Elijah,Rikard,S,Central Michigan,,2025-04-30T00:27:24.000Z,,3.0,Withdrawn
-2025,Arhmad,Branch,WR,Purdue,,2024-12-14T21:33:08.000Z,,4.0,Withdrawn
 2025,Landon,Rogers,WR,UNLV,,2024-12-31T15:08:00.000Z,,3.0,Immediate
 2025,Kaden,McMahan,LB,Kansas State,,2025-04-22T01:29:00.000Z,,3.0,Immediate
 2025,Keegan,Shackford,K,Iowa State,,2025-01-12T17:17:32.000Z,,,Immediate
@@ -9944,53 +9800,35 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Dasheen,Jackson,S,UAB,,2025-04-24T19:50:00.000Z,0.83,3.0,Immediate
 2025,Alvin,Williamson Jr.,CB,Vanderbilt,,2024-12-09T15:37:00.000Z,,3.0,Immediate
 2025,Jayden,Jones,DL,Arkansas State,,2024-12-09T15:35:00.000Z,,3.0,Immediate
-2025,Isaiah,Cook,IOL,Delaware State,,2025-01-26T18:20:52.000Z,,,Withdrawn
 2025,Isaiah,Newcombe,S,UCLA,,2024-12-09T15:30:00.000Z,,4.0,Immediate
-2025,Kobe,Stewart,EDGE,Buffalo,,2025-04-28T15:21:20.000Z,,,Withdrawn
 2025,LeVar,Talley,LB,Nevada,,2025-04-25T14:35:00.000Z,,3.0,Immediate
-2025,Mel,Brown,RB,UConn,,2025-04-25T14:42:00.000Z,,,Withdrawn
 2025,Montrell,Wade,WR,Boston College,,2024-12-09T15:16:00.000Z,,3.0,Immediate
 2025,Terrell,Cooks Jr.,WR,Nevada,,2025-04-16T16:55:00.000Z,,3.0,Immediate
-2025,Zhen-Keith,Sotelo,IOL,Hawai'i,,2025-07-05T08:22:31.000Z,,3.0,Withdrawn
 2025,Alonzo,Contreras,QB,San José State,,2025-04-24T22:18:00.000Z,,3.0,Immediate
 2025,George,Nahas,IOL,Iowa State,,2025-04-22T05:00:00.000Z,,2.0,Immediate
 2025,Miles,Hill,S,UL Monroe,,2024-12-09T15:02:00.000Z,,,Immediate
-2025,Sam,Dixon,RB,Ohio State,,2025-04-20T21:33:46.000Z,,3.0,Withdrawn
-2025,Kevontay,Wells,EDGE,UL Monroe,,2025-04-23T17:03:00.000Z,0.86,3.0,Withdrawn
 2025,Quinten,Johnson,LB,UCF,,2025-04-25T07:43:00.000Z,,,Immediate
 2025,Paolo,Burak,RB,San José State,,2024-12-09T15:00:00.000Z,,,Immediate
 2025,Rent,Montie,QB,Duke,,2025-01-06T19:58:00.000Z,,2.0,Immediate
-2025,Derrick,LeBlanc,DL,UCF,,2024-12-16T15:38:00.000Z,0.84,3.0,Withdrawn
 2025,Holden,Sapp,LB,Army,,2025-04-24T16:15:00.000Z,,,Immediate
-2025,Noah,Braham,TE,West Virginia,,2025-07-27T23:06:08.000Z,,3.0,Withdrawn
 2025,Antoine,Cobb,DL,Florida International,,2025-04-16T17:58:00.000Z,,,Immediate
-2025,Kam,Moore,LB,UCF,,2024-12-17T15:36:23.000Z,0.82,3.0,Withdrawn
 2025,Jamari,Ferrell,RB,Wyoming,,2024-12-28T17:00:00.000Z,,3.0,Immediate
-2025,Jacob,Dennison,OT,Wake Forest,,2025-04-25T23:27:03.000Z,0.86,3.0,Withdrawn
 2025,Grant,Hessler,DL,UNLV,,2025-04-24T23:44:00.000Z,,,Immediate
 2025,Dallan,Coleman,TE,UCF,,2025-04-21T18:41:00.000Z,,4.0,Immediate
 2025,Harold,Brooks,EDGE,Arizona State,,2024-12-24T16:51:00.000Z,,,Immediate
 2025,Jaqavius,Yates,OT,UAB,,2024-12-26T16:35:00.000Z,,3.0,Immediate
-2025,Jadarius,Green-McKnight,S,Marshall,,2025-01-17T19:17:42.000Z,0.86,3.0,Withdrawn
 2025,Nate,Spillman,WR,Charlotte,,2025-07-08T20:23:00.000Z,,3.0,Immediate
-2025,Josh,Hunter,CB,San Diego State,,2025-07-22T01:30:08.000Z,,3.0,Withdrawn
-2025,Kejon,Owens,RB,Florida International,,2025-01-21T20:05:34.000Z,,3.0,Withdrawn
 2025,Marquez,Tatum,DL,Florida International,,2025-01-06T17:34:00.000Z,,2.0,Immediate
-2025,Moussa,Berry,WR,Western Kentucky,,2025-01-25T01:09:27.000Z,,,Withdrawn
-2025,DJ,Mazzone,QB,North Carolina,,2025-05-01T05:00:00.000Z,,,Withdrawn
 2025,Jacolby,Spells,CB,West Virginia,,2025-04-16T13:26:00.000Z,0.83,3.0,Immediate
 2025,Israel,Benjamin,RB,Texas A&M,,2025-01-02T23:09:00.000Z,,3.0,Immediate
 2025,Roosevelt,Mitchell,IOL,Akron,,2025-04-23T00:04:00.000Z,,3.0,Immediate
 2025,Bill,Young,RB,Army,,2025-04-24T22:00:00.000Z,,,Immediate
-2025,Brady,Ploucha,IOL,Central Michigan,,2025-05-01T17:25:01.000Z,,3.0,Withdrawn
 2025,Sincere,Jackson,LB,Sam Houston,,2024-12-27T17:49:00.000Z,,3.0,Immediate
 2025,Cam,Davis,RB,San Diego State,,2025-04-23T20:00:00.000Z,,3.0,Immediate
 2025,Kam,Kynard,S,Marshall,,2025-04-16T14:45:00.000Z,,3.0,Immediate
 2025,Kaleb,Stewart,LB,UConn,,2025-01-02T00:31:00.000Z,,3.0,Immediate
 2025,Spencer,Jones,WR,Duke,,2025-04-22T02:13:00.000Z,,3.0,Immediate
 2025,Shawn,Thigpen,WR,Bowling Green,,2025-04-19T01:31:00.000Z,,3.0,Immediate
-2025,Kal-El,Pascal,S,Bowling Green,,2025-03-31T15:13:46.000Z,,3.0,Withdrawn
-2025,Tavian,Combs,S,New Mexico,,2024-12-22T07:00:00.000Z,,2.0,Withdrawn
 2025,Evan,Jackson,S,North Texas,,2025-01-05T19:57:00.000Z,,3.0,Immediate
 2025,Shamaar,Darden,S,Ole Miss,,2025-05-21T13:40:00.000Z,,3.0,Immediate
 2025,Aiden,Olson,IOL,Northern Illinois,,2025-04-16T13:44:00.000Z,,2.0,Immediate
@@ -10001,11 +9839,9 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Charles,Remlinger,EDGE,Fresno State,,2025-01-02T00:34:00.000Z,,,Immediate
 2025,Micah,Mariteragi,IOL,Hawai'i,,2025-04-16T23:24:00.000Z,,3.0,Immediate
 2025,Derick,Hunter Jr.,DL,Memphis,,2024-12-20T20:01:00.000Z,,4.0,Immediate
-2025,Devin,Kargman,QB,Kent State,,2025-05-09T13:01:00.000Z,,3.0,Withdrawn
 2025,Logan,Lisherness,LB,Washington,,2024-12-20T17:08:00.000Z,,2.0,Immediate
 2025,Leke,Asenuga,IOL,North Texas,,2024-12-20T16:40:00.000Z,,3.0,Immediate
 2025,Zachary,Clay,TE,Texas A&M,,2025-04-25T19:15:00.000Z,,,Immediate
-2025,Brandon,Hawkins Jr.,WR,UAB,,2025-04-26T16:44:14.000Z,,,Withdrawn
 2025,AJ,Taylor,CB,Ball State,,2024-12-09T14:01:00.000Z,,,Immediate
 2025,Cade,Puckett,IOL,Georgia State,,2024-12-09T13:30:00.000Z,,,Immediate
 2025,Joseph,Martinez,RB,Michigan State,,2024-12-23T22:19:00.000Z,,2.0,Immediate
@@ -10013,7 +9849,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Camden,Jones,TE,California,,2025-04-18T02:04:00.000Z,,3.0,Immediate
 2025,Zachary,Rogers,CB,Toledo,,2025-04-19T17:25:00.000Z,,3.0,Immediate
 2025,Kaylon,Walters,CB,Charleston Southern,,2025-04-16T22:23:00.000Z,,,Immediate
-2025,Jordan,Davis,OT,South Alabama,,2025-04-21T21:10:00.000Z,0.87,3.0,Withdrawn
 2025,Cameron,Jones,RB,UCLA,,2025-04-29T14:35:00.000Z,,3.0,Immediate
 2025,Peyton,Garrett,EDGE,Northern Colorado,,2025-04-25T18:33:00.000Z,,,Immediate
 2025,Justin,Payoute,S,Ferris State,,2025-04-21T19:49:00.000Z,,,Immediate
@@ -10028,36 +9863,26 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Vito,Calvaruso,K,Arkansas,,2024-12-31T15:10:00.000Z,,,Immediate
 2025,Ugochukwu,Odoemelam,S,Oregon State,,2024-12-27T23:02:00.000Z,,2.0,Immediate
 2025,Andre,Washington,QB,Charlotte,,2024-12-28T18:15:00.000Z,,,Immediate
-2025,Al'zillion,Hamilton,CB,Fresno State,,2025-01-01T15:52:00.000Z,0.86,3.0,Withdrawn
 2025,Ozzie,Hoffler,EDGE,Georgia State,,2025-03-14T05:00:00.000Z,,3.0,Immediate
 2025,Blake,Nelson,TE,Toledo,,2025-04-23T21:16:00.000Z,,2.0,Immediate
 2025,CJ,Ogbonna,QB,Buffalo,,2025-01-08T21:30:00.000Z,,,Immediate
-2025,David,Avit,RB,Villanova,,2024-12-26T14:12:03.000Z,,,Withdrawn
 2025,Kingston,McKinstry,S,East Carolina,,2024-12-29T16:28:00.000Z,,3.0,Immediate
 2025,Bryce,Steele,LB,Boston College,,2025-04-26T13:29:00.000Z,,4.0,Immediate
 2025,Regen,Terry,DL,Boston College,,2025-01-03T00:15:00.000Z,,3.0,Immediate
-2025,Leon,Neal Jr.,WR,Washington State,,2025-01-24T23:07:58.000Z,,3.0,Withdrawn
 2025,C.J.,Murphy,LB,North Carolina,,2025-04-16T13:38:00.000Z,,,Immediate
 2025,Caleb,Sempebwa,K,Hawai'i,,2025-04-24T23:17:00.000Z,,,Immediate
 2025,Henry,Duke,TE,Virginia,,2024-12-17T17:24:00.000Z,,,Immediate
 2025,Ben,Locklear,QB,Virginia Tech,,2024-12-17T17:18:00.000Z,,2.0,Immediate
 2025,Rashad,Cheney,DL,South Florida,,2024-12-20T19:57:00.000Z,,3.0,Immediate
-2025,Dave,Herard,CB,Western Kentucky,,2025-07-28T01:33:37.000Z,,3.0,Withdrawn
-2025,Marshall,Jackson,IOL,Western Kentucky,,2025-01-24T20:20:17.000Z,,,Withdrawn
 2025,Will,Leys,IOL,San José State,,2025-04-24T21:57:00.000Z,,3.0,Immediate
 2025,Bryce,Butler,TE,Ohio,,2024-12-26T21:22:00.000Z,,3.0,Immediate
 2025,Wyatt,Wright,LB,Arkansas State,,2025-04-24T22:16:00.000Z,0.82,3.0,Immediate
 2025,Ishmael,Aceves,LB,New Mexico State,,2024-12-20T19:59:00.000Z,,,Immediate
 2025,Jack,Richardson,P,Southern Miss,,2025-04-18T02:04:00.000Z,,3.0,Immediate
-2025,Lee,Molette,S,UConn,,2025-04-30T00:39:31.000Z,,3.0,Withdrawn
 2025,Claude,Larkins,EDGE,Florida International,,2025-04-18T16:17:00.000Z,,3.0,Immediate
-2025,Anthony,Rucker,TE,North Carolina A&T,,2025-07-27T23:17:14.000Z,,2.0,Withdrawn
-2025,Joe,Swen,S,Sam Houston,,2025-07-28T01:28:24.000Z,,3.0,Withdrawn
 2025,Michael,Hall,WR,North Carolina,,2025-04-24T16:16:00.000Z,,,Immediate
-2025,Elijah,Brody,LB,New Mexico,,2025-04-27T03:43:26.000Z,,,Withdrawn
 2025,Tylen,Gonzalez,DL,Arizona,,2025-04-26T02:32:00.000Z,,3.0,Immediate
 2025,Angel,Munoz,S,New Mexico State,,2024-12-11T16:16:00.000Z,,,Immediate
-2025,Rod,Gainey Jr.,RB,Charlotte,,2024-12-15T17:28:14.000Z,,3.0,Withdrawn
 2025,Tyrone,Jackson,WR,Boise State,,2025-04-23T22:53:00.000Z,,3.0,Immediate
 2025,Mike,Evans,CB,Austin Peay,,2025-04-08T01:30:00.000Z,,,Immediate
 2025,Adonis,Forrest Jr.,S,Colorado,,2024-12-09T16:48:00.000Z,,3.0,Immediate
@@ -10068,7 +9893,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Ezra,McAllister,WR,Vanderbilt,,2024-12-09T16:25:00.000Z,,3.0,Immediate
 2025,Raydarious,Jones,CB,Mississippi State,,2024-12-09T21:43:00.000Z,,4.0,Immediate
 2025,KJ,Bratton,WR,Virginia,,2024-12-09T16:24:00.000Z,,,Immediate
-2025,Brady,Anderson,LB,San Diego State,,2024-12-18T15:47:42.000Z,,3.0,Withdrawn
 2025,Cody,Ahola,TE,Air Force,,2024-12-09T16:19:00.000Z,,3.0,Immediate
 2025,Alexander,Whitmore,DL,UNLV,,2025-01-29T06:00:00.000Z,,,Immediate
 2025,Tyrese,Johnson,EDGE,Washington,,2024-12-09T16:16:00.000Z,,,Immediate
@@ -10095,47 +9919,32 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Jacob,Hood,OT,Nebraska,,2024-12-11T20:25:00.000Z,,3.0,Immediate
 2025,Nick,Billoups,QB,UCLA,,2025-04-29T14:34:00.000Z,,3.0,Immediate
 2025,D'Nas,White,DL,Florida State,,2025-04-21T22:51:00.000Z,,3.0,Immediate
-2025,Anwar,Sparrow,LB,Syracuse,,2025-01-22T23:17:24.000Z,,3.0,Withdrawn
 2025,Grady,Sherrill,WR,North Carolina,,2025-04-16T13:56:00.000Z,,,Immediate
-2025,Jonny,King,IOL,Charlotte,,2024-12-18T17:20:56.000Z,,2.0,Withdrawn
 2025,Xander,Lamb,WR,Charlotte,,2025-04-16T15:47:00.000Z,,,Immediate
 2025,Tristan,Bohannon,LB,Washington State,,2025-04-16T15:44:00.000Z,,3.0,Immediate
 2025,Avery,Morris,LB,Charlotte,,2024-12-15T21:37:00.000Z,,3.0,Immediate
 2025,Joey,Wright,OT,Sacramento State,,2025-04-29T00:16:00.000Z,0.82,3.0,Immediate
-2025,Jake,Furtney,TE,Illinois,,2025-04-23T14:34:00.000Z,,3.0,Withdrawn
 2025,Jeremiah,Brown,LB,Colorado,,2024-12-09T20:08:00.000Z,,3.0,Immediate
-2025,Dalton,Johnson,S,Arizona,,2024-12-19T17:32:00.000Z,,3.0,Withdrawn
 2025,Harold,Nash III,S,North Texas,,2025-01-08T18:44:00.000Z,,,Immediate
 2025,Quan,Dunbar,TE,Old Dominion,,2024-12-26T17:34:00.000Z,,3.0,Immediate
 2025,Elijah,Wood,LB,Utah Tech,,2024-12-27T22:56:00.000Z,,3.0,Immediate
-2025,Corri,Milliner,WR,UAB,,2025-01-29T12:41:00.000Z,,,Withdrawn
-2025,DeCarlos,Nicholson,CB,USC,,2025-01-23T13:55:42.000Z,0.84,3.0,Withdrawn
-2025,Kiael,Kelly,QB,Ball State,,2024-12-17T16:33:04.000Z,,3.0,Withdrawn
 2025,Monte,Watkins,RB,New Mexico State,,2025-04-15T18:46:00.000Z,,4.0,Immediate
 2025,Curtis,Janvier,S,Florida Atlantic,,2025-04-16T13:26:00.000Z,,3.0,Immediate
-2025,Malik,Rutherford,WR,Georgia Tech,,2024-12-23T06:00:00.000Z,,3.0,Withdrawn
 2025,Aidan,Plate,S,Air Force,,2025-01-03T16:33:00.000Z,,,Immediate
 2025,Ethan,Proffitt,IOL,Florida Atlantic,,2025-04-16T13:48:00.000Z,,3.0,Immediate
-2025,Malik,Aliane,IOL,New Mexico,,2025-01-25T04:07:28.000Z,,,Withdrawn
-2025,Josh,Dorsainvil,EDGE,UCF,,2025-04-26T14:57:00.000Z,,,Withdrawn
 2025,KingJoseph,Edwards,EDGE,Syracuse,,2025-07-07T16:03:00.000Z,0.88,3.0,Immediate
-2025,Christopher,Allen Jr.,DL,North Carolina A&T,,2025-06-08T05:12:37.000Z,,3.0,Withdrawn
 2025,Torrance,Farmer Jr.,RB,Western Illinois,,2025-04-01T22:54:00.000Z,,,Immediate
 2025,Josh,Calvert,LB,Utah,,2024-12-08T15:17:00.000Z,,4.0,Immediate
 2025,Jalen,Burton,CB,Bowling Green,,2024-12-08T14:52:00.000Z,,2.0,Immediate
 2025,Cam,Marshall,S,Georgia State,,2024-12-07T20:32:00.000Z,,3.0,Immediate
-2025,Will,Thomas,OT,UNLV,,2025-01-29T12:35:44.000Z,,,Withdrawn
 2025,Isaiah,Holland,S,Georgia State,,2024-12-07T12:06:00.000Z,,3.0,Immediate
-2025,Greg,Burrell,RB,Texas State,,2025-04-22T01:20:00.000Z,0.85,3.0,Withdrawn
 2025,Isaiah,Carlson,RB,UCLA,,2024-12-07T01:29:00.000Z,,3.0,Immediate
 2025,Kerry,King,WR,East Carolina,,2024-12-07T00:12:00.000Z,,,Immediate
 2025,Nathan,Hoke,LB,BYU,,2025-04-16T14:32:00.000Z,,3.0,Immediate
 2025,Kevin,Terry,OT,Temple,,2024-12-06T20:41:00.000Z,,3.0,Immediate
 2025,Mathyus,Su'a,IOL,UNLV,,2025-01-28T06:00:00.000Z,0.83,3.0,Immediate
-2025,Jamel,Johnson,S,TCU,,2024-12-18T01:20:58.000Z,,4.0,Withdrawn
 2025,Ethan,Hagler,IOL,Sam Houston,,2024-12-28T17:07:00.000Z,,,Immediate
 2025,Jamil,Williams,S,Arkansas State,,2025-04-16T20:38:00.000Z,,3.0,Immediate
-2025,Plae,Wyatt,S,Rice,,2024-12-17T23:20:19.000Z,,3.0,Withdrawn
 2025,Trejan,Bridges,WR,Central Arkansas,,2025-04-03T01:57:00.000Z,0.86,3.0,Immediate
 2025,Austin,Cartwright,CB,UL Monroe,,2025-04-16T15:24:00.000Z,,,Immediate
 2025,Donta,Armstrong,TE,Charlotte,,2025-03-13T05:00:00.000Z,,3.0,Immediate
@@ -10144,47 +9953,27 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Bryce,Damous,TE,UAB,,2024-12-24T16:19:00.000Z,,,Immediate
 2025,Clinton,Anokwuru,DL,Coastal Carolina,,2024-12-24T16:14:00.000Z,,3.0,Immediate
 2025,George,Silva,OT,Oregon,,2025-02-20T23:58:00.000Z,0.84,3.0,Immediate
-2025,JeRico,Washington Jr.,CB,Kennesaw State,,2025-01-20T23:45:24.000Z,0.84,3.0,Withdrawn
-2025,Emmett,Johnson,RB,Nebraska,,2024-12-09T00:34:51.000Z,0.85,3.0,Withdrawn
 2025,MarJayvious,Moss,CB,Memphis,,2025-04-16T16:00:00.000Z,,4.0,Immediate
 2025,Ryder,Burns,LS,Southern Miss,,2025-04-17T20:49:00.000Z,,2.0,Immediate
 2025,Anton,Ambuehl,OT,UNLV,,2024-12-20T20:23:00.000Z,,3.0,Immediate
-2025,Jamaal,Johnson,DL,UCF,,2025-01-28T12:56:37.000Z,,3.0,Withdrawn
 2025,Jayquan,Reid,WR,Western Michigan,,2025-04-16T22:37:00.000Z,,3.0,Immediate
 2025,Leif,Magnuson,IOL,Arizona,,2025-01-03T17:13:00.000Z,,3.0,Immediate
-2025,Caden,Johnson,LB,Ball State,,2025-01-22T23:51:35.000Z,,3.0,Withdrawn
-2025,Ender,Aguilar,IOL,Tulsa,,2025-01-21T18:51:19.000Z,,3.0,Withdrawn
 2025,Marlen,Sewell,S,Vanderbilt,,2024-12-28T17:56:00.000Z,,3.0,Immediate
-2025,Jayshon,Platt,WR,Florida Atlantic,,2025-01-16T13:40:15.000Z,,3.0,Withdrawn
-2025,Nate,Azzopardi,IOL,Idaho,,2024-12-23T22:31:02.000Z,,2.0,Withdrawn
 2025,Luke,LoPresti,QB,Massachusetts,,2025-04-16T15:33:00.000Z,,,Immediate
 2025,Zack,Miller,OT,Washington State,,2025-04-16T16:30:00.000Z,,3.0,Immediate
-2025,Toby,Moore,IOL,UNLV,,2025-01-29T03:24:26.000Z,,3.0,Withdrawn
-2025,Henry,Rutledge,WR,Charlotte,,2025-01-22T23:16:47.000Z,,,Withdrawn
 2025,Anthony,Hightower Jr.,CB,Lenoir-Rhyne,,2025-03-29T17:00:00.000Z,,,Immediate
 2025,Jamontez,Woods,RB,Hudson Valley,,2025-04-16T22:46:00.000Z,0.81,3.0,Immediate
-2025,Isaac,Wilson,QB,Utah,,2024-12-17T01:43:00.000Z,0.86,3.0,Withdrawn
-2025,Shawn,Collins,EDGE,App State,,2024-12-17T23:55:16.000Z,,3.0,Withdrawn
-2025,Keyone,Jenkins,QB,Florida International,,2024-12-17T23:06:43.000Z,0.86,3.0,Withdrawn
 2025,Seth,Ford,P,North Texas,,2025-01-07T01:01:00.000Z,,,Immediate
 2025,Jurriente,Davis,LB,Louisville,,2025-01-02T22:36:00.000Z,,,Immediate
-2025,Jamarius,Dinkins,DL,Purdue,,2024-12-28T15:08:35.000Z,,3.0,Withdrawn
-2025,Keshawn,Lynch,EDGE,Norfolk State,,2025-06-08T05:14:07.000Z,,,Withdrawn
 2025,DeAngelo,Irvin Jr.,WR,UNLV,,2024-12-19T23:12:00.000Z,,,Immediate
-2025,Nick,Cenacle,WR,Hawai'i,,2025-01-27T17:31:29.000Z,,,Withdrawn
 2025,Amir,Adams,CB,Edward Waters,,2025-04-17T18:37:00.000Z,,,Immediate
 2025,Chandler,Rogers,QB,California,,2025-01-06T18:48:00.000Z,,,Immediate
 2025,Gavin,Bloom,LB,Georgia State,,2025-04-17T17:37:00.000Z,,,Immediate
-2025,Kahmari,Brown,EDGE,Elon,,2024-12-20T13:14:00.000Z,0.88,3.0,Withdrawn
 2025,Charlotin,Charles,LB,Fresno State,,2025-04-26T02:32:00.000Z,,3.0,Immediate
 2025,Michael,Moore,LB,UAB,,2024-12-28T01:35:00.000Z,0.85,3.0,Immediate
 2025,Jadon,Cardell,K,Sam Houston,,2025-04-16T14:46:00.000Z,,,Immediate
-2025,Moussa,Barry,WR,Western Kentucky,,2025-01-24T21:14:38.000Z,,,Withdrawn
-2025,Trey,Leckner,TE,Washington State,,2025-01-07T04:14:39.000Z,,3.0,Withdrawn
 2025,Jack,Hasz,IOL,UNLV,,2024-12-27T20:59:00.000Z,0.85,3.0,Immediate
-2025,Michael,Hughes,EDGE,Washington State,,2025-01-06T05:37:25.000Z,,,Withdrawn
 2025,Noreel,White,WR,Ole Miss,,2025-01-05T02:35:00.000Z,,,Immediate
-2025,Charles,Demmings,CB,Stephen F. Austin,,2025-01-24T20:15:31.000Z,,,Withdrawn
 2025,Koa,McIntyre,S,Wyoming,,2024-12-09T18:09:00.000Z,,3.0,Immediate
 2025,BJ,Blake,S,Louisiana Tech,,2024-12-09T18:03:00.000Z,,,Immediate
 2025,Tori,Daffin,S,Nevada,,2024-12-24T17:03:00.000Z,,2.0,Immediate
@@ -10193,16 +9982,12 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Caleb,King,EDGE,Indiana,,2024-12-21T20:59:00.000Z,,,Immediate
 2025,Brayden,Hall,CB,Coastal Carolina,,2024-12-09T18:01:00.000Z,,,Immediate
 2025,Lucas,Lenhoff,QB,UNLV,,2025-04-16T23:10:00.000Z,,2.0,Immediate
-2025,Brady,Allen,QB,Louisville,,2024-12-24T16:44:47.000Z,0.85,3.0,Withdrawn
 2025,Drew,Martin,TE,Memphis,,2024-12-19T22:46:00.000Z,,3.0,Immediate
 2025,Garrett,Jordan,LS,North Carolina,,2024-12-19T20:09:00.000Z,,,Immediate
-2025,Jalonnie,Williams,EDGE,Northern Illinois,,2025-01-26T22:23:55.000Z,,3.0,Withdrawn
-2025,Josiah,Freeman,WR,Fresno State,,2024-12-14T00:15:45.000Z,,3.0,Withdrawn
 2025,Aidan,Glover,QB,Missouri,,2024-12-14T00:07:00.000Z,0.86,3.0,Immediate
 2025,Dawaiian,McNeely,S,Wyoming,,2024-12-13T22:00:00.000Z,,3.0,Immediate
 2025,Blaine,McClure,ATH,North Carolina,,2024-12-22T21:53:00.000Z,,,Immediate
 2025,Chace,Davis,DL,Bowling Green,,2025-03-17T05:00:00.000Z,,3.0,Immediate
-2025,Cedric,Woods,CB,Louisiana Tech,,2025-01-23T13:57:20.000Z,,3.0,Withdrawn
 2025,Adam,Mihalek,K,Florida,,2024-12-09T23:13:00.000Z,,,Immediate
 2025,DeAndre,Buchannon,WR,Georgia Southern,,2024-12-09T23:09:00.000Z,,3.0,Immediate
 2025,Martrell,Harris,LB,Texas A&M,,2024-12-09T23:06:00.000Z,,3.0,Immediate
@@ -10215,7 +10000,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Sam,Brady,LB,Virginia,,2024-12-28T16:56:00.000Z,,3.0,Immediate
 2025,Emari,White,WR,UTEP,,2024-12-13T15:29:00.000Z,,,Immediate
 2025,Luke,Shouse,TE,Tennessee,,2024-12-13T15:18:00.000Z,,3.0,Immediate
-2025,TaShawn,Jeter,CB,Marshall,,2025-07-28T13:48:07.000Z,,,Withdrawn
 2025,Jourdyn,Burruss,LB,Arkansas State,,2024-12-10T22:25:00.000Z,,3.0,Immediate
 2025,Josh,Fanuiel,TE,Oklahoma,,2024-12-10T22:14:00.000Z,,,Immediate
 2025,Rodney,Groce Jr.,LB,Ole Miss,,2024-12-10T22:06:00.000Z,,3.0,Immediate
@@ -10237,61 +10021,41 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Landon,Hale,S,Florida International,,2025-03-10T05:00:00.000Z,,3.0,Immediate
 2025,Wilson,Schwartz,TE,Washington,,2025-01-05T17:06:00.000Z,,,Immediate
 2025,Weston,Jones,OT,BYU,,2025-04-16T19:24:00.000Z,,3.0,Immediate
-2025,George,Hamsley,QB,Ole Miss,,2025-04-24T17:50:00.000Z,,,Withdrawn
 2025,K'wan,Powell,RB,South Florida,,2025-07-08T23:20:00.000Z,,3.0,Immediate
-2025,Matthew,Littlejohn,S,California,,2025-01-30T21:37:00.000Z,,3.0,Withdrawn
 2025,Justin,Williams Jr.,WR,Rice,,2025-07-08T16:13:00.000Z,,3.0,Immediate
-2025,Demarcus,Griffin-Taylor,CB,Louisiana Tech,,2025-01-29T17:19:58.000Z,,3.0,Withdrawn
 2025,AJ,Stephens,CB,Rice,,2025-07-08T14:59:00.000Z,,3.0,Immediate
 2025,David,Prince,TE,Georgia Tech,,2025-05-15T05:00:00.000Z,,3.0,Immediate
 2025,Jeffrey,Simmons,TE,Ball State,,2025-04-24T22:26:00.000Z,,3.0,Immediate
-2025,Jordan,Kinsler,RB,Rutgers,,2025-04-29T14:36:00.000Z,,,Withdrawn
 2025,Ezra,Moleni,RB,Sacramento State,,2025-03-10T05:00:00.000Z,,,Immediate
-2025,Isaiah,Neyor,WR,Nebraska,,2025-01-01T15:56:00.000Z,0.88,3.0,Withdrawn
-2025,Elijah,Gilliam,RB,Fresno State,,2025-01-09T03:26:10.000Z,,,Withdrawn
 2025,Henry,Ikahihifo,DL,Nevada,,2024-12-27T18:48:00.000Z,,3.0,Immediate
 2025,Kitione,Tau,DL,Nevada,,2024-12-27T18:49:00.000Z,,,Immediate
 2025,Nate,Van Zelst,K,Wisconsin,,2024-12-17T22:56:00.000Z,,,Immediate
-2025,Brian,Dillard,CB,South Alabama,,2025-01-26T23:41:04.000Z,,3.0,Withdrawn
 2025,Steele,Wasel,QB,Oklahoma,,2024-12-24T17:16:00.000Z,,2.0,Immediate
 2025,Brodrick,Gooch,LB,App State,,2025-04-16T16:20:00.000Z,,2.0,Immediate
 2025,La'Varis,Stanford,CB,Western Michigan,,2025-04-17T15:33:00.000Z,,3.0,Immediate
 2025,Austin,Hobson,DL,App State,,2025-04-28T21:27:00.000Z,,,Immediate
 2025,Ahmarian,Granger,WR,Akron,,2025-04-21T17:14:00.000Z,,3.0,Immediate
-2025,TJ,Hartley,K,Georgia Southern,,2025-04-23T21:00:00.000Z,,,Withdrawn
 2025,Malcolm,McClure,LB,Nevada,,2025-04-23T21:19:00.000Z,,3.0,Immediate
-2025,Trech,Kekahuna,WR,Wisconsin,,2024-12-12T03:00:00.000Z,,3.0,Withdrawn
-2025,Chubba,Purdy,QB,Nevada,,2024-12-10T22:52:44.000Z,,4.0,Withdrawn
-2025,Tyson,Davis,WR,Central Michigan,,2025-04-26T16:42:34.000Z,,3.0,Withdrawn
 2025,Grant,Reddick,K,UCF,,2025-04-23T16:24:00.000Z,,2.0,Immediate
 2025,Evan,Boutorwick,LS,Michigan,,2025-04-16T13:22:00.000Z,,,Immediate
-2025,Bennett,Ringleb,OT,Tulsa,,2025-01-21T19:17:33.000Z,,,Withdrawn
-2025,Destun,Thomas,WR,Kennesaw State,,2025-01-20T23:43:19.000Z,,3.0,Withdrawn
 2025,Kedrick,Burley,EDGE,Middle Tennessee,,2025-04-17T20:53:00.000Z,,3.0,Immediate
 2025,Ryan,Johnson,EDGE,Southern Miss,,2024-12-28T17:18:00.000Z,,,Immediate
 2025,Tyler,Wegis,EDGE,Boise State,,2025-04-16T19:16:00.000Z,,3.0,Immediate
-2025,Blake,Boenisch,DL,Rice,,2025-05-02T02:27:06.000Z,,3.0,Withdrawn
-2025,Maruio,White Jr.,EDGE,Tulsa,,2025-04-28T22:22:18.000Z,,3.0,Withdrawn
 2025,Antione,Jackson,CB,UCF,,2024-12-05T01:30:00.000Z,,4.0,Immediate
-2025,Ty,Thompson,QB,Tulane,,2025-01-07T16:57:54.000Z,0.85,3.0,Withdrawn
-2025,Devin,Robinson,S,Tulsa,,2025-06-08T05:22:05.000Z,,3.0,Withdrawn
 2025,Jalen,Owens,DL,Southern Miss,,2025-04-18T02:04:00.000Z,,3.0,Immediate
 2025,Samson,Ogunade,DL,James Madison,,2025-04-16T12:41:00.000Z,,,Immediate
 2025,Isaac,Hill,TE,Bowling Green,,2025-04-16T12:36:00.000Z,,3.0,Immediate
 2025,Brady,Neu,DL,Central Michigan,,2025-04-16T19:16:00.000Z,,3.0,Immediate
 2025,Kylin,James,RB,UNLV,,2025-01-29T06:00:00.000Z,0.86,3.0,Immediate
-2025,Jameer,Lewis,EDGE,Southern Miss,,2025-06-08T05:09:10.000Z,,3.0,Withdrawn
 2025,Jonny,Sorensen,QB,Bowling Green,,2025-04-25T18:44:00.000Z,,3.0,Immediate
 2025,Elias,Owens,EDGE,Bowling Green,,2025-04-22T22:04:00.000Z,,3.0,Immediate
 2025,Jaggar,Hebeisen,TE,Rice,,2025-04-17T15:21:00.000Z,,3.0,Immediate
 2025,JR,Buckner,LS,Auburn,,2025-04-16T12:11:00.000Z,,,Immediate
 2025,Jayden,Sauray,QB,Maryland,,2025-04-18T02:04:00.000Z,,3.0,Immediate
 2025,Tristan,Waiamau-Galindo,EDGE,Hawai'i,,2025-04-16T23:08:00.000Z,,3.0,Immediate
-2025,Marquis,Groves-Killebrew,CB,Arizona,,2025-01-18T17:06:00.000Z,0.86,3.0,Withdrawn
 2025,Abdur-Rahmaan,Yaseen,WR,South Florida,,2025-01-20T02:12:00.000Z,0.85,3.0,Immediate
 2025,McCallum,Wright,WR,East Carolina,,2025-04-16T15:43:00.000Z,,,Immediate
 2025,Marquise,Henderson,RB,Clemson,,2025-06-20T17:06:00.000Z,0.88,3.0,Immediate
-2025,Kamani,Jackson,S,Washington State,,2025-01-09T18:47:39.000Z,,3.0,Withdrawn
 2025,Vilay,Nakkoun Jr.,S,Rutgers,,2025-01-02T00:38:00.000Z,,3.0,Immediate
 2025,Treyvon,Adams,DL,James Madison,,2025-04-16T02:22:00.000Z,,,Immediate
 2025,Deston,Hawkins,RB,Nevada,,2025-04-17T20:49:00.000Z,,3.0,Immediate
@@ -10303,7 +10067,6 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Julius,Pope,LB,Arkansas,,2025-04-23T19:28:00.000Z,,3.0,Immediate
 2025,Isaiah,Johnson,CB,Marshall,,2025-04-16T20:37:00.000Z,,4.0,Immediate
 2025,Jalen,Thomas,DL,LSU,,2025-03-21T14:24:00.000Z,,,Immediate
-2025,William,Whitlow Jr.,EDGE,Memphis,,2025-01-17T19:19:57.000Z,0.86,3.0,Withdrawn
 2025,Jacorey,Whitted,OT,Mississippi State,,2025-04-16T14:54:00.000Z,,3.0,Immediate
 2025,Sean,DaVault,LB,Tulsa,,2025-04-16T14:53:00.000Z,,3.0,Immediate
 2025,Roy'Marr,Thomas,EDGE,James Madison,,2025-04-16T17:56:00.000Z,,3.0,Immediate
@@ -10311,9 +10074,7 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Marc,Britt II,WR,UL Monroe,,2025-04-16T13:45:00.000Z,,3.0,Immediate
 2025,Sam,Salz,RB,Texas A&M,,2025-04-16T13:43:00.000Z,,,Immediate
 2025,Terez,Traynor,WR,Charlotte,,2025-01-07T18:52:00.000Z,,3.0,Immediate
-2025,Kobe,Hylton,S,Oklahoma State,,2025-01-08T20:41:15.000Z,,,Withdrawn
 2025,Javeon,Wilcox,S,Texas Tech,,2024-12-17T17:25:00.000Z,,3.0,Immediate
-2025,Christian,Hunt,QB,Arizona State,,2025-07-27T13:09:59.000Z,,3.0,Withdrawn
 2025,Bobby,Engstler,P,Arkansas State,,2025-04-22T01:57:00.000Z,,3.0,Immediate
 2025,Andre,Davis,WR,Kansas State,,2025-04-23T20:20:00.000Z,,3.0,Immediate
 2025,Braylon,Smith,IOL,Kent State,,2025-04-11T16:16:00.000Z,,,Immediate
@@ -10321,55 +10082,38 @@ Season,FirstName,LastName,Position,Origin,Destination,TransferDate,Rating,Stars,
 2025,Makhail,Wood,WR,Eastern Michigan,,2025-04-17T15:34:00.000Z,,3.0,Immediate
 2025,Dycurian,Douglas,WR,Washington State,,2025-04-16T18:54:00.000Z,,,Immediate
 2025,Jalen,Whittaker,CB,Western Michigan,,2025-04-16T13:57:00.000Z,,2.0,Immediate
-2025,Blake,Bosma,TE,Western Michigan,,2025-01-18T16:34:57.000Z,,,Withdrawn
-2025,Zevi,Eckhaus,QB,Washington State,,2024-12-30T21:59:00.000Z,,3.0,Withdrawn
-2025,Mitchell,Mayes,IOL,Charlotte,,2025-01-17T19:15:41.000Z,0.86,3.0,Withdrawn
-2025,Ty,Adams,CB,North Carolina,,2025-01-11T15:04:21.000Z,,3.0,Withdrawn
 2025,Zeed,Haynes,WR,Syracuse,,2025-04-24T19:26:00.000Z,0.86,3.0,Immediate
-2025,Kamron,Beachem,TE,Fresno State,,2025-03-06T23:56:27.000Z,,3.0,Withdrawn
 2025,Julien,Demby,LB,South Alabama,,2025-04-16T20:40:00.000Z,,3.0,Immediate
 2025,Wes,Dorsey,OT,UCF,,2024-12-05T01:29:00.000Z,,2.0,Immediate
 2025,Zach,Evans,RB,North Texas,,2025-01-23T22:18:00.000Z,,3.0,Immediate
 2025,Jadarrius,Perkins,CB,Toledo,,2025-01-08T18:44:00.000Z,,3.0,Immediate
-2025,Daughtry,Richardson,OT,Florida Atlantic,,2024-12-31T14:47:08.000Z,,3.0,Withdrawn
-2025,Zion,Steptoe,WR,Tulsa,,2025-01-22T10:51:28.000Z,,3.0,Withdrawn
 2025,Khafre,Brown,WR,Arkansas,,2025-03-11T05:00:00.000Z,0.84,3.0,Immediate
 2025,Desmyn,Baker,LB,Southern Miss,,2024-12-26T17:42:00.000Z,,2.0,Immediate
 2025,General,Booty,QB,UL Monroe,,2024-12-09T18:07:00.000Z,,,Immediate
-2025,Dorian,Royal,DL,Georgia State,,2025-07-28T00:32:12.000Z,,,Withdrawn
 2025,Reggie,Akles,CB,UConn,,2024-12-09T18:32:00.000Z,,3.0,Immediate
 2025,Ezekiel,Larry,EDGE,San Diego State,,2024-12-09T14:27:00.000Z,,3.0,Immediate
-2025,Jerrae,Williams,S,Washington State,,2025-01-30T22:01:05.000Z,,,Withdrawn
 2025,Angelo,Rankin Jr.,CB,Old Dominion,,2024-12-13T22:05:00.000Z,,3.0,Immediate
 2025,Christian,Fuhrman,LB,Northern Illinois,,2024-12-24T16:47:00.000Z,,,Immediate
 2025,Cedrick,Nicely,OT,Marshall,,2024-12-13T22:12:00.000Z,,3.0,Immediate
 2025,Andre,Jones,WR,Coastal Carolina,,2024-12-09T15:48:00.000Z,,,Immediate
 2025,Keyshawn,Cobb,S,Nevada,,2024-12-27T18:42:00.000Z,,3.0,Immediate
 2025,CJ,James,IOL,UTSA,,2024-12-29T21:31:00.000Z,,,Immediate
-2025,Treyveon,McGee,S,Charlotte,,2025-01-27T17:55:11.000Z,,,Withdrawn
 2025,Sam,Hart,TE,Colorado,,2025-04-15T02:37:00.000Z,,3.0,Immediate
-2025,Fernando,Garza III,TE,Sam Houston,,2025-01-26T18:37:09.000Z,,3.0,Withdrawn
 2025,Kyran,Montgomery,DL,Ball State,,2025-04-16T12:38:00.000Z,,3.0,Immediate
 2025,Moso'oipala,Tuitele,EDGE,New Mexico,,2024-12-28T18:11:00.000Z,,3.0,Immediate
-2025,Richard,Pearce,IOL,New Mexico,,2025-01-23T00:32:53.000Z,,3.0,Withdrawn
-2025,James,Bailey,IOL,New Mexico,,2025-07-27T23:51:44.000Z,,,Withdrawn
 2025,Bryson,Harrison,QB,East Carolina,,2024-12-08T20:01:00.000Z,,3.0,Immediate
 2025,Tre,Pinkney,LB,Southern Miss,,2024-12-26T17:37:00.000Z,,,Immediate
-2025,Joshua,Miller,OT,Syracuse,,2024-12-20T18:06:41.000Z,,3.0,Withdrawn
 2025,Bryce,Childress,WR,Western Kentucky,,2025-01-01T15:20:00.000Z,,3.0,Immediate
 2025,Darryl,Minor Jr.,LB,Memphis,,2024-12-18T15:31:00.000Z,,,Immediate
 2025,David,Conner,IOL,Texas State,,2024-12-20T20:17:00.000Z,,3.0,Immediate
 2025,Hunter,McLain,IOL,James Madison,,2025-04-16T12:34:00.000Z,,3.0,Immediate
 2025,Julien,Simon,LB,UConn,,2024-12-20T15:19:00.000Z,,4.0,Immediate
-2025,Baron,Franks II,IOL,UAB,,2025-01-29T16:52:56.000Z,,,Withdrawn
 2025,Faybian,Marks,CB,Rice,,2024-12-10T19:05:00.000Z,,3.0,Immediate
 2025,Yaser,Al-Awadi,OT,Ball State,,2025-04-16T13:34:00.000Z,,3.0,Immediate
 2025,Davon,Sears,DL,Oklahoma,,2024-12-28T17:26:00.000Z,,3.0,Immediate
 2025,E.J.,Williams,WR,Indiana,,2024-10-23T05:00:00.000Z,0.84,3.0,Immediate
-2025,Mason,Woods,LB,Kent State,,2025-07-28T00:53:28.000Z,,2.0,Withdrawn
 2025,Tristan,Monday,DL,Arizona State,,2024-10-09T18:34:00.000Z,0.82,3.0,Immediate
 2025,Austin,Dean,LB,Georgia Tech,,2025-04-15T03:38:00.000Z,,3.0,Immediate
 2025,Dre,Martin,DL,Charlotte,,2025-04-15T01:50:00.000Z,0.85,3.0,Immediate
-2025,Kasen,Weisman,QB,Florida Atlantic,,2024-12-31T14:47:30.000Z,,3.0,Withdrawn
 2025,Reed,Buys,IOL,South Alabama,,2025-04-26T13:35:00.000Z,,,Immediate
 2025,Blake,Glessner,K,UCLA,,2024-12-09T23:59:00.000Z,,2.0,Immediate
