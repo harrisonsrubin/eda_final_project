@@ -1,786 +1,786 @@
-Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Total Wins,Total Losses,Total Ties,Fpi,Coach,CoachingChange,Transfers_In,Transfers_Out,Net_Change
-2022,2000,Abilene Christian,fcs,Western Athletic,,6.619276325041021,11,7,4,0,,,False,4.0,2.0,2.0
-2023,2000,Abilene Christian,fcs,UAC,,4.092670834702715,11,5,6,0,,,False,13.0,2.0,11.0
-2024,2000,Abilene Christian,fcs,UAC,,7.510918118985642,14,9,5,0,,,False,17.0,7.0,10.0
-2022,2005,Air Force,fbs,Mountain West,Mountain,10.945055964657206,13,10,3,0,3.75,Troy Calhoun,False,0.0,8.0,-8.0
-2023,2005,Air Force,fbs,Mountain West,Mountain,10.725707180645806,13,9,4,0,-0.348,Troy Calhoun,False,0.0,11.0,-11.0
-2024,2005,Air Force,fbs,Mountain West,,6.003887990884624,12,5,7,0,-9.432,Troy Calhoun,False,0.0,12.0,-12.0
-2022,2006,Akron,fbs,Mid-American,East,1.9569268487546383,12,2,10,0,-17.322,Joe Moorhead,False,4.0,12.0,-8.0
-2023,2006,Akron,fbs,Mid-American,East,3.7828815974455225,12,2,10,0,-20.022,Joe Moorhead,False,15.0,22.0,-7.0
-2024,2006,Akron,fbs,Mid-American,,3.5036045156384734,12,4,8,0,-15.896,Joe Moorhead,False,17.0,20.0,-3.0
-2022,333,Alabama,fbs,SEC,West,10.457207126799414,13,11,2,0,27.296,Nick Saban,False,5.0,21.0,-16.0
-2023,333,Alabama,fbs,SEC,West,11.28134746735358,14,12,2,0,24.925,Nick Saban,True,14.0,38.0,-24.0
-2024,333,Alabama,fbs,SEC,,8.697743763438682,13,9,4,0,23.933,Kalen DeBoer,False,11.0,25.0,-14.0
-2022,2010,Alabama A&M,fcs,SWAC,East,3.6017636125329977,11,4,7,0,,,False,2.0,0.0,2.0
-2023,2010,Alabama A&M,fcs,SWAC,East,5.014057161772787,11,5,6,0,,,False,9.0,0.0,9.0
-2024,2010,Alabama A&M,fcs,SWAC,East,6.349757501816714,12,6,6,0,,,False,2.0,10.0,-8.0
-2022,2011,Alabama State,fcs,SWAC,East,3.9679405167347137,11,6,5,0,,,False,1.0,1.0,0.0
-2023,2011,Alabama State,fcs,SWAC,East,6.448193527755483,11,7,4,0,,,False,3.0,5.0,-2.0
-2024,2011,Alabama State,fcs,SWAC,East,7.043831005651268,12,7,5,0,,,False,6.0,6.0,0.0
-2022,2016,Alcorn State,fcs,SWAC,West,4.594800189268715,11,5,6,0,,,False,1.0,0.0,1.0
-2023,2016,Alcorn State,fcs,SWAC,West,4.436856478606804,11,7,4,0,,,False,1.0,1.0,0.0
-2024,2016,Alcorn State,fcs,SWAC,West,4.105922010408881,12,6,6,0,,,False,4.0,3.0,1.0
-2022,2026,App State,fbs,Sun Belt,East,7.063498665750302,12,6,6,0,0.411,Shawn Clark,False,13.0,14.0,-1.0
-2023,2026,App State,fbs,Sun Belt,East,9.700118352434076,14,9,5,0,-0.603,Shawn Clark,False,15.0,21.0,-6.0
-2024,2026,App State,fbs,Sun Belt,East,4.634148235331524,11,5,6,0,-6.788,Shawn Clark,False,32.0,41.0,-9.0
-2022,12,Arizona,fbs,Pac-12,,3.9937131368146206,12,5,7,0,-2.006,Jedd Fisch,False,8.0,26.0,-18.0
-2023,12,Arizona,fbs,Pac-12,,8.681701369190113,13,10,3,0,11.44,Jedd Fisch,True,24.0,26.0,-2.0
-2024,12,Arizona,fbs,Big 12,,4.2167032230106,12,4,8,0,-3.385,Brent Brennan,False,30.0,35.0,-5.0
-2022,9,Arizona State,fbs,Pac-12,,5.358043951592553,12,3,9,0,-2.18,Shaun Aguano,True,30.0,30.0,0.0
-2023,9,Arizona State,fbs,Pac-12,,3.634008578313207,12,3,9,0,-7.512,Kenny Dillingham,False,28.0,28.0,0.0
-2024,9,Arizona State,fbs,Big 12,,10.650130252853703,14,11,3,0,11.793,Kenny Dillingham,False,17.0,21.0,-4.0
-2022,8,Arkansas,fbs,SEC,West,8.529310198585382,13,7,6,0,6.93,Sam Pittman,False,17.0,31.0,-14.0
-2023,8,Arkansas,fbs,SEC,West,5.498399801920857,12,4,8,0,2.225,Sam Pittman,False,22.0,30.0,-8.0
-2024,8,Arkansas,fbs,SEC,,7.87864305772377,13,7,6,0,8.19,Sam Pittman,False,31.0,41.0,-10.0
-2022,2032,Arkansas State,fbs,Sun Belt,West,4.003603191739838,12,3,9,0,-12.029,Butch Jones,False,8.0,13.0,-5.0
-2023,2032,Arkansas State,fbs,Sun Belt,West,5.607116358162902,13,6,7,0,-8.951,Butch Jones,False,17.0,21.0,-4.0
-2024,2032,Arkansas State,fbs,Sun Belt,West,4.608030386779824,13,8,5,0,-11.861,Butch Jones,False,32.0,29.0,3.0
-2022,2029,Arkansas-Pine Bluff,fcs,SWAC,West,0.7137960874731222,11,3,8,0,,,False,,,
-2023,2029,Arkansas-Pine Bluff,fcs,SWAC,West,0.942596842009613,11,2,9,0,,,False,3.0,3.0,0.0
-2024,2029,Arkansas-Pine Bluff,fcs,SWAC,West,3.394463745619437,12,3,9,0,,,False,1.0,6.0,-5.0
-2022,349,Army,fbs,FBS Independents,,7.143472376623744,12,6,6,0,-2.508,Jeff Monken,False,0.0,1.0,-1.0
-2023,349,Army,fbs,FBS Independents,,6.64921384272946,12,6,6,0,-8.953,Jeff Monken,False,0.0,9.0,-9.0
-2024,349,Army,fbs,American Athletic,,11.900202639307905,14,12,2,0,5.27,Jeff Monken,False,0.0,10.0,-10.0
-2022,2,Auburn,fbs,SEC,West,6.735980425211763,12,5,7,0,6.205,Bryan Harsin,True,21.0,21.0,0.0
-2023,2,Auburn,fbs,SEC,West,6.402269708738939,13,6,7,0,8.916,Hugh Freeze,False,15.0,23.0,-8.0
-2024,2,Auburn,fbs,SEC,,7.215416284028155,12,5,7,0,9.659,Hugh Freeze,False,21.0,27.0,-6.0
-2022,2046,Austin Peay,fcs,Atlantic Sun,,4.844503562991815,11,7,4,0,,,False,3.0,4.0,-1.0
-2023,2046,Austin Peay,fcs,UAC,,8.155227698372581,12,9,3,0,,,False,17.0,19.0,-2.0
-2024,2046,Austin Peay,fcs,UAC,,3.2783261180519543,12,4,8,0,,,False,23.0,8.0,15.0
-2022,252,BYU,fbs,FBS Independents,,6.633978548013562,13,8,5,0,0.819,Kalani Sitake,False,20.0,21.0,-1.0
-2023,252,BYU,fbs,Big 12,,3.616112728780986,12,5,7,0,-1.805,Kalani Sitake,False,9.0,16.0,-7.0
-2024,252,BYU,fbs,Big 12,,8.43082937690976,13,11,2,0,9.307,Kalani Sitake,False,13.0,28.0,-15.0
-2022,2050,Ball State,fbs,Mid-American,West,4.568672872453927,12,5,7,0,-13.093,Mike Neu,False,10.0,10.0,0.0
-2023,2050,Ball State,fbs,Mid-American,West,5.707794769305532,12,4,8,0,-11.731,Mike Neu,True,11.0,14.0,-3.0
-2024,2050,Ball State,fbs,Mid-American,,3.354466754494901,12,3,9,0,-18.001,Colin Johnson,False,24.0,32.0,-8.0
-2022,239,Baylor,fbs,Big 12,,7.3809750936245955,13,6,7,0,9.044,Dave Aranda,False,13.0,12.0,1.0
-2023,239,Baylor,fbs,Big 12,,2.4182643705434783,12,3,9,0,-4.924,Dave Aranda,False,16.0,15.0,1.0
-2024,239,Baylor,fbs,Big 12,,8.056130708179111,13,8,5,0,9.105,Dave Aranda,False,23.0,17.0,6.0
-2022,2065,Bethune-Cookman,fcs,SWAC,East,0.4132538168908989,11,2,9,0,,,False,3.0,0.0,3.0
-2023,2065,Bethune-Cookman,fcs,SWAC,East,3.1600734988235017,11,3,8,0,,,False,9.0,1.0,8.0
-2024,2065,Bethune-Cookman,fcs,SWAC,East,2.872763011404083,12,2,10,0,,,False,5.0,5.0,0.0
-2022,68,Boise State,fbs,Mountain West,Mountain,10.46502299308519,14,10,4,0,3.797,Andy Avalos,False,9.0,17.0,-8.0
-2023,68,Boise State,fbs,Mountain West,Mountain,9.081047051623498,14,8,6,0,5.186,Andy Avalos,True,8.0,14.0,-6.0
-2024,68,Boise State,fbs,Mountain West,,10.79894123241294,14,12,2,0,10.993,Spencer Danielson,False,12.0,18.0,-6.0
-2022,103,Boston College,fbs,ACC,Atlantic,3.109028249629926,12,3,9,0,-7.442,Jeff Hafley,False,9.0,11.0,-2.0
-2023,103,Boston College,fbs,ACC,Atlantic,6.006971636459468,13,7,6,0,-5.102,Jeff Hafley,True,10.0,17.0,-7.0
-2024,103,Boston College,fbs,ACC,,7.269577560273723,13,7,6,0,4.829,Bill O'Brien,False,15.0,19.0,-4.0
-2022,189,Bowling Green,fbs,Mid-American,East,4.934003313814598,13,6,7,0,-16.18,Scot Loeffler,False,3.0,16.0,-13.0
-2023,189,Bowling Green,fbs,Mid-American,East,6.787308531770462,13,7,6,0,-5.514,Scot Loeffler,False,13.0,15.0,-2.0
-2024,189,Bowling Green,fbs,Mid-American,,7.443176189935018,13,7,6,0,-3.156,Scot Loeffler,False,21.0,27.0,-6.0
-2022,225,Brown,fcs,Ivy,,2.3413269603973346,10,3,7,0,,,False,,,
-2023,225,Brown,fcs,Ivy,,3.071362271014605,10,5,5,0,,,False,0.0,3.0,-3.0
-2024,225,Brown,fcs,Ivy,,2.330663727593172,10,3,7,0,,,False,0.0,3.0,-3.0
-2022,2803,Bryant,fcs,Big South,,3.1252304982836763,11,4,7,0,,,False,0.0,1.0,-1.0
-2023,2803,Bryant,fcs,Big South-OVC,,4.317958007293824,11,6,5,0,,,False,7.0,2.0,5.0
-2024,2803,Bryant,fcs,CAA,,1.3029257302905914,12,2,10,0,,,False,5.0,1.0,4.0
-2022,2083,Bucknell,fcs,Patriot,,2.3458811183569717,11,3,8,0,,,False,1.0,2.0,-1.0
-2023,2083,Bucknell,fcs,Patriot,,3.832023483284371,11,4,7,0,,,False,2.0,3.0,-1.0
-2024,2083,Bucknell,fcs,Patriot,,3.5531097514481544,12,6,6,0,,,False,4.0,5.0,-1.0
-2022,2084,Buffalo,fbs,Mid-American,East,7.196565220621764,13,7,6,0,-7.709,Maurice Linguist,False,10.0,14.0,-4.0
-2023,2084,Buffalo,fbs,Mid-American,East,3.559438224966651,12,3,9,0,-13.592,Maurice Linguist,True,17.0,16.0,1.0
-2024,2084,Buffalo,fbs,Mid-American,,7.680281927021848,13,9,4,0,-10.361,Pete Lembo,False,8.0,9.0,-1.0
-2022,2086,Butler,fcs,Pioneer,,5.2714842191530655,11,7,4,0,,,False,,,
-2023,2086,Butler,fcs,Pioneer,,6.288394164009767,11,7,4,0,,,False,2.0,0.0,2.0
-2024,2086,Butler,fcs,Pioneer,,8.128107045952397,12,9,3,0,,,False,4.0,4.0,0.0
-2022,13,Cal Poly,fcs,Big Sky,,0.7571997215612569,11,2,9,0,,,False,4.0,3.0,1.0
-2023,13,Cal Poly,fcs,Big Sky,,1.2514331280596236,11,3,8,0,,,False,2.0,2.0,0.0
-2024,13,Cal Poly,fcs,Big Sky,,3.2155881053308364,11,3,8,0,,,False,8.0,7.0,1.0
-2022,25,California,fbs,Pac-12,,3.658513391775718,12,4,8,0,-1.39,Justin Wilcox,False,20.0,26.0,-6.0
-2023,25,California,fbs,Pac-12,,6.406684563955697,13,6,7,0,4.077,Justin Wilcox,False,23.0,23.0,0.0
-2024,25,California,fbs,ACC,,6.989497551923431,13,6,7,0,4.302,Justin Wilcox,False,36.0,33.0,3.0
-2022,2097,Campbell,fcs,Big South,,3.3090112612701663,11,5,6,0,,,False,6.0,3.0,3.0
-2023,2097,Campbell,fcs,CAA,,4.271722950516014,11,5,6,0,,,False,7.0,7.0,0.0
-2024,2097,Campbell,fcs,CAA,,3.289399913893555,12,3,9,0,,,False,7.0,11.0,-4.0
-2022,2110,Central Arkansas,fcs,Atlantic Sun,,5.216660897754934,11,5,6,0,,,False,1.0,0.0,1.0
-2023,2110,Central Arkansas,fcs,UAC,,5.799745722918235,11,7,4,0,,,False,1.0,2.0,-1.0
-2024,2110,Central Arkansas,fcs,UAC,,7.261038030166604,12,6,6,0,,,False,10.0,3.0,7.0
-2022,2115,Central Connecticut,fcs,NEC,,0.2551171278492835,11,2,9,0,,,False,,,
-2023,2115,Central Connecticut,fcs,NEC,,4.976237952801305,11,3,8,0,,,False,2.0,0.0,2.0
-2024,2115,Central Connecticut,fcs,NEC,,4.930284855305205,13,7,6,0,,,False,2.0,1.0,1.0
-2022,2117,Central Michigan,fbs,Mid-American,West,5.347255088515795,12,4,8,0,-11.129,Jim McElwain,False,2.0,11.0,-9.0
-2023,2117,Central Michigan,fbs,Mid-American,West,3.7643715399385247,12,5,7,0,-13.01,Jim McElwain,False,6.0,16.0,-10.0
-2024,2117,Central Michigan,fbs,Mid-American,,4.9844152073936945,12,4,8,0,-14.808,Jim McElwain,False,10.0,14.0,-4.0
-2022,2127,Charleston Southern,fcs,Big South,,1.8902236848703595,10,2,8,0,,,False,,,
-2023,2127,Charleston Southern,fcs,Big South-OVC,,3.5489013285891327,11,4,7,0,,,False,0.0,2.0,-2.0
-2024,2127,Charleston Southern,fcs,Big South-OVC,,4.694073919642045,12,1,11,0,,,False,4.0,4.0,0.0
-2022,2429,Charlotte,fbs,Conference USA,,2.376026993426871,12,3,9,0,-17.759,Will Healy,True,17.0,21.0,-4.0
-2023,2429,Charlotte,fbs,American Athletic,,3.2378180541361177,12,3,9,0,-14.993,Biff Poggi,True,28.0,29.0,-1.0
-2024,2429,Charlotte,fbs,American Athletic,,3.044270826042523,12,5,7,0,-13.522,Tim Brewster,False,34.0,35.0,-1.0
-2022,236,Chattanooga,fcs,Southern,,7.286317328035098,11,7,4,0,,,False,,,
-2023,236,Chattanooga,fcs,Southern,,8.429357601108954,13,8,5,0,,,False,4.0,2.0,2.0
-2024,236,Chattanooga,fcs,Southern,,7.405368727873858,12,7,5,0,,,False,5.0,15.0,-10.0
-2022,2132,Cincinnati,fbs,American Athletic,,7.485065533095179,13,9,4,0,6.451,Kerry Coombs,True,21.0,25.0,-4.0
-2023,2132,Cincinnati,fbs,Big 12,,4.992730474292186,12,3,9,0,-1.067,Scott Satterfield,False,24.0,32.0,-8.0
-2024,2132,Cincinnati,fbs,Big 12,,6.15828810810061,12,5,7,0,3.423,Scott Satterfield,False,20.0,13.0,7.0
-2022,228,Clemson,fbs,ACC,Atlantic,11.041650620669936,14,11,3,0,17.553,Dabo Swinney,False,1.0,11.0,-10.0
-2023,228,Clemson,fbs,ACC,Atlantic,8.821833855095537,13,9,4,0,13.892,Dabo Swinney,False,0.0,11.0,-11.0
-2024,228,Clemson,fbs,ACC,,9.84249544952703,14,10,4,0,14.768,Dabo Swinney,False,4.0,9.0,-5.0
-2022,324,Coastal Carolina,fbs,Sun Belt,East,6.995402100022587,13,9,4,0,-6.531,Jamey Chadwell,True,13.0,19.0,-6.0
-2023,324,Coastal Carolina,fbs,Sun Belt,East,7.735956111567856,13,8,5,0,-2.807,Tim Beck,False,18.0,29.0,-11.0
-2024,324,Coastal Carolina,fbs,Sun Belt,East,5.987129355324899,13,6,7,0,-6.068,Tim Beck,False,30.0,49.0,-19.0
-2022,2142,Colgate,fcs,Patriot,,1.992678327905735,11,3,8,0,,,False,0.0,2.0,-2.0
-2023,2142,Colgate,fcs,Patriot,,4.330566702267356,11,6,5,0,,,False,0.0,1.0,-1.0
-2024,2142,Colgate,fcs,Patriot,,1.700115021657041,12,2,10,0,,,False,0.0,3.0,-3.0
-2022,38,Colorado,fbs,Pac-12,,1.0413059166536356,12,1,11,0,-17.068,Karl Dorrell,True,48.0,59.0,-11.0
-2023,38,Colorado,fbs,Pac-12,,3.3075221739721936,12,4,8,0,-2.096,Deion Sanders,False,41.0,41.0,0.0
-2024,38,Colorado,fbs,Big 12,,7.453874345036746,13,9,4,0,12.691,Deion Sanders,False,33.0,34.0,-1.0
-2022,36,Colorado State,fbs,Mountain West,Mountain,4.0196839090231835,12,3,9,0,-17.083,Jay Norvell,False,10.0,20.0,-10.0
-2023,36,Colorado State,fbs,Mountain West,Mountain,4.613402492008079,12,5,7,0,-11.774,Jay Norvell,False,11.0,19.0,-8.0
-2024,36,Colorado State,fbs,Mountain West,,6.94186753918691,13,8,5,0,-7.622,Jay Norvell,False,18.0,13.0,5.0
-2022,171,Columbia,fcs,Ivy,,3.8640851977716055,10,6,4,0,,,False,0.0,1.0,-1.0
-2023,171,Columbia,fcs,Ivy,,3.5519949097552006,10,3,7,0,,,False,1.0,2.0,-1.0
-2024,171,Columbia,fcs,Ivy,,6.783935758788738,10,7,3,0,,,False,0.0,5.0,-5.0
-2022,172,Cornell,fcs,Ivy,,4.602521774038873,10,5,5,0,,,False,0.0,1.0,-1.0
-2023,172,Cornell,fcs,Ivy,,3.335062370751134,10,3,7,0,,,False,0.0,5.0,-5.0
-2024,172,Cornell,fcs,Ivy,,3.851655235601996,10,4,6,0,,,False,0.0,5.0,-5.0
-2022,159,Dartmouth,fcs,Ivy,,3.156068706569522,10,3,7,0,,,False,0.0,2.0,-2.0
-2023,159,Dartmouth,fcs,Ivy,,5.8216637421946515,10,6,4,0,,,False,0.0,5.0,-5.0
-2024,159,Dartmouth,fcs,Ivy,,7.2263614970102354,10,8,2,0,,,False,0.0,7.0,-7.0
-2022,2166,Davidson,fcs,Pioneer,,8.256760730001016,12,8,4,0,,,False,,,
-2023,2166,Davidson,fcs,Pioneer,,6.888047749858981,11,7,4,0,,,False,,,
-2024,2166,Davidson,fcs,Pioneer,,7.944895023913462,11,6,5,0,,,False,0.0,4.0,-4.0
-2022,2168,Dayton,fcs,Pioneer,,4.553713433720291,11,8,3,0,,,False,0.0,1.0,-1.0
-2023,2168,Dayton,fcs,Pioneer,,2.392336025359256,11,4,7,0,,,False,,,
-2024,2168,Dayton,fcs,Pioneer,,5.154098892711915,11,6,5,0,,,False,3.0,1.0,2.0
-2022,48,Delaware,fcs,CAA,,6.447393942530757,13,8,5,0,,,False,0.0,2.0,-2.0
-2023,48,Delaware,fcs,CAA,,7.214955178376123,13,9,4,0,,,False,7.0,1.0,6.0
-2024,48,Delaware,fcs,CAA,,7.733101421864328,11,9,2,0,,,False,8.0,3.0,5.0
-2022,2169,Delaware State,fcs,MEAC,,4.291263749452449,11,5,6,0,,,False,,,
-2023,2169,Delaware State,fcs,MEAC,,0.3193097251637879,11,1,10,0,,,False,4.0,1.0,3.0
-2024,2169,Delaware State,fcs,MEAC,,1.3953956479762737,12,1,11,0,,,False,8.0,2.0,6.0
-2022,2181,Drake,fcs,Pioneer,,3.510139288034585,11,3,8,0,,,False,,,
-2023,2181,Drake,fcs,Pioneer,,5.132249011657844,12,8,4,0,,,False,,,
-2024,2181,Drake,fcs,Pioneer,,5.031754763963682,12,8,3,1,,,False,2.0,2.0,0.0
-2022,150,Duke,fbs,ACC,Coastal,8.388743574134134,13,9,4,0,5.349,Mike Elko,False,6.0,16.0,-10.0
-2023,150,Duke,fbs,ACC,Coastal,6.941561596412663,13,8,5,0,8.778,Mike Elko,True,18.0,18.0,0.0
-2024,150,Duke,fbs,ACC,,7.012492966063774,13,9,4,0,3.686,Manny Diaz,False,9.0,13.0,-4.0
-2022,2184,Duquesne,fcs,NEC,,1.8984614675780915,11,4,7,0,,,False,1.0,2.0,-1.0
-2023,2184,Duquesne,fcs,NEC,,6.817659288067889,12,7,5,0,,,False,3.0,2.0,1.0
-2024,2184,Duquesne,fcs,NEC,,8.262043736130071,11,8,3,0,,,False,8.0,2.0,6.0
-2022,151,East Carolina,fbs,American Athletic,,7.976078563945352,13,8,5,0,1.775,Mike Houston,False,17.0,25.0,-8.0
-2023,151,East Carolina,fbs,American Athletic,,3.4861740337285267,12,2,10,0,-7.708,Mike Houston,True,17.0,33.0,-16.0
-2024,151,East Carolina,fbs,American Athletic,,7.023829245479379,13,8,5,0,-5.922,Blake Harrell,False,24.0,31.0,-7.0
-2022,2193,East Tennessee State,fcs,Southern,,1.805273469822306,11,3,8,0,,,False,2.0,3.0,-1.0
-2023,2193,East Tennessee State,fcs,Southern,,3.633076957012279,11,3,8,0,,,False,6.0,3.0,3.0
-2024,2193,East Tennessee State,fcs,Southern,,8.633478838944345,12,7,5,0,,,False,27.0,9.0,18.0
-2022,2837,East Texas A&M,fcs,Southland,,6.347967104667822,11,5,6,0,,,False,,,
-2023,2837,East Texas A&M,fcs,Southland,,2.260471854323025,11,2,9,0,,,False,,,
-2024,2837,East Texas A&M,fcs,Southland,,2.95272772602766,12,3,9,0,,,False,5.0,4.0,1.0
-2022,2197,Eastern Illinois,fcs,OVC,,2.9689612461658372,11,2,9,0,,,False,0.0,1.0,-1.0
-2023,2197,Eastern Illinois,fcs,Big South-OVC,,4.357387853584667,11,8,3,0,,,False,3.0,2.0,1.0
-2024,2197,Eastern Illinois,fcs,Big South-OVC,,3.1005088691457834,12,3,9,0,,,False,3.0,3.0,0.0
-2022,2198,Eastern Kentucky,fcs,Atlantic Sun,,5.221133734145742,12,7,5,0,,,False,1.0,1.0,0.0
-2023,2198,Eastern Kentucky,fcs,UAC,,4.472065406413171,11,5,6,0,,,False,3.0,4.0,-1.0
-2024,2198,Eastern Kentucky,fcs,UAC,,6.906684058215723,13,8,5,0,,,False,3.0,2.0,1.0
-2022,2199,Eastern Michigan,fbs,Mid-American,West,8.267295377093223,13,9,4,0,-9.685,Chris Creighton,False,5.0,10.0,-5.0
-2023,2199,Eastern Michigan,fbs,Mid-American,West,4.53850427462027,13,6,7,0,-14.689,Chris Creighton,False,21.0,24.0,-3.0
-2024,2199,Eastern Michigan,fbs,Mid-American,,3.224629329317106,12,5,7,0,-13.481,Chris Creighton,False,20.0,30.0,-10.0
-2022,331,Eastern Washington,fcs,Big Sky,,2.935444208553952,11,3,8,0,,,False,3.0,4.0,-1.0
-2023,331,Eastern Washington,fcs,Big Sky,,3.5725790536658577,11,4,7,0,,,False,5.0,3.0,2.0
-2024,331,Eastern Washington,fcs,Big Sky,,4.079424543889022,12,4,8,0,,,False,5.0,4.0,1.0
-2022,2210,Elon,fcs,CAA,,5.792262376836578,12,8,4,0,,,False,1.0,1.0,0.0
-2023,2210,Elon,fcs,CAA,,5.774876562516108,11,6,5,0,,,False,3.0,5.0,-2.0
-2024,2210,Elon,fcs,CAA,,6.715781593240965,12,6,6,0,,,False,2.0,10.0,-8.0
-2022,57,Florida,fbs,SEC,East,6.254924744494766,13,6,7,0,7.555,Billy Napier,False,12.0,25.0,-13.0
-2023,57,Florida,fbs,SEC,East,5.9464788624945,12,5,7,0,6.342,Billy Napier,False,15.0,23.0,-8.0
-2024,57,Florida,fbs,SEC,,7.748073980235289,13,8,5,0,11.901,Billy Napier,False,8.0,20.0,-12.0
-2022,50,Florida A&M,fcs,SWAC,East,4.966142011088119,11,9,2,0,,,False,5.0,1.0,4.0
-2023,50,Florida A&M,fcs,SWAC,East,8.36272762138727,13,12,1,0,,,False,24.0,9.0,15.0
-2024,50,Florida A&M,fcs,SWAC,East,4.607692699266125,12,7,5,0,,,False,17.0,5.0,12.0
-2022,2226,Florida Atlantic,fbs,Conference USA,,7.021202189835405,12,5,7,0,-4.413,Willie Taggart,True,12.0,18.0,-6.0
-2023,2226,Florida Atlantic,fbs,American Athletic,,3.923183905309284,12,4,8,0,-7.215,Tom Herman,False,20.0,34.0,-14.0
-2024,2226,Florida Atlantic,fbs,American Athletic,,5.428544497529731,12,3,9,0,-12.288,Tom Herman,False,38.0,32.0,6.0
-2022,2229,Florida International,fbs,Conference USA,,2.4866482887519537,12,4,8,0,-25.404,Mike MacIntyre,False,8.0,19.0,-11.0
-2023,2229,Florida International,fbs,Conference USA,,3.1718629850145237,12,4,8,0,-21.253,Mike MacIntyre,False,10.0,16.0,-6.0
-2024,2229,Florida International,fbs,Conference USA,,6.384605791367858,12,4,8,0,-11.982,Mike MacIntyre,False,23.0,34.0,-11.0
-2022,52,Florida State,fbs,ACC,Atlantic,9.494500205110302,13,10,3,0,15.503,Mike Norvell,False,11.0,23.0,-12.0
-2023,52,Florida State,fbs,ACC,Atlantic,10.452484506827076,14,13,1,0,19.915,Mike Norvell,False,17.0,18.0,-1.0
-2024,52,Florida State,fbs,ACC,,1.8067782514400064,12,2,10,0,-3.911,Mike Norvell,False,22.0,33.0,-11.0
-2022,2230,Fordham,fcs,Patriot,,7.365988331373684,12,9,3,0,,,False,1.0,1.0,0.0
-2023,2230,Fordham,fcs,Patriot,,5.747460974530086,11,6,5,0,,,False,0.0,1.0,-1.0
-2024,2230,Fordham,fcs,Patriot,,1.978714785183752,12,2,10,0,,,False,0.0,2.0,-2.0
-2022,278,Fresno State,fbs,Mountain West,West,8.401889406908776,14,10,4,0,3.726,Jeff Tedford,False,8.0,24.0,-16.0
-2023,278,Fresno State,fbs,Mountain West,West,6.207914118436058,13,9,4,0,-3.493,Jeff Tedford,True,7.0,11.0,-4.0
-2024,278,Fresno State,fbs,Mountain West,,6.477155329024348,13,6,7,0,-2.996,Tim Skipper,False,21.0,22.0,-1.0
-2022,231,Furman,fcs,Southern,,7.961501202526168,13,10,3,0,,,False,0.0,2.0,-2.0
-2023,231,Furman,fcs,Southern,,7.509132008810567,13,10,3,0,,,False,2.0,6.0,-4.0
-2024,231,Furman,fcs,Southern,,2.806022283083705,12,3,8,1,,,False,3.0,3.0,0.0
-2022,2241,Gardner-Webb,fcs,Big South,,7.545907715952489,13,7,6,0,,,False,1.0,1.0,0.0
-2023,2241,Gardner-Webb,fcs,Big South-OVC,,2.547249910240363,12,7,5,0,,,False,12.0,7.0,5.0
-2024,2241,Gardner-Webb,fcs,Big South-OVC,,5.40458009150313,12,4,8,0,,,False,9.0,8.0,1.0
-2022,46,Georgetown,fcs,Patriot,,2.71926373163401,11,2,9,0,,,False,0.0,1.0,-1.0
-2023,46,Georgetown,fcs,Patriot,,5.8599218918028475,11,5,6,0,,,False,1.0,3.0,-2.0
-2024,46,Georgetown,fcs,Patriot,,5.135416941537501,11,5,6,0,,,False,1.0,2.0,-1.0
-2022,61,Georgia,fbs,SEC,East,14.38770281519346,15,15,0,0,29.908,Kirby Smart,False,4.0,15.0,-11.0
-2023,61,Georgia,fbs,SEC,East,12.5577106502658,14,13,1,0,24.777,Kirby Smart,False,11.0,26.0,-15.0
-2024,61,Georgia,fbs,SEC,,9.672673443996022,14,11,3,0,22.091,Kirby Smart,False,10.0,20.0,-10.0
-2022,290,Georgia Southern,fbs,Sun Belt,East,4.3310468065594065,13,6,7,0,-6.049,Clay Helton,False,15.0,15.0,0.0
-2023,290,Georgia Southern,fbs,Sun Belt,East,4.860874030795419,13,6,7,0,-7.579,Clay Helton,False,12.0,18.0,-6.0
-2024,290,Georgia Southern,fbs,Sun Belt,East,5.675921573133078,13,8,5,0,-2.353,Clay Helton,False,16.0,16.0,0.0
-2022,2247,Georgia State,fbs,Sun Belt,East,6.615837884863028,12,4,8,0,-4.864,Shawn Elliott,False,19.0,20.0,-1.0
-2023,2247,Georgia State,fbs,Sun Belt,East,7.416657249880071,13,7,6,0,-8.616,Shawn Elliott,False,31.0,34.0,-3.0
-2024,2247,Georgia State,fbs,Sun Belt,East,1.977850522614789,12,3,9,0,-10.248,Shawn Elliott,False,27.0,35.0,-8.0
-2022,59,Georgia Tech,fbs,ACC,Coastal,3.684522199634893,12,5,7,0,-3.476,Geoff Collins,True,16.0,20.0,-4.0
-2023,59,Georgia Tech,fbs,ACC,Coastal,5.721089519848352,13,7,6,0,3.049,Brent Key,False,12.0,31.0,-19.0
-2024,59,Georgia Tech,fbs,ACC,,8.299482815850844,13,7,6,0,7.402,Brent Key,False,23.0,31.0,-8.0
-2022,2755,Grambling,fcs,SWAC,West,1.658698652363663,11,3,8,0,,,False,2.0,3.0,-1.0
-2023,2755,Grambling,fcs,SWAC,West,3.34322471270622,11,5,6,0,,,False,10.0,12.0,-2.0
-2024,2755,Grambling,fcs,SWAC,West,3.28555597070419,12,5,7,0,,,False,4.0,5.0,-1.0
-2022,2261,Hampton,fcs,CAA,,2.494160686654431,11,4,7,0,,,False,2.0,0.0,2.0
-2023,2261,Hampton,fcs,CAA,,1.4988549127232589,11,5,6,0,,,False,6.0,1.0,5.0
-2024,2261,Hampton,fcs,CAA,,7.758119690301314,12,5,7,0,,,False,3.0,10.0,-7.0
-2022,108,Harvard,fcs,Ivy,,5.087244794403477,10,6,4,0,,,False,0.0,5.0,-5.0
-2023,108,Harvard,fcs,Ivy,,6.362051819171635,10,8,2,0,,,False,0.0,9.0,-9.0
-2024,108,Harvard,fcs,Ivy,,7.140523984162304,10,8,2,0,,,False,0.0,10.0,-10.0
-2022,62,Hawai'i,fbs,Mountain West,West,2.9155671643628924,13,3,10,0,-19.508,Timmy Chang,False,8.0,9.0,-1.0
-2023,62,Hawai'i,fbs,Mountain West,West,3.9713952343657537,13,5,8,0,-14.93,Timmy Chang,False,6.0,10.0,-4.0
-2024,62,Hawai'i,fbs,Mountain West,,5.3011440218501615,12,5,7,0,-11.741,Timmy Chang,False,13.0,23.0,-10.0
-2022,107,Holy Cross,fcs,Patriot,,8.70978908560281,13,12,1,0,,,False,0.0,2.0,-2.0
-2023,107,Holy Cross,fcs,Patriot,,6.591111083477448,11,7,4,0,,,False,0.0,8.0,-8.0
-2024,107,Holy Cross,fcs,Patriot,,7.392228181314701,12,6,6,0,,,False,3.0,8.0,-5.0
-2022,248,Houston,fbs,American Athletic,,7.952554865690328,13,8,5,0,4.061,Dana Holgorsen,False,20.0,21.0,-1.0
-2023,248,Houston,fbs,Big 12,,2.775606899817383,12,4,8,0,-2.113,Dana Holgorsen,True,27.0,32.0,-5.0
-2024,248,Houston,fbs,Big 12,,4.963046480468042,12,4,8,0,-3.444,Willie Fritz,False,28.0,28.0,0.0
-2022,2277,Houston Christian,fcs,Southland,,0.956822731411616,11,2,9,0,,,False,4.0,1.0,3.0
-2023,2277,Houston Christian,fcs,Southland,,5.0494846707789165,11,6,5,0,,,False,4.0,4.0,0.0
-2024,2277,Houston Christian,fcs,Southland,,4.378869218525365,12,5,7,0,,,False,15.0,10.0,5.0
-2022,47,Howard,fcs,MEAC,,4.8616775542195265,11,5,6,0,,,False,0.0,1.0,-1.0
-2023,47,Howard,fcs,MEAC,,6.770957034171893,12,6,6,0,,,False,4.0,1.0,3.0
-2024,47,Howard,fcs,MEAC,,3.5531196917467796,12,4,8,0,,,False,0.0,1.0,-1.0
-2022,70,Idaho,fcs,Big Sky,,4.884959962581094,12,7,5,0,,,False,,,
-2023,70,Idaho,fcs,Big Sky,,8.426868177608787,13,9,4,0,,,False,2.0,8.0,-6.0
-2024,70,Idaho,fcs,Big Sky,,7.557434909738274,14,10,4,0,,,False,8.0,19.0,-11.0
-2022,304,Idaho State,fcs,Big Sky,,0.0798982339467246,11,1,10,0,,,False,1.0,2.0,-1.0
-2023,304,Idaho State,fcs,Big Sky,,1.0266924781399058,11,3,8,0,,,False,5.0,2.0,3.0
-2024,304,Idaho State,fcs,Big Sky,,2.632166071208872,12,5,7,0,,,False,6.0,6.0,0.0
-2022,356,Illinois,fbs,Big Ten,West,10.178352321979332,13,8,5,0,9.857,Bret Bielema,False,7.0,11.0,-4.0
-2023,356,Illinois,fbs,Big Ten,West,5.843894709926475,12,5,7,0,0.543,Bret Bielema,False,12.0,24.0,-12.0
-2024,356,Illinois,fbs,Big Ten,,8.468578368934404,13,10,3,0,5.208,Bret Bielema,False,18.0,22.0,-4.0
-2022,2287,Illinois State,fcs,MVFC,,4.147435922307085,11,6,5,0,,,False,2.0,0.0,2.0
-2023,2287,Illinois State,fcs,MVFC,,6.55761863673337,11,6,5,0,,,False,4.0,1.0,3.0
-2024,2287,Illinois State,fcs,MVFC,,8.824562256663516,14,10,4,0,,,False,7.0,6.0,1.0
-2022,2916,Incarnate Word,fcs,Southland,,10.884129877027348,14,12,2,0,,,False,14.0,10.0,4.0
-2023,2916,Incarnate Word,fcs,Southland,,7.282727945505266,11,9,2,0,,,False,11.0,1.0,10.0
-2024,2916,Incarnate Word,fcs,Southland,,8.883592135721559,14,11,3,0,,,False,13.0,8.0,5.0
-2022,84,Indiana,fbs,Big Ten,East,1.7430787709538371,12,4,8,0,-4.19,Tom Allen,False,23.0,24.0,-1.0
-2023,84,Indiana,fbs,Big Ten,East,4.168797102906604,12,3,9,0,-2.761,Tom Allen,True,30.0,39.0,-9.0
-2024,84,Indiana,fbs,Big Ten,,10.765014753505865,13,11,2,0,18.73,Curt Cignetti,False,23.0,27.0,-4.0
-2022,282,Indiana State,fcs,MVFC,,3.730924424671392,11,2,9,0,,,False,1.0,0.0,1.0
-2023,282,Indiana State,fcs,MVFC,,2.4359982312468436,11,1,10,0,,,False,4.0,5.0,-1.0
-2024,282,Indiana State,fcs,MVFC,,4.238985044016304,12,4,8,0,,,False,8.0,4.0,4.0
-2022,2294,Iowa,fbs,Big Ten,West,6.882733665105909,13,8,5,0,7.409,Kirk Ferentz,False,8.0,14.0,-6.0
-2023,2294,Iowa,fbs,Big Ten,West,7.800021514946646,14,10,4,0,6.086,Kirk Ferentz,False,4.0,12.0,-8.0
-2024,2294,Iowa,fbs,Big Ten,,8.414129410610013,13,8,5,0,11.144,Kirk Ferentz,False,9.0,22.0,-13.0
-2022,66,Iowa State,fbs,Big 12,,4.694708962396025,12,4,8,0,6.28,Matt Campbell,False,2.0,12.0,-10.0
-2023,66,Iowa State,fbs,Big 12,,8.020569434290902,13,7,6,0,8.877,Matt Campbell,False,7.0,21.0,-14.0
-2024,66,Iowa State,fbs,Big 12,,6.851458486434472,14,11,3,0,10.15,Matt Campbell,False,8.0,17.0,-9.0
-2022,2296,Jackson State,fcs,SWAC,East,7.966240694887944,13,12,1,0,,,False,7.0,20.0,-13.0
-2023,2296,Jackson State,fcs,SWAC,East,6.084775857870952,11,7,4,0,,,False,12.0,4.0,8.0
-2024,2296,Jackson State,fcs,SWAC,East,11.418062131093633,14,12,2,0,,,False,10.0,3.0,7.0
-2022,55,Jacksonville State,fcs,Atlantic Sun,,8.091210858965267,11,9,2,0,,,True,2.0,0.0,2.0
-2023,55,Jacksonville State,fbs,Conference USA,,7.61437907610617,13,9,4,0,-3.69,Rich Rodriguez,False,19.0,14.0,5.0
-2024,55,Jacksonville State,fbs,Conference USA,,9.27395112120199,14,9,5,0,-0.913,Rich Rodriguez,False,22.0,24.0,-2.0
-2022,256,James Madison,fbs,Sun Belt,East,8.426511092310333,11,8,3,0,2.371,Curt Cignetti,False,5.0,4.0,1.0
-2023,256,James Madison,fbs,Sun Belt,East,9.717090482691892,13,11,2,0,6.522,Curt Cignetti,True,26.0,20.0,6.0
-2024,256,James Madison,fbs,Sun Belt,East,9.443245761734016,13,9,4,0,2.903,Bob Chesney,False,29.0,26.0,3.0
-2022,2305,Kansas,fbs,Big 12,,6.906380529269764,13,6,7,0,3.37,Lance Leipold,False,12.0,14.0,-2.0
-2023,2305,Kansas,fbs,Big 12,,10.655140268245544,13,9,4,0,9.088,Lance Leipold,False,11.0,13.0,-2.0
-2024,2305,Kansas,fbs,Big 12,,7.412712281899565,12,5,7,0,8.755,Lance Leipold,False,27.0,17.0,10.0
-2022,2306,Kansas State,fbs,Big 12,,10.078658967967222,14,10,4,0,14.823,Chris Klieman,False,6.0,15.0,-9.0
-2023,2306,Kansas State,fbs,Big 12,,7.644873806786312,13,9,4,0,18.789,Chris Klieman,False,10.0,17.0,-7.0
-2024,2306,Kansas State,fbs,Big 12,,9.594218856386115,13,9,4,0,11.098,Chris Klieman,False,16.0,26.0,-10.0
-2022,338,Kennesaw State,fcs,Atlantic Sun,,5.728029724060722,11,5,6,0,,,False,1.0,0.0,1.0
-2023,338,Kennesaw State,fcs,FCS Independents,,5.362481246623481,9,3,6,0,,,True,10.0,3.0,7.0
-2024,338,Kennesaw State,fbs,Conference USA,,2.0884602692478444,12,2,10,0,-21.686,Brian Bohannon,False,27.0,19.0,8.0
-2022,2309,Kent State,fbs,Mid-American,East,4.15433861055576,12,5,7,0,-7.012,Sean Lewis,True,7.0,17.0,-10.0
-2023,2309,Kent State,fbs,Mid-American,East,2.108804210759372,12,1,11,0,-23.961,Kenni Burns,False,16.0,17.0,-1.0
-2024,2309,Kent State,fbs,Mid-American,,1.1498040711725308,12,0,12,0,-31.206,Kenni Burns,False,12.0,27.0,-15.0
-2022,96,Kentucky,fbs,SEC,East,7.18751183710253,13,7,6,0,5.824,Mark Stoops,False,12.0,21.0,-9.0
-2023,96,Kentucky,fbs,SEC,East,6.852863456834255,13,7,6,0,7.33,Mark Stoops,False,12.0,22.0,-10.0
-2024,96,Kentucky,fbs,SEC,,4.185662002414942,12,4,8,0,4.707,Mark Stoops,False,25.0,30.0,-5.0
-2022,99,LSU,fbs,SEC,West,8.937714291632972,14,10,4,0,17.436,Brian Kelly,False,14.0,21.0,-7.0
-2023,99,LSU,fbs,SEC,West,8.890185873099984,13,10,3,0,20.874,Brian Kelly,False,10.0,27.0,-17.0
-2024,99,LSU,fbs,SEC,,7.093878927236604,13,9,4,0,13.515,Brian Kelly,False,18.0,23.0,-5.0
-2022,322,Lafayette,fcs,Patriot,,4.131957917608024,11,4,7,0,,,False,0.0,2.0,-2.0
-2023,322,Lafayette,fcs,Patriot,,8.670113333035342,12,9,3,0,,,False,1.0,2.0,-1.0
-2024,322,Lafayette,fcs,Patriot,,5.6151406849394165,12,6,6,0,,,False,3.0,5.0,-2.0
-2022,2320,Lamar,fcs,Southland,,3.2634346229888345,11,1,10,0,,,False,3.0,4.0,-1.0
-2023,2320,Lamar,fcs,Southland,,5.025822338075253,11,6,5,0,,,False,5.0,0.0,5.0
-2024,2320,Lamar,fcs,Southland,,5.80811817933731,12,7,5,0,,,False,4.0,1.0,3.0
-2022,2329,Lehigh,fcs,Patriot,,3.9929583503624446,11,2,9,0,,,False,0.0,3.0,-3.0
-2023,2329,Lehigh,fcs,Patriot,,2.4062747675169405,11,2,9,0,,,False,0.0,1.0,-1.0
-2024,2329,Lehigh,fcs,Patriot,,8.229526412056696,13,9,4,0,,,False,1.0,0.0,1.0
-2022,2335,Liberty,fbs,FBS Independents,,7.287218048079832,13,8,5,0,-3.902,Josh Aldridge,True,13.0,14.0,-1.0
-2023,2335,Liberty,fbs,Conference USA,,12.766022655837745,14,13,1,0,3.816,Jamey Chadwell,False,18.0,17.0,1.0
-2024,2335,Liberty,fbs,Conference USA,,7.795726698362949,12,8,4,0,-6.943,Jamey Chadwell,False,20.0,27.0,-7.0
-2022,2815,Lindenwood,fcs,OVC,,3.6030518657366417,10,7,3,0,,,False,,,
-2023,2815,Lindenwood,fcs,Big South-OVC,,3.8451896496463864,10,3,7,0,,,False,3.0,0.0,3.0
-2024,2815,Lindenwood,fcs,Big South-OVC,,6.394616791343391,12,5,7,0,,,False,8.0,4.0,4.0
-2022,2341,Long Island University,fcs,NEC,,3.403992259774838,11,4,7,0,,,False,,,
-2023,2341,Long Island University,fcs,NEC,,3.4084472662872787,11,4,7,0,,,False,,,
-2024,2341,Long Island University,fcs,NEC,,4.349847431396485,12,4,8,0,,,False,,,
-2022,309,Louisiana,fbs,Sun Belt,West,5.673315480248774,13,6,7,0,-2.136,Michael Desormeaux,False,1.0,7.0,-6.0
-2023,309,Louisiana,fbs,Sun Belt,West,6.641094349991045,13,6,7,0,-5.369,Michael Desormeaux,False,7.0,6.0,1.0
-2024,309,Louisiana,fbs,Sun Belt,West,9.630338076900111,14,10,4,0,-0.152,Michael Desormeaux,False,5.0,12.0,-7.0
-2022,2348,Louisiana Tech,fbs,Conference USA,,3.809922057915364,12,3,9,0,-13.24,Sonny Cumbie,False,19.0,23.0,-4.0
-2023,2348,Louisiana Tech,fbs,Conference USA,,4.2065989666827726,12,3,9,0,-15.166,Sonny Cumbie,False,12.0,22.0,-10.0
-2024,2348,Louisiana Tech,fbs,Conference USA,,4.903229528055918,13,5,8,0,-10.693,Sonny Cumbie,False,9.0,31.0,-22.0
-2022,97,Louisville,fbs,ACC,Atlantic,8.320110381938436,13,8,5,0,10.719,Deion Branch,True,26.0,25.0,1.0
-2023,97,Louisville,fbs,ACC,Atlantic,9.74858020465242,14,10,4,0,11.36,Jeff Brohm,False,28.0,29.0,-1.0
-2024,97,Louisville,fbs,ACC,,8.447919140315149,13,9,4,0,16.534,Jeff Brohm,False,30.0,27.0,3.0
-2022,311,Maine,fcs,CAA,,2.7124875694506234,11,2,9,0,,,False,1.0,4.0,-3.0
-2023,311,Maine,fcs,CAA,,2.154886154880568,11,2,9,0,,,False,3.0,5.0,-2.0
-2024,311,Maine,fcs,CAA,,4.82488545130113,12,5,7,0,,,False,6.0,4.0,2.0
-2022,2368,Marist,fcs,Pioneer,,1.435374146987176,11,4,7,0,,,False,,,
-2023,2368,Marist,fcs,Pioneer,,3.0023586490035767,11,4,7,0,,,False,1.0,1.0,0.0
-2024,2368,Marist,fcs,Pioneer,,1.2674977435704526,11,1,10,0,,,False,,,
-2022,276,Marshall,fbs,Sun Belt,East,10.370431532011144,13,9,4,0,-0.398,Charles Huff,False,11.0,14.0,-3.0
-2023,276,Marshall,fbs,Sun Belt,East,6.2434084092360775,13,6,7,0,-5.714,Charles Huff,False,28.0,33.0,-5.0
-2024,276,Marshall,fbs,Sun Belt,East,8.377104791452176,13,10,3,0,2.784,Charles Huff,False,52.0,54.0,-2.0
-2022,120,Maryland,fbs,Big Ten,East,7.812368751981297,13,8,5,0,7.842,Mike Locksley,False,10.0,22.0,-12.0
-2023,120,Maryland,fbs,Big Ten,East,8.686284739437186,13,8,5,0,8.085,Mike Locksley,False,8.0,13.0,-5.0
-2024,120,Maryland,fbs,Big Ten,,3.5286025680340214,12,4,8,0,-0.535,Mike Locksley,False,15.0,31.0,-16.0
-2022,113,Massachusetts,fbs,FBS Independents,,1.690376074844485,12,1,11,0,-24.191,Don Brown,False,21.0,19.0,2.0
-2023,113,Massachusetts,fbs,FBS Independents,,4.204681253996235,12,3,9,0,-17.844,Don Brown,False,29.0,23.0,6.0
-2024,113,Massachusetts,fbs,FBS Independents,,4.768325849006023,12,2,10,0,-17.327,Don Brown,False,35.0,26.0,9.0
-2022,2377,McNeese,fcs,Southland,,4.520045085950471,11,4,7,0,,,False,2.0,1.0,1.0
-2023,2377,McNeese,fcs,Southland,,1.6608260052265518,11,1,10,0,,,False,12.0,1.0,11.0
-2024,2377,McNeese,fcs,Southland,,7.01224907331471,12,6,6,0,,,False,6.0,9.0,-3.0
-2022,235,Memphis,fbs,American Athletic,,7.627254270583741,13,7,6,0,4.188,Ryan Silverfield,False,19.0,26.0,-7.0
-2023,235,Memphis,fbs,American Athletic,,7.77400429979447,13,10,3,0,2.782,Ryan Silverfield,False,30.0,24.0,6.0
-2024,235,Memphis,fbs,American Athletic,,8.927476560509126,13,11,2,0,2.129,Ryan Silverfield,False,36.0,31.0,5.0
-2022,2382,Mercer,fcs,Southern,,7.682757404022883,11,7,4,0,,,False,2.0,0.0,2.0
-2023,2382,Mercer,fcs,Southern,,8.843657382514992,13,9,4,0,,,False,7.0,2.0,5.0
-2024,2382,Mercer,fcs,Southern,,10.22980137458105,14,11,3,0,,,False,8.0,5.0,3.0
-2024,2385,Mercyhurst,fcs,NEC,,1.4726321833826863,11,4,7,0,,,False,,,
-2022,2771,Merrimack,fcs,NEC,,5.302908161171546,11,8,3,0,,,False,1.0,1.0,0.0
-2023,2771,Merrimack,fcs,NEC,,4.100713137747224,11,5,6,0,,,False,0.0,2.0,-2.0
-2024,2771,Merrimack,fcs,FCS Independents,,5.307658144580277,11,5,6,0,,,False,2.0,2.0,0.0
-2022,2390,Miami,fbs,ACC,Coastal,4.911148871075735,12,5,7,0,-0.466,Mario Cristobal,False,15.0,24.0,-9.0
-2023,2390,Miami,fbs,ACC,Coastal,8.383222497819775,13,7,6,0,11.169,Mario Cristobal,False,14.0,28.0,-14.0
-2024,2390,Miami,fbs,ACC,,9.993131094500134,13,10,3,0,17.338,Mario Cristobal,False,18.0,19.0,-1.0
-2022,193,Miami (OH),fbs,Mid-American,East,4.792097573859011,13,6,7,0,-11.731,Chuck Martin,False,4.0,11.0,-7.0
-2023,193,Miami (OH),fbs,Mid-American,East,8.9748380762999,14,11,3,0,-1.253,Chuck Martin,False,5.0,11.0,-6.0
-2024,193,Miami (OH),fbs,Mid-American,,7.1606374045047545,14,9,5,0,-3.352,Chuck Martin,False,16.0,12.0,4.0
-2022,130,Michigan,fbs,Big Ten,East,12.560026693449178,14,13,1,0,23.62,Jim Harbaugh,False,9.0,13.0,-4.0
-2023,130,Michigan,fbs,Big Ten,East,14.121569799064128,15,15,0,0,27.625,Jim Harbaugh,True,7.0,17.0,-10.0
-2024,130,Michigan,fbs,Big Ten,,7.61100363119269,13,8,5,0,9.382,Sherrone Moore,False,17.0,29.0,-12.0
-2022,127,Michigan State,fbs,Big Ten,East,3.860906254003236,12,5,7,0,5.288,Mel Tucker,True,14.0,17.0,-3.0
-2023,127,Michigan State,fbs,Big Ten,East,4.287639977155193,12,4,8,0,-3.512,Harlon Barnett,True,24.0,41.0,-17.0
-2024,127,Michigan State,fbs,Big Ten,,4.536884775944729,12,5,7,0,-3.839,Jonathan Smith,False,23.0,23.0,0.0
-2022,2393,Middle Tennessee,fbs,Conference USA,,6.9697120688151175,13,8,5,0,-6.562,Rick Stockstill,False,9.0,8.0,1.0
-2023,2393,Middle Tennessee,fbs,Conference USA,,4.6199987892459555,12,4,8,0,-10.135,Rick Stockstill,True,12.0,28.0,-16.0
-2024,2393,Middle Tennessee,fbs,Conference USA,,2.61457352482858,12,3,9,0,-19.398,Derek Mason,False,12.0,31.0,-19.0
-2022,135,Minnesota,fbs,Big Ten,West,9.709562045344564,13,9,4,0,11.422,P.J. Fleck,False,10.0,18.0,-8.0
-2023,135,Minnesota,fbs,Big Ten,West,6.284012992760301,13,6,7,0,-0.564,P.J. Fleck,False,12.0,18.0,-6.0
-2024,135,Minnesota,fbs,Big Ten,,8.20528757039677,13,8,5,0,9.315,P.J. Fleck,False,21.0,20.0,1.0
-2022,344,Mississippi State,fbs,SEC,West,6.883963807732934,13,9,4,0,13.237,Zach Arnett,False,13.0,27.0,-14.0
-2023,344,Mississippi State,fbs,SEC,West,4.791082871678017,12,5,7,0,0.859,Zach Arnett,True,18.0,26.0,-8.0
-2024,344,Mississippi State,fbs,SEC,,2.296442691976717,12,2,10,0,0.192,Jeff Lebby,False,32.0,35.0,-3.0
-2022,2400,Mississippi Valley State,fcs,SWAC,East,0.0718284628239357,11,2,9,0,,,False,2.0,0.0,2.0
-2023,2400,Mississippi Valley State,fcs,SWAC,East,2.3530724264380054,11,1,10,0,,,False,0.0,3.0,-3.0
-2024,2400,Mississippi Valley State,fcs,SWAC,East,2.45702858818812,12,1,11,0,,,False,3.0,2.0,1.0
-2022,142,Missouri,fbs,SEC,East,6.514781025385571,13,6,7,0,2.559,Eli Drinkwitz,False,8.0,20.0,-12.0
-2023,142,Missouri,fbs,SEC,East,10.36495124722564,13,11,2,0,15.277,Eli Drinkwitz,False,15.0,19.0,-4.0
-2024,142,Missouri,fbs,SEC,,7.470898516993272,13,10,3,0,12.197,Eli Drinkwitz,False,21.0,24.0,-3.0
-2022,2623,Missouri State,fcs,MVFC,,3.2730389578218366,11,5,6,0,,,False,4.0,7.0,-3.0
-2023,2623,Missouri State,fcs,MVFC,,4.6260520953019055,11,4,7,0,,,False,7.0,2.0,5.0
-2024,2623,Missouri State,fcs,MVFC,,7.110597266840618,12,8,4,0,,,False,15.0,12.0,3.0
-2022,2405,Monmouth,fcs,CAA,,5.951536209387862,11,5,6,0,,,False,1.0,2.0,-1.0
-2023,2405,Monmouth,fcs,CAA,,5.5171932042534655,11,4,7,0,,,False,3.0,4.0,-1.0
-2024,2405,Monmouth,fcs,CAA,,5.840468924611303,12,6,6,0,,,False,5.0,3.0,2.0
-2022,149,Montana,fcs,Big Sky,,5.430479023050807,13,8,5,0,,,False,3.0,0.0,3.0
-2023,149,Montana,fcs,Big Sky,,10.692469713339207,15,13,2,0,,,False,9.0,3.0,6.0
-2024,149,Montana,fcs,Big Sky,,8.142478449958265,14,9,5,0,,,False,12.0,3.0,9.0
-2022,147,Montana State,fcs,Big Sky,,9.103863250969836,14,12,2,0,,,False,3.0,1.0,2.0
-2023,147,Montana State,fcs,Big Sky,,9.797122818752928,12,8,4,0,,,False,3.0,4.0,-1.0
-2024,147,Montana State,fcs,Big Sky,,13.555354041423795,16,15,1,0,,,False,3.0,5.0,-2.0
-2022,2413,Morehead State,fcs,Pioneer,,2.110053561881763,11,2,9,0,,,False,,,
-2023,2413,Morehead State,fcs,Pioneer,,3.514999753740799,11,4,7,0,,,False,1.0,0.0,1.0
-2024,2413,Morehead State,fcs,Pioneer,,5.9084874883961005,12,7,5,0,,,False,1.0,1.0,0.0
-2022,2415,Morgan State,fcs,MEAC,,3.910755103376226,11,4,7,0,,,False,2.0,0.0,2.0
-2023,2415,Morgan State,fcs,MEAC,,2.7736616566974734,11,4,6,1,,,False,3.0,0.0,3.0
-2024,2415,Morgan State,fcs,MEAC,,1.4636912660169077,12,6,6,0,,,False,2.0,1.0,1.0
-2022,93,Murray State,fcs,OVC,,2.8225181928275425,11,2,9,0,,,False,,,
-2023,93,Murray State,fcs,MVFC,,2.4477143254668055,11,2,9,0,,,False,14.0,2.0,12.0
-2024,93,Murray State,fcs,MVFC,,2.2577935723066274,12,1,11,0,,,False,3.0,5.0,-2.0
-2022,152,NC State,fbs,ACC,Atlantic,6.871235621426741,13,8,5,0,6.545,Dave Doeren,False,6.0,12.0,-6.0
-2023,152,NC State,fbs,ACC,Atlantic,8.422652449172915,13,9,4,0,6.943,Dave Doeren,False,15.0,22.0,-7.0
-2024,152,NC State,fbs,ACC,,7.871416005767503,13,6,7,0,0.43,Dave Doeren,False,18.0,19.0,-1.0
-2022,2426,Navy,fbs,American Athletic,,8.608996106859646,12,4,8,0,-3.458,Ken Niumatalolo,True,0.0,3.0,-3.0
-2023,2426,Navy,fbs,American Athletic,,5.813718223734726,12,5,7,0,-12.092,Brian Newberry,False,0.0,6.0,-6.0
-2024,2426,Navy,fbs,American Athletic,,10.639224867368664,13,10,3,0,-0.331,Brian Newberry,False,0.0,5.0,-5.0
-2022,158,Nebraska,fbs,Big Ten,West,5.026819285649255,12,4,8,0,-0.651,Scott Frost,True,13.0,28.0,-15.0
-2023,158,Nebraska,fbs,Big Ten,West,8.114665478272558,12,5,7,0,0.695,Matt Rhule,False,8.0,10.0,-2.0
-2024,158,Nebraska,fbs,Big Ten,,8.110988385540308,13,7,6,0,6.154,Matt Rhule,False,15.0,37.0,-22.0
-2022,2440,Nevada,fbs,Mountain West,West,3.0488197584211427,12,2,10,0,-16.465,Ken Wilson,False,13.0,13.0,0.0
-2023,2440,Nevada,fbs,Mountain West,West,2.532588155921476,12,2,10,0,-19.065,Ken Wilson,True,22.0,23.0,-1.0
-2024,2440,Nevada,fbs,Mountain West,,5.588096540035893,13,3,10,0,-8.417,Jeff Choate,False,20.0,30.0,-10.0
-2022,160,New Hampshire,fcs,CAA,,6.398083796895799,13,9,4,0,,,False,,,
-2023,160,New Hampshire,fcs,CAA,,4.330971056718656,11,6,5,0,,,False,0.0,2.0,-2.0
-2024,160,New Hampshire,fcs,CAA,,6.5454794831802365,13,8,5,0,,,False,2.0,3.0,-1.0
-2022,167,New Mexico,fbs,Mountain West,Mountain,2.444179443020334,12,2,10,0,-19.076,Danny Gonzales,False,14.0,17.0,-3.0
-2023,167,New Mexico,fbs,Mountain West,Mountain,4.316747674741911,12,4,8,0,-14.483,Danny Gonzales,True,28.0,23.0,5.0
-2024,167,New Mexico,fbs,Mountain West,,4.052849294625585,12,5,7,0,-10.018,Bronco Mendenhall,False,35.0,31.0,4.0
-2022,166,New Mexico State,fbs,FBS Independents,,7.289065248229595,13,7,6,0,-14.896,Jerry Kill,False,7.0,7.0,0.0
-2023,166,New Mexico State,fbs,Conference USA,,10.336405910005048,15,10,5,0,-5.585,Jerry Kill,True,13.0,38.0,-25.0
-2024,166,New Mexico State,fbs,Conference USA,,4.6415016944541065,12,3,9,0,-20.775,Tony Sanchez,False,21.0,33.0,-12.0
-2022,2447,Nicholls,fcs,Southland,,3.1930921427019245,11,3,8,0,,,False,,,
-2023,2447,Nicholls,fcs,Southland,,6.388506076253616,12,7,5,0,,,False,2.0,1.0,1.0
-2024,2447,Nicholls,fcs,Southland,,5.882923384741713,12,4,8,0,,,False,4.0,2.0,2.0
-2022,2450,Norfolk State,fcs,MEAC,,0.6693672227560815,11,2,9,0,,,False,0.0,4.0,-4.0
-2023,2450,Norfolk State,fcs,MEAC,,3.124907836981648,11,3,8,0,,,False,2.0,1.0,1.0
-2024,2450,Norfolk State,fcs,MEAC,,4.612378594603813,12,4,8,0,,,False,7.0,3.0,4.0
-2022,2453,North Alabama,fcs,Atlantic Sun,,2.6786607215027884,11,1,10,0,,,False,3.0,1.0,2.0
-2023,2453,North Alabama,fcs,UAC,,2.3170114848956427,11,3,8,0,,,False,8.0,1.0,7.0
-2024,2453,North Alabama,fcs,UAC,,2.7910014605774403,12,3,9,0,,,False,9.0,8.0,1.0
-2022,153,North Carolina,fbs,ACC,Coastal,7.118315943121559,14,9,5,0,6.195,Mack Brown,False,10.0,18.0,-8.0
-2023,153,North Carolina,fbs,ACC,Coastal,6.94860987844693,13,8,5,0,10.237,Mack Brown,False,10.0,23.0,-13.0
-2024,153,North Carolina,fbs,ACC,,5.988871290725752,13,6,7,0,2.602,Mack Brown,False,39.0,48.0,-9.0
-2022,2448,North Carolina A&T,fcs,Big South,,3.3132777584070556,11,7,4,0,,,False,2.0,4.0,-2.0
-2023,2448,North Carolina A&T,fcs,CAA,,0.5388264677257746,11,1,10,0,,,False,3.0,1.0,2.0
-2024,2448,North Carolina A&T,fcs,CAA,,1.6322320911066135,12,1,11,0,,,False,2.0,7.0,-5.0
-2022,2428,North Carolina Central,fcs,MEAC,,7.824362257272715,12,10,2,0,,,False,2.0,1.0,1.0
-2023,2428,North Carolina Central,fcs,MEAC,,7.295323914620509,12,9,3,0,,,False,5.0,4.0,1.0
-2024,2428,North Carolina Central,fcs,MEAC,,6.791581337433507,11,8,3,0,,,False,0.0,3.0,-3.0
-2022,155,North Dakota,fcs,MVFC,,5.724324297327205,12,7,5,0,,,False,,,
-2023,155,North Dakota,fcs,MVFC,,5.295597375269573,12,7,5,0,,,False,2.0,6.0,-4.0
-2024,155,North Dakota,fcs,MVFC,,5.547958849131428,12,5,7,0,,,False,8.0,0.0,8.0
-2022,2449,North Dakota State,fcs,MVFC,,12.407299855127816,15,12,3,0,,,False,2.0,3.0,-1.0
-2023,2449,North Dakota State,fcs,MVFC,,11.085958073215238,15,11,4,0,,,False,2.0,2.0,0.0
-2024,2449,North Dakota State,fcs,MVFC,,13.10692894292541,16,14,2,0,,,False,3.0,5.0,-2.0
-2022,249,North Texas,fbs,Conference USA,,6.483344134746718,14,7,7,0,-3.403,Phil Bennett,True,10.0,15.0,-5.0
-2023,249,North Texas,fbs,American Athletic,,3.822272613153824,12,5,7,0,-10.163,Eric Morris,False,25.0,36.0,-11.0
-2024,249,North Texas,fbs,American Athletic,,5.246005597181846,13,6,7,0,-7.287,Eric Morris,False,34.0,49.0,-15.0
-2022,2464,Northern Arizona,fcs,Big Sky,,4.172388203524747,11,3,8,0,,,False,5.0,2.0,3.0
-2023,2464,Northern Arizona,fcs,Big Sky,,5.440738852906233,11,5,6,0,,,False,9.0,9.0,0.0
-2024,2464,Northern Arizona,fcs,Big Sky,,5.101063507507946,13,8,5,0,,,False,4.0,7.0,-3.0
-2022,2458,Northern Colorado,fcs,Big Sky,,1.528766974488711,11,3,8,0,,,False,2.0,1.0,1.0
-2023,2458,Northern Colorado,fcs,Big Sky,,2.3769940541978203,11,0,11,0,,,False,1.0,5.0,-4.0
-2024,2458,Northern Colorado,fcs,Big Sky,,1.9703351180616535,12,1,11,0,,,False,4.0,3.0,1.0
-2022,2459,Northern Illinois,fbs,Mid-American,West,5.659617626280408,12,3,9,0,-14.204,Thomas Hammock,False,4.0,11.0,-7.0
-2023,2459,Northern Illinois,fbs,Mid-American,West,7.948583422560658,13,7,6,0,-7.254,Thomas Hammock,False,6.0,18.0,-12.0
-2024,2459,Northern Illinois,fbs,Mid-American,,10.088076587285729,13,8,5,0,-4.256,Thomas Hammock,False,5.0,25.0,-20.0
-2022,2460,Northern Iowa,fcs,MVFC,,6.817896605404642,11,6,5,0,,,False,4.0,0.0,4.0
-2023,2460,Northern Iowa,fcs,MVFC,,4.626132947069042,11,6,5,0,,,False,4.0,3.0,1.0
-2024,2460,Northern Iowa,fcs,MVFC,,3.3039072427208493,12,3,9,0,,,False,4.0,5.0,-1.0
-2022,77,Northwestern,fbs,Big Ten,West,3.47451668694066,12,1,11,0,-7.588,Pat Fitzgerald,True,3.0,8.0,-5.0
-2023,77,Northwestern,fbs,Big Ten,West,4.875339892516529,13,8,5,0,-0.304,David Braun,False,6.0,12.0,-6.0
-2024,77,Northwestern,fbs,Big Ten,,4.130524359166857,12,4,8,0,-5.033,David Braun,False,14.0,12.0,2.0
-2022,2466,Northwestern State,fcs,Southland,,3.198827152588613,11,4,7,0,,,False,1.0,1.0,0.0
-2023,2466,Northwestern State,fcs,Southland,,0.4504803083708428,11,0,11,0,,,False,3.0,3.0,0.0
-2024,2466,Northwestern State,fcs,Southland,,0.3825589867557209,12,0,12,0,,,False,7.0,3.0,4.0
-2022,87,Notre Dame,fbs,FBS Independents,,8.654266789834304,13,9,4,0,12.6,Marcus Freeman,False,7.0,11.0,-4.0
-2023,87,Notre Dame,fbs,FBS Independents,,10.637840603697049,13,10,3,0,20.776,Marcus Freeman,False,9.0,18.0,-9.0
-2024,87,Notre Dame,fbs,FBS Independents,,13.184164567005586,16,14,2,0,25.305,Marcus Freeman,False,8.0,14.0,-6.0
-2022,195,Ohio,fbs,Mid-American,East,7.408813594852338,14,10,4,0,-5.963,Tim Albin,False,4.0,6.0,-2.0
-2023,195,Ohio,fbs,Mid-American,East,9.20340869032661,13,10,3,0,-5.037,Tim Albin,False,21.0,25.0,-4.0
-2024,195,Ohio,fbs,Mid-American,,10.257367454427296,14,11,3,0,-1.023,Tim Albin,False,21.0,16.0,5.0
-2022,194,Ohio State,fbs,Big Ten,East,9.809388963394197,13,11,2,0,25.771,Ryan Day,False,8.0,9.0,-1.0
-2023,194,Ohio State,fbs,Big Ten,East,10.130952321332964,13,11,2,0,27.485,Ryan Day,False,7.0,25.0,-18.0
-2024,194,Ohio State,fbs,Big Ten,,15.20301777267821,16,14,2,0,24.823,Ryan Day,False,11.0,14.0,-3.0
-2022,201,Oklahoma,fbs,Big 12,,7.258832896886252,13,6,7,0,9.969,Brent Venables,False,18.0,27.0,-9.0
-2023,201,Oklahoma,fbs,Big 12,,10.88962520047889,13,10,3,0,22.492,Brent Venables,False,16.0,25.0,-9.0
-2024,201,Oklahoma,fbs,SEC,,4.97822272964347,13,6,7,0,10.943,Brent Venables,False,20.0,33.0,-13.0
-2022,197,Oklahoma State,fbs,Big 12,,5.476452362264645,13,7,6,0,6.663,Mike Gundy,False,13.0,19.0,-6.0
-2023,197,Oklahoma State,fbs,Big 12,,5.77052764029184,14,10,4,0,6.132,Mike Gundy,False,8.0,11.0,-3.0
-2024,197,Oklahoma State,fbs,Big 12,,3.2763890633687,12,3,9,0,-0.188,Mike Gundy,False,40.0,30.0,10.0
-2022,295,Old Dominion,fbs,Sun Belt,East,1.5267098873951883,12,3,9,0,-10.538,Ricky Rahne,False,6.0,20.0,-14.0
-2023,295,Old Dominion,fbs,Sun Belt,East,5.413422875992956,13,6,7,0,-9.52,Ricky Rahne,False,15.0,32.0,-17.0
-2024,295,Old Dominion,fbs,Sun Belt,East,5.978360050098397,12,5,7,0,-2.342,Ricky Rahne,False,12.0,32.0,-20.0
-2022,145,Ole Miss,fbs,SEC,West,9.25705926914302,13,8,5,0,12.342,Lane Kiffin,False,25.0,38.0,-13.0
-2023,145,Ole Miss,fbs,SEC,West,9.354529777476506,13,11,2,0,15.302,Lane Kiffin,False,25.0,24.0,1.0
-2024,145,Ole Miss,fbs,SEC,,11.173295804083596,13,10,3,0,20.608,Lane Kiffin,False,28.0,29.0,-1.0
-2022,2483,Oregon,fbs,Pac-12,,10.520552378625103,13,10,3,0,14.225,Dan Lanning,False,15.0,34.0,-19.0
-2023,2483,Oregon,fbs,Pac-12,,12.653452222109038,14,12,2,0,25.043,Dan Lanning,False,14.0,20.0,-6.0
-2024,2483,Oregon,fbs,Big Ten,,11.512575801334169,14,13,1,0,21.125,Dan Lanning,False,11.0,14.0,-3.0
-2022,204,Oregon State,fbs,Pac-12,,11.185678034765074,13,10,3,0,12.157,Jonathan Smith,True,7.0,9.0,-2.0
-2023,204,Oregon State,fbs,Pac-12,,9.343547327423035,13,8,5,0,13.996,Kefense Hynson,True,16.0,25.0,-9.0
-2024,204,Oregon State,fbs,Pac-12,,3.981854275093376,12,5,7,0,-6.875,Trent Bray,False,14.0,15.0,-1.0
-2022,213,Penn State,fbs,Big Ten,East,10.521386176198106,13,11,2,0,19.477,James Franklin,False,6.0,14.0,-8.0
-2023,213,Penn State,fbs,Big Ten,East,9.08791319601373,13,10,3,0,25.618,James Franklin,False,6.0,13.0,-7.0
-2024,213,Penn State,fbs,Big Ten,,12.729323632020687,16,13,3,0,20.037,James Franklin,False,8.0,16.0,-8.0
-2022,219,Pennsylvania,fcs,Ivy,,6.39380553860745,10,8,2,0,,,False,0.0,7.0,-7.0
-2023,219,Pennsylvania,fcs,Ivy,,6.337337535848848,10,6,4,0,,,False,1.0,5.0,-4.0
-2024,219,Pennsylvania,fcs,Ivy,,6.080729904186711,10,4,6,0,,,False,0.0,5.0,-5.0
-2022,221,Pittsburgh,fbs,ACC,Coastal,9.349578529177968,13,9,4,0,7.918,Pat Narduzzi,False,7.0,13.0,-6.0
-2023,221,Pittsburgh,fbs,ACC,Coastal,4.3186934917016195,12,3,9,0,-0.369,Pat Narduzzi,False,14.0,20.0,-6.0
-2024,221,Pittsburgh,fbs,ACC,,6.521596776808393,13,7,6,0,3.991,Pat Narduzzi,False,15.0,26.0,-11.0
-2022,2502,Portland State,fcs,Big Sky,,5.086837340324562,11,4,7,0,,,False,4.0,0.0,4.0
-2023,2502,Portland State,fcs,Big Sky,,4.133802299578327,11,5,6,0,,,False,8.0,4.0,4.0
-2024,2502,Portland State,fcs,Big Sky,,4.311375528765036,12,3,8,1,,,False,3.0,6.0,-3.0
-2022,2504,Prairie View A&M,fcs,SWAC,West,6.807565623390063,11,6,5,0,,,False,0.0,1.0,-1.0
-2023,2504,Prairie View A&M,fcs,SWAC,West,5.417182995564358,12,6,6,0,,,False,4.0,1.0,3.0
-2024,2504,Prairie View A&M,fcs,SWAC,West,4.140386220922265,12,5,7,0,,,False,21.0,3.0,18.0
-2022,2506,Presbyterian,fcs,Pioneer,,0.7605845042158346,11,1,10,0,,,False,0.0,1.0,-1.0
-2023,2506,Presbyterian,fcs,Pioneer,,2.4176918869117254,11,4,7,0,,,False,1.0,0.0,1.0
-2024,2506,Presbyterian,fcs,Pioneer,,6.243961278870375,12,6,6,0,,,False,0.0,1.0,-1.0
-2022,163,Princeton,fcs,Ivy,,4.815309493663135,10,8,2,0,,,False,0.0,1.0,-1.0
-2023,163,Princeton,fcs,Ivy,,5.361191419963191,10,5,5,0,,,False,0.0,3.0,-3.0
-2024,163,Princeton,fcs,Ivy,,1.789836101192068,10,3,7,0,,,False,1.0,7.0,-6.0
-2022,2509,Purdue,fbs,Big Ten,West,6.460504799625862,14,8,6,0,4.283,Brian Brohm,True,15.0,25.0,-10.0
-2023,2509,Purdue,fbs,Big Ten,West,5.206786173050185,12,4,8,0,-0.634,Ryan Walters,False,18.0,28.0,-10.0
-2024,2509,Purdue,fbs,Big Ten,,2.1867086428319564,12,1,11,0,-13.836,Ryan Walters,False,51.0,54.0,-3.0
-2022,227,Rhode Island,fcs,CAA,,7.1030977660017305,11,7,4,0,,,False,4.0,3.0,1.0
-2023,227,Rhode Island,fcs,CAA,,2.024714121743227,11,6,5,0,,,False,5.0,2.0,3.0
-2024,227,Rhode Island,fcs,CAA,,8.653167621045464,14,11,3,0,,,False,11.0,2.0,9.0
-2022,242,Rice,fbs,Conference USA,,5.1501491988443755,13,5,8,0,-14.078,Mike Bloomgren,False,5.0,4.0,1.0
-2023,242,Rice,fbs,American Athletic,,5.333376090068548,13,6,7,0,-3.93,Mike Bloomgren,True,10.0,3.0,7.0
-2024,242,Rice,fbs,American Athletic,,3.4177199987229425,12,4,8,0,-8.58,Pete Alamar,False,11.0,19.0,-8.0
-2022,257,Richmond,fcs,CAA,,8.710602987365014,13,9,4,0,,,False,0.0,5.0,-5.0
-2023,257,Richmond,fcs,CAA,,6.246527332255188,13,9,4,0,,,False,0.0,3.0,-3.0
-2024,257,Richmond,fcs,CAA,,7.453929855906346,13,10,3,0,,,False,3.0,10.0,-7.0
-2022,2523,Robert Morris,fcs,Big South,,0.1482470863113328,11,0,11,0,,,False,3.0,1.0,2.0
-2023,2523,Robert Morris,fcs,Big South-OVC,,2.2098405950119147,11,4,7,0,,,False,1.0,2.0,-1.0
-2024,2523,Robert Morris,fcs,NEC,,6.962986172505178,12,7,5,0,,,False,8.0,5.0,3.0
-2022,164,Rutgers,fbs,Big Ten,East,4.850608864250418,12,4,8,0,-7.796,Greg Schiano,False,7.0,12.0,-5.0
-2023,164,Rutgers,fbs,Big Ten,East,6.343079326395482,13,7,6,0,2.552,Greg Schiano,False,6.0,15.0,-9.0
-2024,164,Rutgers,fbs,Big Ten,,6.757048603830634,13,7,6,0,3.857,Greg Schiano,False,19.0,22.0,-3.0
-2022,2545,SE Louisiana,fcs,Southland,,6.197541213777778,13,9,4,0,,,False,2.0,3.0,-1.0
-2023,2545,SE Louisiana,fcs,Southland,,4.192723290731533,11,3,8,0,,,False,1.0,4.0,-3.0
-2024,2545,SE Louisiana,fcs,Southland,,5.176372378322957,12,7,5,0,,,False,,,
-2022,2567,SMU,fbs,American Athletic,,6.546627599579314,13,7,6,0,2.267,Rhett Lashlee,False,26.0,23.0,3.0
-2023,2567,SMU,fbs,American Athletic,,10.727556978662738,14,11,3,0,13.838,Rhett Lashlee,False,20.0,16.0,4.0
-2024,2567,SMU,fbs,ACC,,11.006808782396062,14,11,3,0,16.414,Rhett Lashlee,False,20.0,17.0,3.0
-2022,16,Sacramento State,fcs,Big Sky,,10.069637607428945,13,12,1,0,,,False,1.0,5.0,-4.0
-2023,16,Sacramento State,fcs,Big Sky,,7.512433443992156,13,8,5,0,,,False,8.0,3.0,5.0
-2024,16,Sacramento State,fcs,Big Sky,,3.415923853559655,12,3,9,0,,,False,39.0,17.0,22.0
-2022,2529,Sacred Heart,fcs,NEC,,6.473435009874817,11,5,6,0,,,False,0.0,2.0,-2.0
-2023,2529,Sacred Heart,fcs,NEC,,3.270425111766278,11,2,9,0,,,False,2.0,1.0,1.0
-2024,2529,Sacred Heart,fcs,FCS Independents,,6.26206686122793,11,5,6,0,,,False,1.0,3.0,-2.0
-2022,2534,Sam Houston,fcs,Western Athletic,,3.4509458255225174,9,5,4,0,,,True,5.0,1.0,4.0
-2023,2534,Sam Houston,fbs,Conference USA,,3.53272730471506,12,3,9,0,-14.085,K.C. Keeler,True,12.0,5.0,7.0
-2024,2534,Sam Houston,fbs,Conference USA,,7.057325119162935,13,10,3,0,-6.961,Brad Cornelsen,False,26.0,30.0,-4.0
-2022,2535,Samford,fcs,Southern,,7.5415111508917745,13,11,2,0,,,False,1.0,0.0,1.0
-2023,2535,Samford,fcs,Southern,,5.204667748176611,11,6,5,0,,,False,7.0,3.0,4.0
-2024,2535,Samford,fcs,Southern,,4.214018550502499,12,4,7,1,,,False,11.0,7.0,4.0
-2022,301,San Diego,fcs,Pioneer,,4.773161687680657,11,5,5,1,,,False,0.0,1.0,-1.0
-2023,301,San Diego,fcs,Pioneer,,5.904876342846525,11,4,7,0,,,False,3.0,2.0,1.0
-2024,301,San Diego,fcs,Pioneer,,7.793670472251307,11,8,3,0,,,False,4.0,0.0,4.0
-2022,21,San Diego State,fbs,Mountain West,West,7.5563502323064515,13,7,6,0,-5.387,Brady Hoke,False,5.0,13.0,-8.0
-2023,21,San Diego State,fbs,Mountain West,West,5.639138927369647,12,4,8,0,-10.899,Brady Hoke,True,24.0,36.0,-12.0
-2024,21,San Diego State,fbs,Mountain West,,3.5039869240676653,12,3,9,0,-13.599,Sean Lewis,False,19.0,23.0,-4.0
-2022,23,San José State,fbs,Mountain West,West,5.503003438066545,12,7,5,0,-5.871,Brent Brennan,False,7.0,9.0,-2.0
-2023,23,San José State,fbs,Mountain West,West,7.054976053626107,13,7,6,0,0.229,Brent Brennan,True,14.0,25.0,-11.0
-2024,23,San José State,fbs,Mountain West,,6.2596128897058225,13,7,6,0,-5.133,Ken Niumatalolo,False,13.0,16.0,-3.0
-2022,6,South Alabama,fbs,Sun Belt,West,10.263201454416196,13,10,3,0,-1.447,Kane Wommack,False,9.0,4.0,5.0
-2023,6,South Alabama,fbs,Sun Belt,West,7.771549249783735,13,7,6,0,0.785,Kane Wommack,True,15.0,15.0,0.0
-2024,6,South Alabama,fbs,Sun Belt,West,7.901882477744811,13,7,6,0,0.261,Major Applewhite,False,23.0,22.0,1.0
-2022,2579,South Carolina,fbs,SEC,East,6.840453841147032,13,8,5,0,4.416,Shane Beamer,False,10.0,17.0,-7.0
-2023,2579,South Carolina,fbs,SEC,East,5.604162594441235,12,5,7,0,6.054,Shane Beamer,False,22.0,26.0,-4.0
-2024,2579,South Carolina,fbs,SEC,,10.006863300044262,13,9,4,0,14.834,Shane Beamer,False,18.0,24.0,-6.0
-2022,2569,South Carolina State,fcs,MEAC,,1.626086505772251,11,3,8,0,,,False,0.0,1.0,-1.0
-2023,2569,South Carolina State,fcs,MEAC,,2.0086396009702816,11,5,6,0,,,False,1.0,2.0,-1.0
-2024,2569,South Carolina State,fcs,MEAC,,6.5341762628368425,12,9,3,0,,,False,5.0,6.0,-1.0
-2022,233,South Dakota,fcs,MVFC,,3.445226735733926,11,3,8,0,,,False,0.0,2.0,-2.0
-2023,233,South Dakota,fcs,MVFC,,7.761949242242101,13,10,3,0,,,False,3.0,0.0,3.0
-2024,233,South Dakota,fcs,MVFC,,9.701571151299254,15,11,3,1,,,False,12.0,8.0,4.0
-2022,2571,South Dakota State,fcs,MVFC,,10.976940784070662,15,14,1,0,,,False,1.0,1.0,0.0
-2023,2571,South Dakota State,fcs,MVFC,,13.10620751977494,15,15,0,0,,,False,2.0,0.0,2.0
-2024,2571,South Dakota State,fcs,MVFC,,11.851943352734397,15,12,3,0,,,False,13.0,21.0,-8.0
-2022,58,South Florida,fbs,American Athletic,,3.3903067784797445,12,1,11,0,-10.481,Daniel Da Prato,True,19.0,26.0,-7.0
-2023,58,South Florida,fbs,American Athletic,,6.797797443628671,13,7,6,0,-9.854,Alex Golesh,False,14.0,20.0,-6.0
-2024,58,South Florida,fbs,American Athletic,,6.759114997222183,13,7,6,0,-3.472,Alex Golesh,False,23.0,24.0,-1.0
-2022,2546,Southeast Missouri State,fcs,OVC,,7.63052355630712,12,9,3,0,,,False,0.0,3.0,-3.0
-2023,2546,Southeast Missouri State,fcs,Big South-OVC,,5.238729079073407,11,4,7,0,,,False,3.0,2.0,1.0
-2024,2546,Southeast Missouri State,fcs,Big South-OVC,,6.7048879201584235,13,9,4,0,,,False,5.0,5.0,0.0
-2022,2582,Southern,fcs,SWAC,West,5.988119440603798,12,7,5,0,,,False,0.0,1.0,-1.0
-2023,2582,Southern,fcs,SWAC,West,4.408735956907242,11,6,5,0,,,False,4.0,2.0,2.0
-2024,2582,Southern,fcs,SWAC,West,5.850503534227803,13,8,5,0,,,False,2.0,6.0,-4.0
-2022,79,Southern Illinois,fcs,MVFC,,6.291809229178552,11,5,6,0,,,False,2.0,2.0,0.0
-2023,79,Southern Illinois,fcs,MVFC,,8.12905288720143,13,8,5,0,,,False,6.0,4.0,2.0
-2024,79,Southern Illinois,fcs,MVFC,,4.157093864282836,12,4,8,0,,,False,3.0,8.0,-5.0
-2022,2572,Southern Miss,fbs,Sun Belt,West,6.896306654106202,13,7,6,0,-6.085,Will Hall,False,8.0,6.0,2.0
-2023,2572,Southern Miss,fbs,Sun Belt,West,4.140541627917707,12,3,9,0,-14.169,Will Hall,False,17.0,7.0,10.0
-2024,2572,Southern Miss,fbs,Sun Belt,West,1.5151647558977213,12,1,11,0,-21.712,Will Hall,False,52.0,41.0,11.0
-2022,253,Southern Utah,fcs,Western Athletic,,4.050117472271147,11,5,6,0,,,False,1.0,5.0,-4.0
-2023,253,Southern Utah,fcs,UAC,,6.302664031397204,11,6,5,0,,,False,4.0,1.0,3.0
-2024,253,Southern Utah,fcs,UAC,,7.211093555712421,12,7,5,0,,,False,7.0,7.0,0.0
-2022,2598,St. Francis (PA),fcs,NEC,,6.1837882007069505,12,9,3,0,,,False,,,
-2023,2598,St. Francis (PA),fcs,NEC,,3.853996857974962,10,4,6,0,,,False,,,
-2024,2598,St. Francis (PA),fcs,NEC,,4.894964545985758,11,4,7,0,,,False,,,
-2022,2900,St. Thomas (MN),fcs,Pioneer,,9.966499266834694,11,10,1,0,,,False,,,
-2023,2900,St. Thomas (MN),fcs,Pioneer,,6.672249929951704,11,8,3,0,,,False,,,
-2024,2900,St. Thomas (MN),fcs,Pioneer,,5.864783932461477,12,6,6,0,,,False,,,
-2022,24,Stanford,fbs,Pac-12,,2.9377392466469097,12,3,9,0,-3.917,David Shaw,True,4.0,21.0,-17.0
-2023,24,Stanford,fbs,Pac-12,,2.647337089501702,12,3,9,0,-9.769,Troy Taylor,False,4.0,14.0,-10.0
-2024,24,Stanford,fbs,ACC,,3.810818710546931,12,3,9,0,-5.299,Troy Taylor,False,17.0,27.0,-10.0
-2022,2617,Stephen F. Austin,fcs,Western Athletic,,4.8191585199453115,11,6,5,0,,,False,3.0,2.0,1.0
-2023,2617,Stephen F. Austin,fcs,UAC,,4.107713412527595,11,3,8,0,,,False,15.0,3.0,12.0
-2024,2617,Stephen F. Austin,fcs,Southland,,6.486684261007166,12,7,5,0,,,False,10.0,3.0,7.0
-2022,56,Stetson,fcs,Pioneer,,2.0477414147616413,11,4,6,1,,,False,,,
-2023,56,Stetson,fcs,Pioneer,,0.6460126776329128,11,3,8,0,,,False,2.0,1.0,1.0
-2024,56,Stetson,fcs,Pioneer,,2.0413025122741875,12,2,9,1,,,False,2.0,2.0,0.0
-2022,284,Stonehill,fcs,NEC,,0.1810288578658377,9,4,5,0,,,False,,,
-2023,284,Stonehill,fcs,NEC,,2.6900446492791112,10,5,5,0,,,False,,,
-2024,284,Stonehill,fcs,NEC,,1.5124897157388246,11,1,10,0,,,False,,,
-2022,2619,Stony Brook,fcs,CAA,,2.714713008433999,11,2,9,0,,,False,7.0,2.0,5.0
-2023,2619,Stony Brook,fcs,CAA,,0.6487516296028543,11,0,10,1,,,False,1.0,1.0,0.0
-2024,2619,Stony Brook,fcs,CAA,,6.1406567783482355,12,8,4,0,,,False,4.0,2.0,2.0
-2022,183,Syracuse,fbs,ACC,Atlantic,6.247216096987285,13,7,6,0,5.084,Dino Babers,False,9.0,15.0,-6.0
-2023,183,Syracuse,fbs,ACC,Atlantic,6.109475485787092,13,6,7,0,2.396,Dino Babers,True,19.0,28.0,-9.0
-2024,183,Syracuse,fbs,ACC,,6.149897698376089,13,10,3,0,3.99,Fran Brown,False,16.0,24.0,-8.0
-2022,2628,TCU,fbs,Big 12,,10.324848578954755,15,13,2,0,14.378,Sonny Dykes,False,13.0,17.0,-4.0
-2023,2628,TCU,fbs,Big 12,,6.209705223056343,12,5,7,0,9.511,Sonny Dykes,False,23.0,19.0,4.0
-2024,2628,TCU,fbs,Big 12,,8.906212192410981,13,9,4,0,8.023,Sonny Dykes,False,11.0,18.0,-7.0
-2022,2627,Tarleton State,fcs,Western Athletic,,5.392004029747148,11,6,5,0,,,False,2.0,2.0,0.0
-2023,2627,Tarleton State,fcs,UAC,,6.768794913674509,11,8,3,0,,,False,2.0,2.0,0.0
-2024,2627,Tarleton State,fcs,UAC,,10.607905886973771,14,10,4,0,,,False,6.0,1.0,5.0
-2022,218,Temple,fbs,American Athletic,,4.443983901191349,12,3,9,0,-11.777,Stan Drayton,False,11.0,28.0,-17.0
-2023,218,Temple,fbs,American Athletic,,2.847281087613609,12,3,9,0,-19.353,Stan Drayton,False,15.0,31.0,-16.0
-2024,218,Temple,fbs,American Athletic,,2.501061874077142,12,3,9,0,-18.721,Stan Drayton,False,24.0,22.0,2.0
-2022,2633,Tennessee,fbs,SEC,East,9.749081155455064,13,11,2,0,22.728,Josh Heupel,False,8.0,22.0,-14.0
-2023,2633,Tennessee,fbs,SEC,East,8.817403246997422,13,9,4,0,14.091,Josh Heupel,False,9.0,16.0,-7.0
-2024,2633,Tennessee,fbs,SEC,,9.764479085666787,13,10,3,0,20.786,Josh Heupel,False,7.0,24.0,-17.0
-2022,2634,Tennessee State,fcs,OVC,,4.828375498568803,11,4,7,0,,,False,1.0,1.0,0.0
-2023,2634,Tennessee State,fcs,Big South-OVC,,5.622067291614566,11,6,5,0,,,False,11.0,7.0,4.0
-2024,2634,Tennessee State,fcs,Big South-OVC,,7.6239873463368335,13,9,4,0,,,False,12.0,15.0,-3.0
-2022,2635,Tennessee Tech,fcs,OVC,,3.108252522852845,11,4,7,0,,,False,,,
-2023,2635,Tennessee Tech,fcs,Big South-OVC,,4.0136738909417415,11,4,7,0,,,False,7.0,4.0,3.0
-2024,2635,Tennessee Tech,fcs,Big South-OVC,,6.604607092379615,12,7,5,0,,,False,12.0,4.0,8.0
-2022,251,Texas,fbs,Big 12,,9.791174312752483,13,8,5,0,19.379,Steve Sarkisian,False,5.0,20.0,-15.0
-2023,251,Texas,fbs,Big 12,,11.296934751329628,14,12,2,0,23.196,Steve Sarkisian,False,10.0,24.0,-14.0
-2024,251,Texas,fbs,SEC,,12.344395372482223,16,13,3,0,26.107,Steve Sarkisian,False,11.0,13.0,-2.0
-2022,245,Texas A&M,fbs,SEC,West,4.6657725755918635,12,5,7,0,7.2,Jimbo Fisher,False,13.0,32.0,-19.0
-2023,245,Texas A&M,fbs,SEC,West,8.414501282881327,13,7,6,0,15.36,Jimbo Fisher,True,26.0,30.0,-4.0
-2024,245,Texas A&M,fbs,SEC,,8.231245363251418,13,8,5,0,14.297,Mike Elko,False,13.0,30.0,-17.0
-2022,2640,Texas Southern,fcs,SWAC,West,5.375069102064609,11,5,6,0,,,False,2.0,1.0,1.0
-2023,2640,Texas Southern,fcs,SWAC,West,1.7343992996461657,11,3,8,0,,,False,6.0,2.0,4.0
-2024,2640,Texas Southern,fcs,SWAC,West,5.369197759161259,11,5,6,0,,,False,4.0,8.0,-4.0
-2022,326,Texas State,fbs,Sun Belt,West,4.443363952073579,12,4,8,0,-12.869,Jake Spavital,True,37.0,24.0,13.0
-2023,326,Texas State,fbs,Sun Belt,West,8.479230792898626,13,8,5,0,-8.459,G.J. Kinne,False,30.0,22.0,8.0
-2024,326,Texas State,fbs,Sun Belt,West,8.589085210810687,13,8,5,0,2.247,G.J. Kinne,False,34.0,33.0,1.0
-2022,2641,Texas Tech,fbs,Big 12,,6.383732635580702,13,8,5,0,8.326,Joey McGuire,False,7.0,18.0,-11.0
-2023,2641,Texas Tech,fbs,Big 12,,6.04586070190089,13,7,6,0,6.237,Joey McGuire,False,16.0,23.0,-7.0
-2024,2641,Texas Tech,fbs,Big 12,,5.98720107064572,13,8,5,0,6.204,Joey McGuire,False,21.0,24.0,-3.0
-2022,2643,The Citadel,fcs,Southern,,5.802981593388418,11,4,7,0,,,False,,,
-2023,2643,The Citadel,fcs,Southern,,1.4691874979100688,11,0,11,0,,,False,1.0,0.0,1.0
-2024,2643,The Citadel,fcs,Southern,,4.676710475626465,12,5,7,0,,,False,3.0,0.0,3.0
-2022,2649,Toledo,fbs,Mid-American,West,10.061377734019237,14,9,5,0,-3.347,Jason Candle,False,3.0,9.0,-6.0
-2023,2649,Toledo,fbs,Mid-American,West,10.717935440988349,14,11,3,0,0.536,Jason Candle,False,7.0,11.0,-4.0
-2024,2649,Toledo,fbs,Mid-American,,6.155344581815647,13,8,5,0,-5.318,Jason Candle,False,20.0,17.0,3.0
-2022,119,Towson,fcs,CAA,,3.557800623601378,11,6,5,0,,,False,1.0,1.0,0.0
-2023,119,Towson,fcs,CAA,,4.304410365450917,11,5,6,0,,,False,3.0,2.0,1.0
-2024,119,Towson,fcs,CAA,,5.91743589931046,12,7,5,0,,,False,7.0,2.0,5.0
-2022,2653,Troy,fbs,Sun Belt,West,9.641550460963668,14,12,2,0,1.884,Jon Sumrall,True,8.0,9.0,-1.0
-2023,2653,Troy,fbs,Sun Belt,West,10.079827670218418,14,11,3,0,5.742,Greg Gasparato,True,10.0,23.0,-13.0
-2024,2653,Troy,fbs,Sun Belt,West,6.4430176126277665,12,4,8,0,-7.249,Gerad Parker,False,4.0,12.0,-8.0
-2022,2655,Tulane,fbs,American Athletic,,10.069436737123477,14,12,2,0,9.496,Willie Fritz,False,7.0,11.0,-4.0
-2023,2655,Tulane,fbs,American Athletic,,9.914853247807606,14,11,3,0,3.05,Willie Fritz,True,22.0,24.0,-2.0
-2024,2655,Tulane,fbs,American Athletic,,9.750732842271267,14,9,5,0,10.537,Jon Sumrall,False,30.0,26.0,4.0
-2022,202,Tulsa,fbs,American Athletic,,4.999757325228414,12,5,7,0,-4.107,Philip Montgomery,True,8.0,11.0,-3.0
-2023,202,Tulsa,fbs,American Athletic,,5.364906297901139,12,4,8,0,-13.345,Kevin Wilson,True,12.0,24.0,-12.0
-2024,202,Tulsa,fbs,American Athletic,,3.136740737611128,12,3,9,0,-23.104,Ryan Switzer,False,31.0,26.0,5.0
-2022,5,UAB,fbs,Conference USA,,9.223410176098104,13,7,6,0,0.176,Bryant Vincent,True,7.0,13.0,-6.0
-2023,5,UAB,fbs,American Athletic,,6.126876907002459,12,4,8,0,-10.908,Trent Dilfer,False,19.0,21.0,-2.0
-2024,5,UAB,fbs,American Athletic,,4.587440342212202,12,3,9,0,-12.74,Trent Dilfer,False,29.0,31.0,-2.0
-2022,399,UAlbany,fcs,CAA,,3.6424048258405177,11,3,8,0,,,False,1.0,1.0,0.0
-2023,399,UAlbany,fcs,CAA,,8.334947323398282,15,11,4,0,,,False,7.0,4.0,3.0
-2024,399,UAlbany,fcs,CAA,,2.076625908255683,12,4,8,0,,,False,,,
-2022,302,UC Davis,fcs,Big Sky,,5.22124743617035,11,6,5,0,,,False,0.0,1.0,-1.0
-2023,302,UC Davis,fcs,Big Sky,,7.00786209867913,11,7,4,0,,,False,1.0,2.0,-1.0
-2024,302,UC Davis,fcs,Big Sky,,9.364472457081732,14,11,3,0,,,False,9.0,2.0,7.0
-2022,2116,UCF,fbs,American Athletic,,8.575552106388,14,9,5,0,6.904,Gus Malzahn,False,18.0,19.0,-1.0
-2023,2116,UCF,fbs,Big 12,,9.300313107028485,13,6,7,0,9.736,Gus Malzahn,False,25.0,26.0,-1.0
-2024,2116,UCF,fbs,Big 12,,7.383046939154127,12,4,8,0,5.283,Gus Malzahn,False,38.0,46.0,-8.0
-2022,26,UCLA,fbs,Pac-12,,9.786850718124285,13,9,4,0,8.553,Chip Kelly,False,14.0,7.0,7.0
-2023,26,UCLA,fbs,Pac-12,,8.61597362323131,13,8,5,0,7.056,Chip Kelly,True,21.0,17.0,4.0
-2024,26,UCLA,fbs,Big Ten,,5.220820764547191,12,5,7,0,2.781,Deshaun Foster,False,30.0,34.0,-4.0
-2022,41,UConn,fbs,FBS Independents,,6.266431161912275,13,6,7,0,-14.733,Jim Mora,False,12.0,10.0,2.0
-2023,41,UConn,fbs,FBS Independents,,3.616995477203681,12,3,9,0,-15.874,Jim Mora,False,24.0,19.0,5.0
-2024,41,UConn,fbs,FBS Independents,,9.164834146277462,13,9,4,0,-3.325,Jim Mora,False,23.0,19.0,4.0
-2022,2433,UL Monroe,fbs,Sun Belt,West,2.932622848605087,12,4,8,0,-13.687,Terry Bowden,False,7.0,21.0,-14.0
-2023,2433,UL Monroe,fbs,Sun Belt,West,1.3038651471992004,12,2,10,0,-19.6,Terry Bowden,True,16.0,25.0,-9.0
-2024,2433,UL Monroe,fbs,Sun Belt,West,5.1850684390796005,12,5,7,0,-11.333,Bryant Vincent,False,14.0,21.0,-7.0
-2022,2439,UNLV,fbs,Mountain West,West,5.649057691845799,12,5,7,0,-10.768,Marcus Arroyo,True,9.0,18.0,-9.0
-2023,2439,UNLV,fbs,Mountain West,West,8.35712683027659,14,9,5,0,-1.823,Barry Odom,False,19.0,19.0,0.0
-2024,2439,UNLV,fbs,Mountain West,,10.928636756589317,14,11,3,0,5.991,Barry Odom,False,39.0,40.0,-1.0
-2022,30,USC,fbs,Pac-12,,9.836385439453885,14,11,3,0,13.164,Lincoln Riley,False,16.0,21.0,-5.0
-2023,30,USC,fbs,Pac-12,,6.2600445580270625,13,8,5,0,13.091,Lincoln Riley,False,16.0,29.0,-13.0
-2024,30,USC,fbs,Big Ten,,6.6266730506343725,13,7,6,0,13.269,Lincoln Riley,False,15.0,27.0,-12.0
-2022,2630,UT Martin,fcs,OVC,,6.8360916278096315,11,7,4,0,,,False,1.0,1.0,0.0
-2023,2630,UT Martin,fcs,Big South-OVC,,7.422125890236519,11,8,3,0,,,False,11.0,5.0,6.0
-2024,2630,UT Martin,fcs,Big South-OVC,,9.502854091098884,14,9,5,0,,,False,8.0,7.0,1.0
-2022,2638,UTEP,fbs,Conference USA,,4.494274713124155,12,5,7,0,-11.393,Dana Dimel,False,2.0,5.0,-3.0
-2023,2638,UTEP,fbs,Conference USA,,4.653267694648889,12,3,9,0,-14.68,Dana Dimel,True,27.0,37.0,-10.0
-2024,2638,UTEP,fbs,Conference USA,,4.497080439568821,12,3,9,0,-19.407,Scotty Walden,False,26.0,39.0,-13.0
-2022,2636,UTSA,fbs,Conference USA,,9.775110014725774,14,11,3,0,3.336,Jeff Traylor,False,8.0,13.0,-5.0
-2023,2636,UTSA,fbs,American Athletic,,9.093620246043988,13,9,4,0,1.111,Jeff Traylor,False,15.0,12.0,3.0
-2024,2636,UTSA,fbs,American Athletic,,7.451140420531065,13,7,6,0,-5.581,Jeff Traylor,False,20.0,20.0,0.0
-2022,254,Utah,fbs,Pac-12,,9.62514945020242,14,10,4,0,19.146,Kyle Whittingham,False,9.0,19.0,-10.0
-2023,254,Utah,fbs,Pac-12,,8.74529921971851,13,8,5,0,10.768,Kyle Whittingham,False,11.0,24.0,-13.0
-2024,254,Utah,fbs,Big 12,,6.636350929869128,12,5,7,0,5.029,Kyle Whittingham,False,21.0,32.0,-11.0
-2022,328,Utah State,fbs,Mountain West,Mountain,5.616414921447496,13,6,7,0,-11.489,Blake Anderson,False,7.0,21.0,-14.0
-2023,328,Utah State,fbs,Mountain West,Mountain,6.337432901954777,13,6,7,0,-7.651,Blake Anderson,False,20.0,26.0,-6.0
-2024,328,Utah State,fbs,Mountain West,,5.045168449018577,12,4,8,0,-10.773,Blake Anderson,False,24.0,38.0,-14.0
-2022,3101,Utah Tech,fcs,Western Athletic,,3.947513895972936,11,4,7,0,,,False,0.0,5.0,-5.0
-2023,3101,Utah Tech,fcs,UAC,,2.005948847921791,11,2,9,0,,,False,8.0,4.0,4.0
-2024,3101,Utah Tech,fcs,UAC,,1.3156463047214588,12,1,11,0,,,False,9.0,8.0,1.0
-2022,2678,VMI,fcs,Southern,,0.1227511193450533,11,1,10,0,,,False,0.0,3.0,-3.0
-2023,2678,VMI,fcs,Southern,,3.7071017860344857,11,5,6,0,,,False,0.0,4.0,-4.0
-2024,2678,VMI,fcs,Southern,,1.0502531772101775,12,1,11,0,,,False,0.0,2.0,-2.0
-2022,2674,Valparaiso,fcs,Pioneer,,4.942745250688765,12,5,7,0,,,False,,,
-2023,2674,Valparaiso,fcs,Pioneer,,2.8572073133618745,11,3,8,0,,,False,0.0,1.0,-1.0
-2024,2674,Valparaiso,fcs,Pioneer,,3.2049262662296223,12,4,7,1,,,False,0.0,2.0,-2.0
-2022,238,Vanderbilt,fbs,SEC,East,4.84516554793668,12,5,7,0,-6.834,Clark Lea,False,3.0,13.0,-10.0
-2023,238,Vanderbilt,fbs,SEC,East,1.3351751097476925,12,2,10,0,-9.102,Clark Lea,False,22.0,23.0,-1.0
-2024,238,Vanderbilt,fbs,SEC,,7.077453743282387,13,7,6,0,6.463,Clark Lea,False,20.0,21.0,-1.0
-2022,222,Villanova,fcs,CAA,,5.083687159389945,11,6,5,0,,,False,0.0,2.0,-2.0
-2023,222,Villanova,fcs,CAA,,10.1006589751137,13,10,3,0,,,False,0.0,4.0,-4.0
-2024,222,Villanova,fcs,CAA,,6.907479644254576,14,10,4,0,,,False,3.0,1.0,2.0
-2022,258,Virginia,fbs,ACC,Coastal,4.070386934757569,10,3,7,0,-3.957,Tony Elliott,False,8.0,14.0,-6.0
-2023,258,Virginia,fbs,ACC,Coastal,5.28305039795405,12,3,9,0,-5.286,Tony Elliott,False,13.0,16.0,-3.0
-2024,258,Virginia,fbs,ACC,,4.258877965863164,12,5,7,0,-1.289,Tony Elliott,False,31.0,23.0,8.0
-2022,259,Virginia Tech,fbs,ACC,Coastal,5.0060560099313465,11,3,8,0,-6.192,Brent Pry,False,9.0,21.0,-12.0
-2023,259,Virginia Tech,fbs,ACC,Coastal,7.124493280588259,13,7,6,0,4.101,Brent Pry,False,7.0,18.0,-11.0
-2024,259,Virginia Tech,fbs,ACC,,7.1543297462908875,13,6,7,0,8.853,Brent Pry,False,30.0,31.0,-1.0
-2022,2681,Wagner,fcs,NEC,,1.2243956917938652,11,1,10,0,,,False,1.0,2.0,-1.0
-2023,2681,Wagner,fcs,NEC,,2.611559020811601,11,4,7,0,,,False,2.0,1.0,1.0
-2024,2681,Wagner,fcs,NEC,,4.068333395969437,12,4,8,0,,,False,1.0,2.0,-1.0
-2022,154,Wake Forest,fbs,ACC,Atlantic,8.369783449580337,13,8,5,0,7.586,Dave Clawson,False,3.0,11.0,-8.0
-2023,154,Wake Forest,fbs,ACC,Atlantic,4.234224632197234,12,4,8,0,-1.563,Dave Clawson,False,5.0,15.0,-10.0
-2024,154,Wake Forest,fbs,ACC,,4.1396489805563155,12,4,8,0,-5.059,Dave Clawson,False,33.0,26.0,7.0
-2022,264,Washington,fbs,Pac-12,,8.230901694511436,13,11,2,0,11.472,Kalen DeBoer,False,10.0,22.0,-12.0
-2023,264,Washington,fbs,Pac-12,,10.632341177096174,15,14,1,0,17.544,Kalen DeBoer,True,27.0,30.0,-3.0
-2024,264,Washington,fbs,Big Ten,,7.248212292779996,13,6,7,0,5.047,Jedd Fisch,False,18.0,32.0,-14.0
-2022,265,Washington State,fbs,Pac-12,,5.490055236697067,13,7,6,0,3.766,Jake Dickert,False,9.0,36.0,-27.0
-2023,265,Washington State,fbs,Pac-12,,5.648213428157859,12,5,7,0,3.221,Jake Dickert,False,12.0,27.0,-15.0
-2024,265,Washington State,fbs,Pac-12,,8.873875310293844,13,8,5,0,1.667,Jake Dickert,False,34.0,60.0,-26.0
-2022,2692,Weber State,fcs,Big Sky,,9.012398408468297,13,10,3,0,,,False,2.0,5.0,-3.0
-2023,2692,Weber State,fcs,Big Sky,,4.524732560404309,11,6,5,0,,,False,5.0,7.0,-2.0
-2024,2692,Weber State,fcs,Big Sky,,6.176202675193222,12,4,8,0,,,False,6.0,8.0,-2.0
-2024,2698,West Georgia,fcs,UAC,,3.2061370908744147,11,4,7,0,,,False,5.0,9.0,-4.0
-2022,277,West Virginia,fbs,Big 12,,5.324602623833775,12,5,7,0,4.097,Neal Brown,False,14.0,22.0,-8.0
-2023,277,West Virginia,fbs,Big 12,,8.816005172762647,13,9,4,0,5.931,Neal Brown,False,13.0,25.0,-12.0
-2024,277,West Virginia,fbs,Big 12,,4.905630370385611,13,6,7,0,1.795,Neal Brown,False,51.0,49.0,2.0
-2022,2717,Western Carolina,fcs,Southern,,4.322392830095871,11,6,5,0,,,False,1.0,2.0,-1.0
-2023,2717,Western Carolina,fcs,Southern,,6.765143911026888,11,7,4,0,,,False,0.0,2.0,-2.0
-2024,2717,Western Carolina,fcs,Southern,,6.4421301257301264,12,7,5,0,,,False,5.0,10.0,-5.0
-2022,2710,Western Illinois,fcs,MVFC,,2.4592512018232218,11,0,11,0,,,False,0.0,3.0,-3.0
-2023,2710,Western Illinois,fcs,MVFC,,0.1671556805425703,11,0,11,0,,,False,5.0,1.0,4.0
-2024,2710,Western Illinois,fcs,Big South-OVC,,3.5330936712865575,12,4,8,0,,,False,3.0,6.0,-3.0
-2022,98,Western Kentucky,fbs,Conference USA,,8.582883913889692,14,9,5,0,5.077,Tyson Helton,False,12.0,20.0,-8.0
-2023,98,Western Kentucky,fbs,Conference USA,,6.18475319617502,13,8,5,0,-5.151,Tyson Helton,False,21.0,28.0,-7.0
-2024,98,Western Kentucky,fbs,Conference USA,,6.4133321610878635,14,8,6,0,-7.663,Tyson Helton,False,42.0,34.0,8.0
-2022,2711,Western Michigan,fbs,Mid-American,West,4.301971730411199,12,5,7,0,-12.495,Tim Lester,True,6.0,10.0,-4.0
-2023,2711,Western Michigan,fbs,Mid-American,West,4.468933161342783,12,4,8,0,-13.543,Lance Taylor,False,11.0,23.0,-12.0
-2024,2711,Western Michigan,fbs,Mid-American,,5.329759304646534,13,6,7,0,-10.952,Lance Taylor,False,23.0,26.0,-3.0
-2022,2729,William & Mary,fcs,CAA,,9.209783383057088,13,11,2,0,,,False,,,
-2023,2729,William & Mary,fcs,CAA,,5.935499091732632,11,6,5,0,,,False,2.0,1.0,1.0
-2024,2729,William & Mary,fcs,CAA,,7.189391670385092,12,7,5,0,,,False,4.0,2.0,2.0
-2022,275,Wisconsin,fbs,Big Ten,West,8.8171866766723,13,7,6,0,8.148,Paul Chryst,True,14.0,19.0,-5.0
-2023,275,Wisconsin,fbs,Big Ten,West,6.44006280777893,13,7,6,0,6.043,Luke Fickell,False,16.0,23.0,-7.0
-2024,275,Wisconsin,fbs,Big Ten,,4.7935133967450545,12,5,7,0,4.781,Luke Fickell,False,18.0,32.0,-14.0
-2022,2747,Wofford,fcs,Southern,,2.684400866715483,11,3,8,0,,,False,0.0,3.0,-3.0
-2023,2747,Wofford,fcs,Southern,,3.0380746173928665,11,2,9,0,,,False,3.0,2.0,1.0
-2024,2747,Wofford,fcs,Southern,,4.3570215843916555,12,5,7,0,,,False,6.0,3.0,3.0
-2022,2751,Wyoming,fbs,Mountain West,Mountain,6.0187623865977224,13,7,6,0,-9.34,Craig Bohl,False,3.0,16.0,-13.0
-2023,2751,Wyoming,fbs,Mountain West,Mountain,7.251306020864472,13,9,4,0,-2.253,Craig Bohl,True,3.0,13.0,-10.0
-2024,2751,Wyoming,fbs,Mountain West,,3.9030346318186,12,3,9,0,-11.258,Jay Sawvel,False,17.0,22.0,-5.0
-2022,43,Yale,fcs,Ivy,,6.001470085250013,10,8,2,0,,,False,0.0,1.0,-1.0
-2023,43,Yale,fcs,Ivy,,7.932870491928576,10,7,3,0,,,False,0.0,5.0,-5.0
-2024,43,Yale,fcs,Ivy,,5.418378213209314,10,7,3,0,,,False,1.0,12.0,-11.0
-2022,2754,Youngstown State,fcs,MVFC,,5.316334352161349,11,7,4,0,,,False,,,
-2023,2754,Youngstown State,fcs,MVFC,,7.3361753345510365,13,8,5,0,,,False,8.0,8.0,0.0
-2024,2754,Youngstown State,fcs,MVFC,,5.084993980684543,12,4,8,0,,,False,4.0,9.0,-5.0
+Year,TeamId,Team,Classification,Conference,Division,ExpectedWins,Total Games,Total Wins,Total Losses,Total Ties,Fpi,Fpi_prev,Fpi_yoy_change,Coach,CoachingChange,Transfers_In,Transfers_Out,Net_Change
+2022,2000,Abilene Christian,fcs,Western Athletic,,6.619276325041021,11,7,4,0,,,,,False,4.0,2.0,2.0
+2023,2000,Abilene Christian,fcs,UAC,,4.092670834702715,11,5,6,0,,,,,False,13.0,2.0,11.0
+2024,2000,Abilene Christian,fcs,UAC,,7.510918118985642,14,9,5,0,,,,,False,17.0,7.0,10.0
+2022,2005,Air Force,fbs,Mountain West,Mountain,10.945055964657206,13,10,3,0,3.75,,,Troy Calhoun,False,0.0,8.0,-8.0
+2023,2005,Air Force,fbs,Mountain West,Mountain,10.725707180645806,13,9,4,0,-0.348,3.75,-4.098,Troy Calhoun,False,0.0,11.0,-11.0
+2024,2005,Air Force,fbs,Mountain West,,6.003887990884624,12,5,7,0,-9.432,-0.348,-9.084,Troy Calhoun,False,0.0,12.0,-12.0
+2022,2006,Akron,fbs,Mid-American,East,1.9569268487546383,12,2,10,0,-17.322,,,Joe Moorhead,False,4.0,12.0,-8.0
+2023,2006,Akron,fbs,Mid-American,East,3.7828815974455225,12,2,10,0,-20.022,-17.322,-2.6999999999999993,Joe Moorhead,False,15.0,22.0,-7.0
+2024,2006,Akron,fbs,Mid-American,,3.5036045156384734,12,4,8,0,-15.896,-20.022,4.125999999999998,Joe Moorhead,False,17.0,20.0,-3.0
+2022,333,Alabama,fbs,SEC,West,10.457207126799414,13,11,2,0,27.296,,,Nick Saban,False,5.0,21.0,-16.0
+2023,333,Alabama,fbs,SEC,West,11.28134746735358,14,12,2,0,24.925,27.296,-2.3709999999999987,Nick Saban,True,14.0,38.0,-24.0
+2024,333,Alabama,fbs,SEC,,8.697743763438682,13,9,4,0,23.933,24.925,-0.9920000000000009,Kalen DeBoer,False,11.0,25.0,-14.0
+2022,2010,Alabama A&M,fcs,SWAC,East,3.6017636125329977,11,4,7,0,,,,,False,2.0,0.0,2.0
+2023,2010,Alabama A&M,fcs,SWAC,East,5.014057161772787,11,5,6,0,,,,,False,9.0,0.0,9.0
+2024,2010,Alabama A&M,fcs,SWAC,East,6.349757501816714,12,6,6,0,,,,,False,2.0,10.0,-8.0
+2022,2011,Alabama State,fcs,SWAC,East,3.9679405167347137,11,6,5,0,,,,,False,1.0,1.0,0.0
+2023,2011,Alabama State,fcs,SWAC,East,6.448193527755483,11,7,4,0,,,,,False,3.0,5.0,-2.0
+2024,2011,Alabama State,fcs,SWAC,East,7.043831005651268,12,7,5,0,,,,,False,6.0,6.0,0.0
+2022,2016,Alcorn State,fcs,SWAC,West,4.594800189268715,11,5,6,0,,,,,False,1.0,0.0,1.0
+2023,2016,Alcorn State,fcs,SWAC,West,4.436856478606804,11,7,4,0,,,,,False,1.0,1.0,0.0
+2024,2016,Alcorn State,fcs,SWAC,West,4.105922010408881,12,6,6,0,,,,,False,4.0,3.0,1.0
+2022,2026,App State,fbs,Sun Belt,East,7.063498665750302,12,6,6,0,0.411,,,Shawn Clark,False,13.0,14.0,-1.0
+2023,2026,App State,fbs,Sun Belt,East,9.700118352434076,14,9,5,0,-0.603,0.411,-1.014,Shawn Clark,False,15.0,21.0,-6.0
+2024,2026,App State,fbs,Sun Belt,East,4.634148235331524,11,5,6,0,-6.788,-0.603,-6.1850000000000005,Shawn Clark,False,32.0,41.0,-9.0
+2022,12,Arizona,fbs,Pac-12,,3.9937131368146206,12,5,7,0,-2.006,,,Jedd Fisch,False,8.0,26.0,-18.0
+2023,12,Arizona,fbs,Pac-12,,8.681701369190113,13,10,3,0,11.44,-2.006,13.446,Jedd Fisch,True,24.0,26.0,-2.0
+2024,12,Arizona,fbs,Big 12,,4.2167032230106,12,4,8,0,-3.385,11.44,-14.825,Brent Brennan,False,30.0,35.0,-5.0
+2022,9,Arizona State,fbs,Pac-12,,5.358043951592553,12,3,9,0,-2.18,,,Shaun Aguano,True,30.0,30.0,0.0
+2023,9,Arizona State,fbs,Pac-12,,3.634008578313207,12,3,9,0,-7.512,-2.18,-5.331999999999999,Kenny Dillingham,False,28.0,28.0,0.0
+2024,9,Arizona State,fbs,Big 12,,10.650130252853703,14,11,3,0,11.793,-7.512,19.305,Kenny Dillingham,False,17.0,21.0,-4.0
+2022,8,Arkansas,fbs,SEC,West,8.529310198585382,13,7,6,0,6.93,,,Sam Pittman,False,17.0,31.0,-14.0
+2023,8,Arkansas,fbs,SEC,West,5.498399801920857,12,4,8,0,2.225,6.93,-4.705,Sam Pittman,False,22.0,30.0,-8.0
+2024,8,Arkansas,fbs,SEC,,7.87864305772377,13,7,6,0,8.19,2.225,5.965,Sam Pittman,False,31.0,41.0,-10.0
+2022,2032,Arkansas State,fbs,Sun Belt,West,4.003603191739838,12,3,9,0,-12.029,,,Butch Jones,False,8.0,13.0,-5.0
+2023,2032,Arkansas State,fbs,Sun Belt,West,5.607116358162902,13,6,7,0,-8.951,-12.029,3.0779999999999994,Butch Jones,False,17.0,21.0,-4.0
+2024,2032,Arkansas State,fbs,Sun Belt,West,4.608030386779824,13,8,5,0,-11.861,-8.951,-2.91,Butch Jones,False,32.0,29.0,3.0
+2022,2029,Arkansas-Pine Bluff,fcs,SWAC,West,0.7137960874731222,11,3,8,0,,,,,False,,,
+2023,2029,Arkansas-Pine Bluff,fcs,SWAC,West,0.942596842009613,11,2,9,0,,,,,False,3.0,3.0,0.0
+2024,2029,Arkansas-Pine Bluff,fcs,SWAC,West,3.394463745619437,12,3,9,0,,,,,False,1.0,6.0,-5.0
+2022,349,Army,fbs,FBS Independents,,7.143472376623744,12,6,6,0,-2.508,,,Jeff Monken,False,0.0,1.0,-1.0
+2023,349,Army,fbs,FBS Independents,,6.64921384272946,12,6,6,0,-8.953,-2.508,-6.444999999999999,Jeff Monken,False,0.0,9.0,-9.0
+2024,349,Army,fbs,American Athletic,,11.900202639307905,14,12,2,0,5.27,-8.953,14.222999999999999,Jeff Monken,False,0.0,10.0,-10.0
+2022,2,Auburn,fbs,SEC,West,6.735980425211763,12,5,7,0,6.205,,,Bryan Harsin,True,21.0,21.0,0.0
+2023,2,Auburn,fbs,SEC,West,6.402269708738939,13,6,7,0,8.916,6.205,2.7110000000000003,Hugh Freeze,False,15.0,23.0,-8.0
+2024,2,Auburn,fbs,SEC,,7.215416284028155,12,5,7,0,9.659,8.916,0.7430000000000003,Hugh Freeze,False,21.0,27.0,-6.0
+2022,2046,Austin Peay,fcs,Atlantic Sun,,4.844503562991815,11,7,4,0,,,,,False,3.0,4.0,-1.0
+2023,2046,Austin Peay,fcs,UAC,,8.155227698372581,12,9,3,0,,,,,False,17.0,19.0,-2.0
+2024,2046,Austin Peay,fcs,UAC,,3.2783261180519543,12,4,8,0,,,,,False,23.0,8.0,15.0
+2022,252,BYU,fbs,FBS Independents,,6.633978548013562,13,8,5,0,0.819,,,Kalani Sitake,False,20.0,21.0,-1.0
+2023,252,BYU,fbs,Big 12,,3.616112728780986,12,5,7,0,-1.805,0.819,-2.6239999999999997,Kalani Sitake,False,9.0,16.0,-7.0
+2024,252,BYU,fbs,Big 12,,8.43082937690976,13,11,2,0,9.307,-1.805,11.112,Kalani Sitake,False,13.0,28.0,-15.0
+2022,2050,Ball State,fbs,Mid-American,West,4.568672872453927,12,5,7,0,-13.093,,,Mike Neu,False,10.0,10.0,0.0
+2023,2050,Ball State,fbs,Mid-American,West,5.707794769305532,12,4,8,0,-11.731,-13.093,1.362,Mike Neu,True,11.0,14.0,-3.0
+2024,2050,Ball State,fbs,Mid-American,,3.354466754494901,12,3,9,0,-18.001,-11.731,-6.270000000000001,Colin Johnson,False,24.0,32.0,-8.0
+2022,239,Baylor,fbs,Big 12,,7.3809750936245955,13,6,7,0,9.044,,,Dave Aranda,False,13.0,12.0,1.0
+2023,239,Baylor,fbs,Big 12,,2.4182643705434783,12,3,9,0,-4.924,9.044,-13.968,Dave Aranda,False,16.0,15.0,1.0
+2024,239,Baylor,fbs,Big 12,,8.056130708179111,13,8,5,0,9.105,-4.924,14.029,Dave Aranda,False,23.0,17.0,6.0
+2022,2065,Bethune-Cookman,fcs,SWAC,East,0.4132538168908989,11,2,9,0,,,,,False,3.0,0.0,3.0
+2023,2065,Bethune-Cookman,fcs,SWAC,East,3.1600734988235017,11,3,8,0,,,,,False,9.0,1.0,8.0
+2024,2065,Bethune-Cookman,fcs,SWAC,East,2.872763011404083,12,2,10,0,,,,,False,5.0,5.0,0.0
+2022,68,Boise State,fbs,Mountain West,Mountain,10.46502299308519,14,10,4,0,3.797,,,Andy Avalos,False,9.0,17.0,-8.0
+2023,68,Boise State,fbs,Mountain West,Mountain,9.081047051623498,14,8,6,0,5.186,3.797,1.3889999999999998,Andy Avalos,True,8.0,14.0,-6.0
+2024,68,Boise State,fbs,Mountain West,,10.79894123241294,14,12,2,0,10.993,5.186,5.807,Spencer Danielson,False,12.0,18.0,-6.0
+2022,103,Boston College,fbs,ACC,Atlantic,3.109028249629926,12,3,9,0,-7.442,,,Jeff Hafley,False,9.0,11.0,-2.0
+2023,103,Boston College,fbs,ACC,Atlantic,6.006971636459468,13,7,6,0,-5.102,-7.442,2.34,Jeff Hafley,True,10.0,17.0,-7.0
+2024,103,Boston College,fbs,ACC,,7.269577560273723,13,7,6,0,4.829,-5.102,9.931000000000001,Bill O'Brien,False,15.0,19.0,-4.0
+2022,189,Bowling Green,fbs,Mid-American,East,4.934003313814598,13,6,7,0,-16.18,,,Scot Loeffler,False,3.0,16.0,-13.0
+2023,189,Bowling Green,fbs,Mid-American,East,6.787308531770462,13,7,6,0,-5.514,-16.18,10.666,Scot Loeffler,False,13.0,15.0,-2.0
+2024,189,Bowling Green,fbs,Mid-American,,7.443176189935018,13,7,6,0,-3.156,-5.514,2.358,Scot Loeffler,False,21.0,27.0,-6.0
+2022,225,Brown,fcs,Ivy,,2.3413269603973346,10,3,7,0,,,,,False,,,
+2023,225,Brown,fcs,Ivy,,3.071362271014605,10,5,5,0,,,,,False,0.0,3.0,-3.0
+2024,225,Brown,fcs,Ivy,,2.330663727593172,10,3,7,0,,,,,False,0.0,3.0,-3.0
+2022,2803,Bryant,fcs,Big South,,3.1252304982836763,11,4,7,0,,,,,False,0.0,1.0,-1.0
+2023,2803,Bryant,fcs,Big South-OVC,,4.317958007293824,11,6,5,0,,,,,False,7.0,2.0,5.0
+2024,2803,Bryant,fcs,CAA,,1.3029257302905914,12,2,10,0,,,,,False,5.0,1.0,4.0
+2022,2083,Bucknell,fcs,Patriot,,2.3458811183569717,11,3,8,0,,,,,False,1.0,2.0,-1.0
+2023,2083,Bucknell,fcs,Patriot,,3.832023483284371,11,4,7,0,,,,,False,2.0,3.0,-1.0
+2024,2083,Bucknell,fcs,Patriot,,3.5531097514481544,12,6,6,0,,,,,False,4.0,5.0,-1.0
+2022,2084,Buffalo,fbs,Mid-American,East,7.196565220621764,13,7,6,0,-7.709,,,Maurice Linguist,False,10.0,14.0,-4.0
+2023,2084,Buffalo,fbs,Mid-American,East,3.559438224966651,12,3,9,0,-13.592,-7.709,-5.883000000000001,Maurice Linguist,True,17.0,16.0,1.0
+2024,2084,Buffalo,fbs,Mid-American,,7.680281927021848,13,9,4,0,-10.361,-13.592,3.231,Pete Lembo,False,8.0,9.0,-1.0
+2022,2086,Butler,fcs,Pioneer,,5.2714842191530655,11,7,4,0,,,,,False,,,
+2023,2086,Butler,fcs,Pioneer,,6.288394164009767,11,7,4,0,,,,,False,2.0,0.0,2.0
+2024,2086,Butler,fcs,Pioneer,,8.128107045952397,12,9,3,0,,,,,False,4.0,4.0,0.0
+2022,13,Cal Poly,fcs,Big Sky,,0.7571997215612569,11,2,9,0,,,,,False,4.0,3.0,1.0
+2023,13,Cal Poly,fcs,Big Sky,,1.2514331280596236,11,3,8,0,,,,,False,2.0,2.0,0.0
+2024,13,Cal Poly,fcs,Big Sky,,3.2155881053308364,11,3,8,0,,,,,False,8.0,7.0,1.0
+2022,25,California,fbs,Pac-12,,3.658513391775718,12,4,8,0,-1.39,,,Justin Wilcox,False,20.0,26.0,-6.0
+2023,25,California,fbs,Pac-12,,6.406684563955697,13,6,7,0,4.077,-1.39,5.467,Justin Wilcox,False,23.0,23.0,0.0
+2024,25,California,fbs,ACC,,6.989497551923431,13,6,7,0,4.302,4.077,0.22499999999999964,Justin Wilcox,False,36.0,33.0,3.0
+2022,2097,Campbell,fcs,Big South,,3.3090112612701663,11,5,6,0,,,,,False,6.0,3.0,3.0
+2023,2097,Campbell,fcs,CAA,,4.271722950516014,11,5,6,0,,,,,False,7.0,7.0,0.0
+2024,2097,Campbell,fcs,CAA,,3.289399913893555,12,3,9,0,,,,,False,7.0,11.0,-4.0
+2022,2110,Central Arkansas,fcs,Atlantic Sun,,5.216660897754934,11,5,6,0,,,,,False,1.0,0.0,1.0
+2023,2110,Central Arkansas,fcs,UAC,,5.799745722918235,11,7,4,0,,,,,False,1.0,2.0,-1.0
+2024,2110,Central Arkansas,fcs,UAC,,7.261038030166604,12,6,6,0,,,,,False,10.0,3.0,7.0
+2022,2115,Central Connecticut,fcs,NEC,,0.2551171278492835,11,2,9,0,,,,,False,,,
+2023,2115,Central Connecticut,fcs,NEC,,4.976237952801305,11,3,8,0,,,,,False,2.0,0.0,2.0
+2024,2115,Central Connecticut,fcs,NEC,,4.930284855305205,13,7,6,0,,,,,False,2.0,1.0,1.0
+2022,2117,Central Michigan,fbs,Mid-American,West,5.347255088515795,12,4,8,0,-11.129,,,Jim McElwain,False,2.0,11.0,-9.0
+2023,2117,Central Michigan,fbs,Mid-American,West,3.7643715399385247,12,5,7,0,-13.01,-11.129,-1.8810000000000002,Jim McElwain,False,6.0,16.0,-10.0
+2024,2117,Central Michigan,fbs,Mid-American,,4.9844152073936945,12,4,8,0,-14.808,-13.01,-1.798,Jim McElwain,False,10.0,14.0,-4.0
+2022,2127,Charleston Southern,fcs,Big South,,1.8902236848703595,10,2,8,0,,,,,False,,,
+2023,2127,Charleston Southern,fcs,Big South-OVC,,3.5489013285891327,11,4,7,0,,,,,False,0.0,2.0,-2.0
+2024,2127,Charleston Southern,fcs,Big South-OVC,,4.694073919642045,12,1,11,0,,,,,False,4.0,4.0,0.0
+2022,2429,Charlotte,fbs,Conference USA,,2.376026993426871,12,3,9,0,-17.759,,,Will Healy,True,17.0,21.0,-4.0
+2023,2429,Charlotte,fbs,American Athletic,,3.2378180541361177,12,3,9,0,-14.993,-17.759,2.766,Biff Poggi,True,28.0,29.0,-1.0
+2024,2429,Charlotte,fbs,American Athletic,,3.044270826042523,12,5,7,0,-13.522,-14.993,1.471,Tim Brewster,False,34.0,35.0,-1.0
+2022,236,Chattanooga,fcs,Southern,,7.286317328035098,11,7,4,0,,,,,False,,,
+2023,236,Chattanooga,fcs,Southern,,8.429357601108954,13,8,5,0,,,,,False,4.0,2.0,2.0
+2024,236,Chattanooga,fcs,Southern,,7.405368727873858,12,7,5,0,,,,,False,5.0,15.0,-10.0
+2022,2132,Cincinnati,fbs,American Athletic,,7.485065533095179,13,9,4,0,6.451,,,Kerry Coombs,True,21.0,25.0,-4.0
+2023,2132,Cincinnati,fbs,Big 12,,4.992730474292186,12,3,9,0,-1.067,6.451,-7.518,Scott Satterfield,False,24.0,32.0,-8.0
+2024,2132,Cincinnati,fbs,Big 12,,6.15828810810061,12,5,7,0,3.423,-1.067,4.49,Scott Satterfield,False,20.0,13.0,7.0
+2022,228,Clemson,fbs,ACC,Atlantic,11.041650620669936,14,11,3,0,17.553,,,Dabo Swinney,False,1.0,11.0,-10.0
+2023,228,Clemson,fbs,ACC,Atlantic,8.821833855095537,13,9,4,0,13.892,17.553,-3.6610000000000014,Dabo Swinney,False,0.0,11.0,-11.0
+2024,228,Clemson,fbs,ACC,,9.84249544952703,14,10,4,0,14.768,13.892,0.8760000000000012,Dabo Swinney,False,4.0,9.0,-5.0
+2022,324,Coastal Carolina,fbs,Sun Belt,East,6.995402100022587,13,9,4,0,-6.531,,,Jamey Chadwell,True,13.0,19.0,-6.0
+2023,324,Coastal Carolina,fbs,Sun Belt,East,7.735956111567856,13,8,5,0,-2.807,-6.531,3.7239999999999998,Tim Beck,False,18.0,29.0,-11.0
+2024,324,Coastal Carolina,fbs,Sun Belt,East,5.987129355324899,13,6,7,0,-6.068,-2.807,-3.2609999999999997,Tim Beck,False,30.0,49.0,-19.0
+2022,2142,Colgate,fcs,Patriot,,1.992678327905735,11,3,8,0,,,,,False,0.0,2.0,-2.0
+2023,2142,Colgate,fcs,Patriot,,4.330566702267356,11,6,5,0,,,,,False,0.0,1.0,-1.0
+2024,2142,Colgate,fcs,Patriot,,1.700115021657041,12,2,10,0,,,,,False,0.0,3.0,-3.0
+2022,38,Colorado,fbs,Pac-12,,1.0413059166536356,12,1,11,0,-17.068,,,Karl Dorrell,True,48.0,59.0,-11.0
+2023,38,Colorado,fbs,Pac-12,,3.3075221739721936,12,4,8,0,-2.096,-17.068,14.972000000000001,Deion Sanders,False,41.0,41.0,0.0
+2024,38,Colorado,fbs,Big 12,,7.453874345036746,13,9,4,0,12.691,-2.096,14.787,Deion Sanders,False,33.0,34.0,-1.0
+2022,36,Colorado State,fbs,Mountain West,Mountain,4.0196839090231835,12,3,9,0,-17.083,,,Jay Norvell,False,10.0,20.0,-10.0
+2023,36,Colorado State,fbs,Mountain West,Mountain,4.613402492008079,12,5,7,0,-11.774,-17.083,5.308999999999999,Jay Norvell,False,11.0,19.0,-8.0
+2024,36,Colorado State,fbs,Mountain West,,6.94186753918691,13,8,5,0,-7.622,-11.774,4.151999999999999,Jay Norvell,False,18.0,13.0,5.0
+2022,171,Columbia,fcs,Ivy,,3.8640851977716055,10,6,4,0,,,,,False,0.0,1.0,-1.0
+2023,171,Columbia,fcs,Ivy,,3.5519949097552006,10,3,7,0,,,,,False,1.0,2.0,-1.0
+2024,171,Columbia,fcs,Ivy,,6.783935758788738,10,7,3,0,,,,,False,0.0,5.0,-5.0
+2022,172,Cornell,fcs,Ivy,,4.602521774038873,10,5,5,0,,,,,False,0.0,1.0,-1.0
+2023,172,Cornell,fcs,Ivy,,3.335062370751134,10,3,7,0,,,,,False,0.0,5.0,-5.0
+2024,172,Cornell,fcs,Ivy,,3.851655235601996,10,4,6,0,,,,,False,0.0,5.0,-5.0
+2022,159,Dartmouth,fcs,Ivy,,3.156068706569522,10,3,7,0,,,,,False,0.0,2.0,-2.0
+2023,159,Dartmouth,fcs,Ivy,,5.8216637421946515,10,6,4,0,,,,,False,0.0,5.0,-5.0
+2024,159,Dartmouth,fcs,Ivy,,7.2263614970102354,10,8,2,0,,,,,False,0.0,7.0,-7.0
+2022,2166,Davidson,fcs,Pioneer,,8.256760730001016,12,8,4,0,,,,,False,,,
+2023,2166,Davidson,fcs,Pioneer,,6.888047749858981,11,7,4,0,,,,,False,,,
+2024,2166,Davidson,fcs,Pioneer,,7.944895023913462,11,6,5,0,,,,,False,0.0,4.0,-4.0
+2022,2168,Dayton,fcs,Pioneer,,4.553713433720291,11,8,3,0,,,,,False,0.0,1.0,-1.0
+2023,2168,Dayton,fcs,Pioneer,,2.392336025359256,11,4,7,0,,,,,False,,,
+2024,2168,Dayton,fcs,Pioneer,,5.154098892711915,11,6,5,0,,,,,False,3.0,1.0,2.0
+2022,48,Delaware,fcs,CAA,,6.447393942530757,13,8,5,0,,,,,False,0.0,2.0,-2.0
+2023,48,Delaware,fcs,CAA,,7.214955178376123,13,9,4,0,,,,,False,7.0,1.0,6.0
+2024,48,Delaware,fcs,CAA,,7.733101421864328,11,9,2,0,,,,,False,8.0,3.0,5.0
+2022,2169,Delaware State,fcs,MEAC,,4.291263749452449,11,5,6,0,,,,,False,,,
+2023,2169,Delaware State,fcs,MEAC,,0.3193097251637879,11,1,10,0,,,,,False,4.0,1.0,3.0
+2024,2169,Delaware State,fcs,MEAC,,1.3953956479762737,12,1,11,0,,,,,False,8.0,2.0,6.0
+2022,2181,Drake,fcs,Pioneer,,3.510139288034585,11,3,8,0,,,,,False,,,
+2023,2181,Drake,fcs,Pioneer,,5.132249011657844,12,8,4,0,,,,,False,,,
+2024,2181,Drake,fcs,Pioneer,,5.031754763963682,12,8,3,1,,,,,False,2.0,2.0,0.0
+2022,150,Duke,fbs,ACC,Coastal,8.388743574134134,13,9,4,0,5.349,,,Mike Elko,False,6.0,16.0,-10.0
+2023,150,Duke,fbs,ACC,Coastal,6.941561596412663,13,8,5,0,8.778,5.349,3.4290000000000003,Mike Elko,True,18.0,18.0,0.0
+2024,150,Duke,fbs,ACC,,7.012492966063774,13,9,4,0,3.686,8.778,-5.0920000000000005,Manny Diaz,False,9.0,13.0,-4.0
+2022,2184,Duquesne,fcs,NEC,,1.8984614675780915,11,4,7,0,,,,,False,1.0,2.0,-1.0
+2023,2184,Duquesne,fcs,NEC,,6.817659288067889,12,7,5,0,,,,,False,3.0,2.0,1.0
+2024,2184,Duquesne,fcs,NEC,,8.262043736130071,11,8,3,0,,,,,False,8.0,2.0,6.0
+2022,151,East Carolina,fbs,American Athletic,,7.976078563945352,13,8,5,0,1.775,,,Mike Houston,False,17.0,25.0,-8.0
+2023,151,East Carolina,fbs,American Athletic,,3.4861740337285267,12,2,10,0,-7.708,1.775,-9.483,Mike Houston,True,17.0,33.0,-16.0
+2024,151,East Carolina,fbs,American Athletic,,7.023829245479379,13,8,5,0,-5.922,-7.708,1.7860000000000005,Blake Harrell,False,24.0,31.0,-7.0
+2022,2193,East Tennessee State,fcs,Southern,,1.805273469822306,11,3,8,0,,,,,False,2.0,3.0,-1.0
+2023,2193,East Tennessee State,fcs,Southern,,3.633076957012279,11,3,8,0,,,,,False,6.0,3.0,3.0
+2024,2193,East Tennessee State,fcs,Southern,,8.633478838944345,12,7,5,0,,,,,False,27.0,9.0,18.0
+2022,2837,East Texas A&M,fcs,Southland,,6.347967104667822,11,5,6,0,,,,,False,,,
+2023,2837,East Texas A&M,fcs,Southland,,2.260471854323025,11,2,9,0,,,,,False,,,
+2024,2837,East Texas A&M,fcs,Southland,,2.95272772602766,12,3,9,0,,,,,False,5.0,4.0,1.0
+2022,2197,Eastern Illinois,fcs,OVC,,2.9689612461658372,11,2,9,0,,,,,False,0.0,1.0,-1.0
+2023,2197,Eastern Illinois,fcs,Big South-OVC,,4.357387853584667,11,8,3,0,,,,,False,3.0,2.0,1.0
+2024,2197,Eastern Illinois,fcs,Big South-OVC,,3.1005088691457834,12,3,9,0,,,,,False,3.0,3.0,0.0
+2022,2198,Eastern Kentucky,fcs,Atlantic Sun,,5.221133734145742,12,7,5,0,,,,,False,1.0,1.0,0.0
+2023,2198,Eastern Kentucky,fcs,UAC,,4.472065406413171,11,5,6,0,,,,,False,3.0,4.0,-1.0
+2024,2198,Eastern Kentucky,fcs,UAC,,6.906684058215723,13,8,5,0,,,,,False,3.0,2.0,1.0
+2022,2199,Eastern Michigan,fbs,Mid-American,West,8.267295377093223,13,9,4,0,-9.685,,,Chris Creighton,False,5.0,10.0,-5.0
+2023,2199,Eastern Michigan,fbs,Mid-American,West,4.53850427462027,13,6,7,0,-14.689,-9.685,-5.004,Chris Creighton,False,21.0,24.0,-3.0
+2024,2199,Eastern Michigan,fbs,Mid-American,,3.224629329317106,12,5,7,0,-13.481,-14.689,1.2080000000000002,Chris Creighton,False,20.0,30.0,-10.0
+2022,331,Eastern Washington,fcs,Big Sky,,2.935444208553952,11,3,8,0,,,,,False,3.0,4.0,-1.0
+2023,331,Eastern Washington,fcs,Big Sky,,3.5725790536658577,11,4,7,0,,,,,False,5.0,3.0,2.0
+2024,331,Eastern Washington,fcs,Big Sky,,4.079424543889022,12,4,8,0,,,,,False,5.0,4.0,1.0
+2022,2210,Elon,fcs,CAA,,5.792262376836578,12,8,4,0,,,,,False,1.0,1.0,0.0
+2023,2210,Elon,fcs,CAA,,5.774876562516108,11,6,5,0,,,,,False,3.0,5.0,-2.0
+2024,2210,Elon,fcs,CAA,,6.715781593240965,12,6,6,0,,,,,False,2.0,10.0,-8.0
+2022,57,Florida,fbs,SEC,East,6.254924744494766,13,6,7,0,7.555,,,Billy Napier,False,12.0,25.0,-13.0
+2023,57,Florida,fbs,SEC,East,5.9464788624945,12,5,7,0,6.342,7.555,-1.213,Billy Napier,False,15.0,23.0,-8.0
+2024,57,Florida,fbs,SEC,,7.748073980235289,13,8,5,0,11.901,6.342,5.559,Billy Napier,False,8.0,20.0,-12.0
+2022,50,Florida A&M,fcs,SWAC,East,4.966142011088119,11,9,2,0,,,,,False,5.0,1.0,4.0
+2023,50,Florida A&M,fcs,SWAC,East,8.36272762138727,13,12,1,0,,,,,False,24.0,9.0,15.0
+2024,50,Florida A&M,fcs,SWAC,East,4.607692699266125,12,7,5,0,,,,,False,17.0,5.0,12.0
+2022,2226,Florida Atlantic,fbs,Conference USA,,7.021202189835405,12,5,7,0,-4.413,,,Willie Taggart,True,12.0,18.0,-6.0
+2023,2226,Florida Atlantic,fbs,American Athletic,,3.923183905309284,12,4,8,0,-7.215,-4.413,-2.8019999999999996,Tom Herman,False,20.0,34.0,-14.0
+2024,2226,Florida Atlantic,fbs,American Athletic,,5.428544497529731,12,3,9,0,-12.288,-7.215,-5.073,Tom Herman,False,38.0,32.0,6.0
+2022,2229,Florida International,fbs,Conference USA,,2.4866482887519537,12,4,8,0,-25.404,,,Mike MacIntyre,False,8.0,19.0,-11.0
+2023,2229,Florida International,fbs,Conference USA,,3.1718629850145237,12,4,8,0,-21.253,-25.404,4.151,Mike MacIntyre,False,10.0,16.0,-6.0
+2024,2229,Florida International,fbs,Conference USA,,6.384605791367858,12,4,8,0,-11.982,-21.253,9.271,Mike MacIntyre,False,23.0,34.0,-11.0
+2022,52,Florida State,fbs,ACC,Atlantic,9.494500205110302,13,10,3,0,15.503,,,Mike Norvell,False,11.0,23.0,-12.0
+2023,52,Florida State,fbs,ACC,Atlantic,10.452484506827076,14,13,1,0,19.915,15.503,4.411999999999999,Mike Norvell,False,17.0,18.0,-1.0
+2024,52,Florida State,fbs,ACC,,1.8067782514400064,12,2,10,0,-3.911,19.915,-23.826,Mike Norvell,False,22.0,33.0,-11.0
+2022,2230,Fordham,fcs,Patriot,,7.365988331373684,12,9,3,0,,,,,False,1.0,1.0,0.0
+2023,2230,Fordham,fcs,Patriot,,5.747460974530086,11,6,5,0,,,,,False,0.0,1.0,-1.0
+2024,2230,Fordham,fcs,Patriot,,1.978714785183752,12,2,10,0,,,,,False,0.0,2.0,-2.0
+2022,278,Fresno State,fbs,Mountain West,West,8.401889406908776,14,10,4,0,3.726,,,Jeff Tedford,False,8.0,24.0,-16.0
+2023,278,Fresno State,fbs,Mountain West,West,6.207914118436058,13,9,4,0,-3.493,3.726,-7.218999999999999,Jeff Tedford,True,7.0,11.0,-4.0
+2024,278,Fresno State,fbs,Mountain West,,6.477155329024348,13,6,7,0,-2.996,-3.493,0.4969999999999999,Tim Skipper,False,21.0,22.0,-1.0
+2022,231,Furman,fcs,Southern,,7.961501202526168,13,10,3,0,,,,,False,0.0,2.0,-2.0
+2023,231,Furman,fcs,Southern,,7.509132008810567,13,10,3,0,,,,,False,2.0,6.0,-4.0
+2024,231,Furman,fcs,Southern,,2.806022283083705,12,3,8,1,,,,,False,3.0,3.0,0.0
+2022,2241,Gardner-Webb,fcs,Big South,,7.545907715952489,13,7,6,0,,,,,False,1.0,1.0,0.0
+2023,2241,Gardner-Webb,fcs,Big South-OVC,,2.547249910240363,12,7,5,0,,,,,False,12.0,7.0,5.0
+2024,2241,Gardner-Webb,fcs,Big South-OVC,,5.40458009150313,12,4,8,0,,,,,False,9.0,8.0,1.0
+2022,46,Georgetown,fcs,Patriot,,2.71926373163401,11,2,9,0,,,,,False,0.0,1.0,-1.0
+2023,46,Georgetown,fcs,Patriot,,5.8599218918028475,11,5,6,0,,,,,False,1.0,3.0,-2.0
+2024,46,Georgetown,fcs,Patriot,,5.135416941537501,11,5,6,0,,,,,False,1.0,2.0,-1.0
+2022,61,Georgia,fbs,SEC,East,14.38770281519346,15,15,0,0,29.908,,,Kirby Smart,False,4.0,15.0,-11.0
+2023,61,Georgia,fbs,SEC,East,12.5577106502658,14,13,1,0,24.777,29.908,-5.131,Kirby Smart,False,11.0,26.0,-15.0
+2024,61,Georgia,fbs,SEC,,9.672673443996022,14,11,3,0,22.091,24.777,-2.686,Kirby Smart,False,10.0,20.0,-10.0
+2022,290,Georgia Southern,fbs,Sun Belt,East,4.3310468065594065,13,6,7,0,-6.049,,,Clay Helton,False,15.0,15.0,0.0
+2023,290,Georgia Southern,fbs,Sun Belt,East,4.860874030795419,13,6,7,0,-7.579,-6.049,-1.5299999999999994,Clay Helton,False,12.0,18.0,-6.0
+2024,290,Georgia Southern,fbs,Sun Belt,East,5.675921573133078,13,8,5,0,-2.353,-7.579,5.225999999999999,Clay Helton,False,16.0,16.0,0.0
+2022,2247,Georgia State,fbs,Sun Belt,East,6.615837884863028,12,4,8,0,-4.864,,,Shawn Elliott,False,19.0,20.0,-1.0
+2023,2247,Georgia State,fbs,Sun Belt,East,7.416657249880071,13,7,6,0,-8.616,-4.864,-3.752,Shawn Elliott,False,31.0,34.0,-3.0
+2024,2247,Georgia State,fbs,Sun Belt,East,1.977850522614789,12,3,9,0,-10.248,-8.616,-1.6319999999999997,Shawn Elliott,False,27.0,35.0,-8.0
+2022,59,Georgia Tech,fbs,ACC,Coastal,3.684522199634893,12,5,7,0,-3.476,,,Geoff Collins,True,16.0,20.0,-4.0
+2023,59,Georgia Tech,fbs,ACC,Coastal,5.721089519848352,13,7,6,0,3.049,-3.476,6.525,Brent Key,False,12.0,31.0,-19.0
+2024,59,Georgia Tech,fbs,ACC,,8.299482815850844,13,7,6,0,7.402,3.049,4.353,Brent Key,False,23.0,31.0,-8.0
+2022,2755,Grambling,fcs,SWAC,West,1.658698652363663,11,3,8,0,,,,,False,2.0,3.0,-1.0
+2023,2755,Grambling,fcs,SWAC,West,3.34322471270622,11,5,6,0,,,,,False,10.0,12.0,-2.0
+2024,2755,Grambling,fcs,SWAC,West,3.28555597070419,12,5,7,0,,,,,False,4.0,5.0,-1.0
+2022,2261,Hampton,fcs,CAA,,2.494160686654431,11,4,7,0,,,,,False,2.0,0.0,2.0
+2023,2261,Hampton,fcs,CAA,,1.4988549127232589,11,5,6,0,,,,,False,6.0,1.0,5.0
+2024,2261,Hampton,fcs,CAA,,7.758119690301314,12,5,7,0,,,,,False,3.0,10.0,-7.0
+2022,108,Harvard,fcs,Ivy,,5.087244794403477,10,6,4,0,,,,,False,0.0,5.0,-5.0
+2023,108,Harvard,fcs,Ivy,,6.362051819171635,10,8,2,0,,,,,False,0.0,9.0,-9.0
+2024,108,Harvard,fcs,Ivy,,7.140523984162304,10,8,2,0,,,,,False,0.0,10.0,-10.0
+2022,62,Hawai'i,fbs,Mountain West,West,2.9155671643628924,13,3,10,0,-19.508,,,Timmy Chang,False,8.0,9.0,-1.0
+2023,62,Hawai'i,fbs,Mountain West,West,3.9713952343657537,13,5,8,0,-14.93,-19.508,4.577999999999999,Timmy Chang,False,6.0,10.0,-4.0
+2024,62,Hawai'i,fbs,Mountain West,,5.3011440218501615,12,5,7,0,-11.741,-14.93,3.189,Timmy Chang,False,13.0,23.0,-10.0
+2022,107,Holy Cross,fcs,Patriot,,8.70978908560281,13,12,1,0,,,,,False,0.0,2.0,-2.0
+2023,107,Holy Cross,fcs,Patriot,,6.591111083477448,11,7,4,0,,,,,False,0.0,8.0,-8.0
+2024,107,Holy Cross,fcs,Patriot,,7.392228181314701,12,6,6,0,,,,,False,3.0,8.0,-5.0
+2022,248,Houston,fbs,American Athletic,,7.952554865690328,13,8,5,0,4.061,,,Dana Holgorsen,False,20.0,21.0,-1.0
+2023,248,Houston,fbs,Big 12,,2.775606899817383,12,4,8,0,-2.113,4.061,-6.1739999999999995,Dana Holgorsen,True,27.0,32.0,-5.0
+2024,248,Houston,fbs,Big 12,,4.963046480468042,12,4,8,0,-3.444,-2.113,-1.331,Willie Fritz,False,28.0,28.0,0.0
+2022,2277,Houston Christian,fcs,Southland,,0.956822731411616,11,2,9,0,,,,,False,4.0,1.0,3.0
+2023,2277,Houston Christian,fcs,Southland,,5.0494846707789165,11,6,5,0,,,,,False,4.0,4.0,0.0
+2024,2277,Houston Christian,fcs,Southland,,4.378869218525365,12,5,7,0,,,,,False,15.0,10.0,5.0
+2022,47,Howard,fcs,MEAC,,4.8616775542195265,11,5,6,0,,,,,False,0.0,1.0,-1.0
+2023,47,Howard,fcs,MEAC,,6.770957034171893,12,6,6,0,,,,,False,4.0,1.0,3.0
+2024,47,Howard,fcs,MEAC,,3.5531196917467796,12,4,8,0,,,,,False,0.0,1.0,-1.0
+2022,70,Idaho,fcs,Big Sky,,4.884959962581094,12,7,5,0,,,,,False,,,
+2023,70,Idaho,fcs,Big Sky,,8.426868177608787,13,9,4,0,,,,,False,2.0,8.0,-6.0
+2024,70,Idaho,fcs,Big Sky,,7.557434909738274,14,10,4,0,,,,,False,8.0,19.0,-11.0
+2022,304,Idaho State,fcs,Big Sky,,0.0798982339467246,11,1,10,0,,,,,False,1.0,2.0,-1.0
+2023,304,Idaho State,fcs,Big Sky,,1.0266924781399058,11,3,8,0,,,,,False,5.0,2.0,3.0
+2024,304,Idaho State,fcs,Big Sky,,2.632166071208872,12,5,7,0,,,,,False,6.0,6.0,0.0
+2022,356,Illinois,fbs,Big Ten,West,10.178352321979332,13,8,5,0,9.857,,,Bret Bielema,False,7.0,11.0,-4.0
+2023,356,Illinois,fbs,Big Ten,West,5.843894709926475,12,5,7,0,0.543,9.857,-9.314,Bret Bielema,False,12.0,24.0,-12.0
+2024,356,Illinois,fbs,Big Ten,,8.468578368934404,13,10,3,0,5.208,0.543,4.665,Bret Bielema,False,18.0,22.0,-4.0
+2022,2287,Illinois State,fcs,MVFC,,4.147435922307085,11,6,5,0,,,,,False,2.0,0.0,2.0
+2023,2287,Illinois State,fcs,MVFC,,6.55761863673337,11,6,5,0,,,,,False,4.0,1.0,3.0
+2024,2287,Illinois State,fcs,MVFC,,8.824562256663516,14,10,4,0,,,,,False,7.0,6.0,1.0
+2022,2916,Incarnate Word,fcs,Southland,,10.884129877027348,14,12,2,0,,,,,False,14.0,10.0,4.0
+2023,2916,Incarnate Word,fcs,Southland,,7.282727945505266,11,9,2,0,,,,,False,11.0,1.0,10.0
+2024,2916,Incarnate Word,fcs,Southland,,8.883592135721559,14,11,3,0,,,,,False,13.0,8.0,5.0
+2022,84,Indiana,fbs,Big Ten,East,1.7430787709538371,12,4,8,0,-4.19,,,Tom Allen,False,23.0,24.0,-1.0
+2023,84,Indiana,fbs,Big Ten,East,4.168797102906604,12,3,9,0,-2.761,-4.19,1.4290000000000003,Tom Allen,True,30.0,39.0,-9.0
+2024,84,Indiana,fbs,Big Ten,,10.765014753505865,13,11,2,0,18.73,-2.761,21.491,Curt Cignetti,False,23.0,27.0,-4.0
+2022,282,Indiana State,fcs,MVFC,,3.730924424671392,11,2,9,0,,,,,False,1.0,0.0,1.0
+2023,282,Indiana State,fcs,MVFC,,2.4359982312468436,11,1,10,0,,,,,False,4.0,5.0,-1.0
+2024,282,Indiana State,fcs,MVFC,,4.238985044016304,12,4,8,0,,,,,False,8.0,4.0,4.0
+2022,2294,Iowa,fbs,Big Ten,West,6.882733665105909,13,8,5,0,7.409,,,Kirk Ferentz,False,8.0,14.0,-6.0
+2023,2294,Iowa,fbs,Big Ten,West,7.800021514946646,14,10,4,0,6.086,7.409,-1.3229999999999995,Kirk Ferentz,False,4.0,12.0,-8.0
+2024,2294,Iowa,fbs,Big Ten,,8.414129410610013,13,8,5,0,11.144,6.086,5.058,Kirk Ferentz,False,9.0,22.0,-13.0
+2022,66,Iowa State,fbs,Big 12,,4.694708962396025,12,4,8,0,6.28,,,Matt Campbell,False,2.0,12.0,-10.0
+2023,66,Iowa State,fbs,Big 12,,8.020569434290902,13,7,6,0,8.877,6.28,2.5970000000000004,Matt Campbell,False,7.0,21.0,-14.0
+2024,66,Iowa State,fbs,Big 12,,6.851458486434472,14,11,3,0,10.15,8.877,1.2729999999999997,Matt Campbell,False,8.0,17.0,-9.0
+2022,2296,Jackson State,fcs,SWAC,East,7.966240694887944,13,12,1,0,,,,,False,7.0,20.0,-13.0
+2023,2296,Jackson State,fcs,SWAC,East,6.084775857870952,11,7,4,0,,,,,False,12.0,4.0,8.0
+2024,2296,Jackson State,fcs,SWAC,East,11.418062131093633,14,12,2,0,,,,,False,10.0,3.0,7.0
+2022,55,Jacksonville State,fcs,Atlantic Sun,,8.091210858965267,11,9,2,0,,,,,True,2.0,0.0,2.0
+2023,55,Jacksonville State,fbs,Conference USA,,7.61437907610617,13,9,4,0,-3.69,,,Rich Rodriguez,False,19.0,14.0,5.0
+2024,55,Jacksonville State,fbs,Conference USA,,9.27395112120199,14,9,5,0,-0.913,-3.69,2.777,Rich Rodriguez,False,22.0,24.0,-2.0
+2022,256,James Madison,fbs,Sun Belt,East,8.426511092310333,11,8,3,0,2.371,,,Curt Cignetti,False,5.0,4.0,1.0
+2023,256,James Madison,fbs,Sun Belt,East,9.717090482691892,13,11,2,0,6.522,2.371,4.151,Curt Cignetti,True,26.0,20.0,6.0
+2024,256,James Madison,fbs,Sun Belt,East,9.443245761734016,13,9,4,0,2.903,6.522,-3.619,Bob Chesney,False,29.0,26.0,3.0
+2022,2305,Kansas,fbs,Big 12,,6.906380529269764,13,6,7,0,3.37,,,Lance Leipold,False,12.0,14.0,-2.0
+2023,2305,Kansas,fbs,Big 12,,10.655140268245544,13,9,4,0,9.088,3.37,5.717999999999999,Lance Leipold,False,11.0,13.0,-2.0
+2024,2305,Kansas,fbs,Big 12,,7.412712281899565,12,5,7,0,8.755,9.088,-0.3329999999999984,Lance Leipold,False,27.0,17.0,10.0
+2022,2306,Kansas State,fbs,Big 12,,10.078658967967222,14,10,4,0,14.823,,,Chris Klieman,False,6.0,15.0,-9.0
+2023,2306,Kansas State,fbs,Big 12,,7.644873806786312,13,9,4,0,18.789,14.823,3.966000000000001,Chris Klieman,False,10.0,17.0,-7.0
+2024,2306,Kansas State,fbs,Big 12,,9.594218856386115,13,9,4,0,11.098,18.789,-7.691000000000001,Chris Klieman,False,16.0,26.0,-10.0
+2022,338,Kennesaw State,fcs,Atlantic Sun,,5.728029724060722,11,5,6,0,,,,,False,1.0,0.0,1.0
+2023,338,Kennesaw State,fcs,FCS Independents,,5.362481246623481,9,3,6,0,,,,,True,10.0,3.0,7.0
+2024,338,Kennesaw State,fbs,Conference USA,,2.0884602692478444,12,2,10,0,-21.686,,,Brian Bohannon,False,27.0,19.0,8.0
+2022,2309,Kent State,fbs,Mid-American,East,4.15433861055576,12,5,7,0,-7.012,,,Sean Lewis,True,7.0,17.0,-10.0
+2023,2309,Kent State,fbs,Mid-American,East,2.108804210759372,12,1,11,0,-23.961,-7.012,-16.948999999999998,Kenni Burns,False,16.0,17.0,-1.0
+2024,2309,Kent State,fbs,Mid-American,,1.1498040711725308,12,0,12,0,-31.206,-23.961,-7.245000000000001,Kenni Burns,False,12.0,27.0,-15.0
+2022,96,Kentucky,fbs,SEC,East,7.18751183710253,13,7,6,0,5.824,,,Mark Stoops,False,12.0,21.0,-9.0
+2023,96,Kentucky,fbs,SEC,East,6.852863456834255,13,7,6,0,7.33,5.824,1.5060000000000002,Mark Stoops,False,12.0,22.0,-10.0
+2024,96,Kentucky,fbs,SEC,,4.185662002414942,12,4,8,0,4.707,7.33,-2.623,Mark Stoops,False,25.0,30.0,-5.0
+2022,99,LSU,fbs,SEC,West,8.937714291632972,14,10,4,0,17.436,,,Brian Kelly,False,14.0,21.0,-7.0
+2023,99,LSU,fbs,SEC,West,8.890185873099984,13,10,3,0,20.874,17.436,3.437999999999999,Brian Kelly,False,10.0,27.0,-17.0
+2024,99,LSU,fbs,SEC,,7.093878927236604,13,9,4,0,13.515,20.874,-7.358999999999998,Brian Kelly,False,18.0,23.0,-5.0
+2022,322,Lafayette,fcs,Patriot,,4.131957917608024,11,4,7,0,,,,,False,0.0,2.0,-2.0
+2023,322,Lafayette,fcs,Patriot,,8.670113333035342,12,9,3,0,,,,,False,1.0,2.0,-1.0
+2024,322,Lafayette,fcs,Patriot,,5.6151406849394165,12,6,6,0,,,,,False,3.0,5.0,-2.0
+2022,2320,Lamar,fcs,Southland,,3.2634346229888345,11,1,10,0,,,,,False,3.0,4.0,-1.0
+2023,2320,Lamar,fcs,Southland,,5.025822338075253,11,6,5,0,,,,,False,5.0,0.0,5.0
+2024,2320,Lamar,fcs,Southland,,5.80811817933731,12,7,5,0,,,,,False,4.0,1.0,3.0
+2022,2329,Lehigh,fcs,Patriot,,3.9929583503624446,11,2,9,0,,,,,False,0.0,3.0,-3.0
+2023,2329,Lehigh,fcs,Patriot,,2.4062747675169405,11,2,9,0,,,,,False,0.0,1.0,-1.0
+2024,2329,Lehigh,fcs,Patriot,,8.229526412056696,13,9,4,0,,,,,False,1.0,0.0,1.0
+2022,2335,Liberty,fbs,FBS Independents,,7.287218048079832,13,8,5,0,-3.902,,,Josh Aldridge,True,13.0,14.0,-1.0
+2023,2335,Liberty,fbs,Conference USA,,12.766022655837745,14,13,1,0,3.816,-3.902,7.718,Jamey Chadwell,False,18.0,17.0,1.0
+2024,2335,Liberty,fbs,Conference USA,,7.795726698362949,12,8,4,0,-6.943,3.816,-10.759,Jamey Chadwell,False,20.0,27.0,-7.0
+2022,2815,Lindenwood,fcs,OVC,,3.6030518657366417,10,7,3,0,,,,,False,,,
+2023,2815,Lindenwood,fcs,Big South-OVC,,3.8451896496463864,10,3,7,0,,,,,False,3.0,0.0,3.0
+2024,2815,Lindenwood,fcs,Big South-OVC,,6.394616791343391,12,5,7,0,,,,,False,8.0,4.0,4.0
+2022,2341,Long Island University,fcs,NEC,,3.403992259774838,11,4,7,0,,,,,False,,,
+2023,2341,Long Island University,fcs,NEC,,3.4084472662872787,11,4,7,0,,,,,False,,,
+2024,2341,Long Island University,fcs,NEC,,4.349847431396485,12,4,8,0,,,,,False,,,
+2022,309,Louisiana,fbs,Sun Belt,West,5.673315480248774,13,6,7,0,-2.136,,,Michael Desormeaux,False,1.0,7.0,-6.0
+2023,309,Louisiana,fbs,Sun Belt,West,6.641094349991045,13,6,7,0,-5.369,-2.136,-3.2329999999999997,Michael Desormeaux,False,7.0,6.0,1.0
+2024,309,Louisiana,fbs,Sun Belt,West,9.630338076900111,14,10,4,0,-0.152,-5.369,5.217,Michael Desormeaux,False,5.0,12.0,-7.0
+2022,2348,Louisiana Tech,fbs,Conference USA,,3.809922057915364,12,3,9,0,-13.24,,,Sonny Cumbie,False,19.0,23.0,-4.0
+2023,2348,Louisiana Tech,fbs,Conference USA,,4.2065989666827726,12,3,9,0,-15.166,-13.24,-1.9260000000000002,Sonny Cumbie,False,12.0,22.0,-10.0
+2024,2348,Louisiana Tech,fbs,Conference USA,,4.903229528055918,13,5,8,0,-10.693,-15.166,4.473000000000001,Sonny Cumbie,False,9.0,31.0,-22.0
+2022,97,Louisville,fbs,ACC,Atlantic,8.320110381938436,13,8,5,0,10.719,,,Deion Branch,True,26.0,25.0,1.0
+2023,97,Louisville,fbs,ACC,Atlantic,9.74858020465242,14,10,4,0,11.36,10.719,0.641,Jeff Brohm,False,28.0,29.0,-1.0
+2024,97,Louisville,fbs,ACC,,8.447919140315149,13,9,4,0,16.534,11.36,5.1739999999999995,Jeff Brohm,False,30.0,27.0,3.0
+2022,311,Maine,fcs,CAA,,2.7124875694506234,11,2,9,0,,,,,False,1.0,4.0,-3.0
+2023,311,Maine,fcs,CAA,,2.154886154880568,11,2,9,0,,,,,False,3.0,5.0,-2.0
+2024,311,Maine,fcs,CAA,,4.82488545130113,12,5,7,0,,,,,False,6.0,4.0,2.0
+2022,2368,Marist,fcs,Pioneer,,1.435374146987176,11,4,7,0,,,,,False,,,
+2023,2368,Marist,fcs,Pioneer,,3.0023586490035767,11,4,7,0,,,,,False,1.0,1.0,0.0
+2024,2368,Marist,fcs,Pioneer,,1.2674977435704526,11,1,10,0,,,,,False,,,
+2022,276,Marshall,fbs,Sun Belt,East,10.370431532011144,13,9,4,0,-0.398,,,Charles Huff,False,11.0,14.0,-3.0
+2023,276,Marshall,fbs,Sun Belt,East,6.2434084092360775,13,6,7,0,-5.714,-0.398,-5.316000000000001,Charles Huff,False,28.0,33.0,-5.0
+2024,276,Marshall,fbs,Sun Belt,East,8.377104791452176,13,10,3,0,2.784,-5.714,8.498000000000001,Charles Huff,False,52.0,54.0,-2.0
+2022,120,Maryland,fbs,Big Ten,East,7.812368751981297,13,8,5,0,7.842,,,Mike Locksley,False,10.0,22.0,-12.0
+2023,120,Maryland,fbs,Big Ten,East,8.686284739437186,13,8,5,0,8.085,7.842,0.24300000000000122,Mike Locksley,False,8.0,13.0,-5.0
+2024,120,Maryland,fbs,Big Ten,,3.5286025680340214,12,4,8,0,-0.535,8.085,-8.620000000000001,Mike Locksley,False,15.0,31.0,-16.0
+2022,113,Massachusetts,fbs,FBS Independents,,1.690376074844485,12,1,11,0,-24.191,,,Don Brown,False,21.0,19.0,2.0
+2023,113,Massachusetts,fbs,FBS Independents,,4.204681253996235,12,3,9,0,-17.844,-24.191,6.346999999999998,Don Brown,False,29.0,23.0,6.0
+2024,113,Massachusetts,fbs,FBS Independents,,4.768325849006023,12,2,10,0,-17.327,-17.844,0.5169999999999995,Don Brown,False,35.0,26.0,9.0
+2022,2377,McNeese,fcs,Southland,,4.520045085950471,11,4,7,0,,,,,False,2.0,1.0,1.0
+2023,2377,McNeese,fcs,Southland,,1.6608260052265518,11,1,10,0,,,,,False,12.0,1.0,11.0
+2024,2377,McNeese,fcs,Southland,,7.01224907331471,12,6,6,0,,,,,False,6.0,9.0,-3.0
+2022,235,Memphis,fbs,American Athletic,,7.627254270583741,13,7,6,0,4.188,,,Ryan Silverfield,False,19.0,26.0,-7.0
+2023,235,Memphis,fbs,American Athletic,,7.77400429979447,13,10,3,0,2.782,4.188,-1.4059999999999997,Ryan Silverfield,False,30.0,24.0,6.0
+2024,235,Memphis,fbs,American Athletic,,8.927476560509126,13,11,2,0,2.129,2.782,-0.653,Ryan Silverfield,False,36.0,31.0,5.0
+2022,2382,Mercer,fcs,Southern,,7.682757404022883,11,7,4,0,,,,,False,2.0,0.0,2.0
+2023,2382,Mercer,fcs,Southern,,8.843657382514992,13,9,4,0,,,,,False,7.0,2.0,5.0
+2024,2382,Mercer,fcs,Southern,,10.22980137458105,14,11,3,0,,,,,False,8.0,5.0,3.0
+2024,2385,Mercyhurst,fcs,NEC,,1.4726321833826863,11,4,7,0,,,,,False,,,
+2022,2771,Merrimack,fcs,NEC,,5.302908161171546,11,8,3,0,,,,,False,1.0,1.0,0.0
+2023,2771,Merrimack,fcs,NEC,,4.100713137747224,11,5,6,0,,,,,False,0.0,2.0,-2.0
+2024,2771,Merrimack,fcs,FCS Independents,,5.307658144580277,11,5,6,0,,,,,False,2.0,2.0,0.0
+2022,2390,Miami,fbs,ACC,Coastal,4.911148871075735,12,5,7,0,-0.466,,,Mario Cristobal,False,15.0,24.0,-9.0
+2023,2390,Miami,fbs,ACC,Coastal,8.383222497819775,13,7,6,0,11.169,-0.466,11.635,Mario Cristobal,False,14.0,28.0,-14.0
+2024,2390,Miami,fbs,ACC,,9.993131094500134,13,10,3,0,17.338,11.169,6.1690000000000005,Mario Cristobal,False,18.0,19.0,-1.0
+2022,193,Miami (OH),fbs,Mid-American,East,4.792097573859011,13,6,7,0,-11.731,,,Chuck Martin,False,4.0,11.0,-7.0
+2023,193,Miami (OH),fbs,Mid-American,East,8.9748380762999,14,11,3,0,-1.253,-11.731,10.478,Chuck Martin,False,5.0,11.0,-6.0
+2024,193,Miami (OH),fbs,Mid-American,,7.1606374045047545,14,9,5,0,-3.352,-1.253,-2.099,Chuck Martin,False,16.0,12.0,4.0
+2022,130,Michigan,fbs,Big Ten,East,12.560026693449178,14,13,1,0,23.62,,,Jim Harbaugh,False,9.0,13.0,-4.0
+2023,130,Michigan,fbs,Big Ten,East,14.121569799064128,15,15,0,0,27.625,23.62,4.004999999999999,Jim Harbaugh,True,7.0,17.0,-10.0
+2024,130,Michigan,fbs,Big Ten,,7.61100363119269,13,8,5,0,9.382,27.625,-18.243000000000002,Sherrone Moore,False,17.0,29.0,-12.0
+2022,127,Michigan State,fbs,Big Ten,East,3.860906254003236,12,5,7,0,5.288,,,Mel Tucker,True,14.0,17.0,-3.0
+2023,127,Michigan State,fbs,Big Ten,East,4.287639977155193,12,4,8,0,-3.512,5.288,-8.8,Harlon Barnett,True,24.0,41.0,-17.0
+2024,127,Michigan State,fbs,Big Ten,,4.536884775944729,12,5,7,0,-3.839,-3.512,-0.32699999999999996,Jonathan Smith,False,23.0,23.0,0.0
+2022,2393,Middle Tennessee,fbs,Conference USA,,6.9697120688151175,13,8,5,0,-6.562,,,Rick Stockstill,False,9.0,8.0,1.0
+2023,2393,Middle Tennessee,fbs,Conference USA,,4.6199987892459555,12,4,8,0,-10.135,-6.562,-3.5729999999999995,Rick Stockstill,True,12.0,28.0,-16.0
+2024,2393,Middle Tennessee,fbs,Conference USA,,2.61457352482858,12,3,9,0,-19.398,-10.135,-9.263,Derek Mason,False,12.0,31.0,-19.0
+2022,135,Minnesota,fbs,Big Ten,West,9.709562045344564,13,9,4,0,11.422,,,P.J. Fleck,False,10.0,18.0,-8.0
+2023,135,Minnesota,fbs,Big Ten,West,6.284012992760301,13,6,7,0,-0.564,11.422,-11.986,P.J. Fleck,False,12.0,18.0,-6.0
+2024,135,Minnesota,fbs,Big Ten,,8.20528757039677,13,8,5,0,9.315,-0.564,9.879,P.J. Fleck,False,21.0,20.0,1.0
+2022,344,Mississippi State,fbs,SEC,West,6.883963807732934,13,9,4,0,13.237,,,Zach Arnett,False,13.0,27.0,-14.0
+2023,344,Mississippi State,fbs,SEC,West,4.791082871678017,12,5,7,0,0.859,13.237,-12.378,Zach Arnett,True,18.0,26.0,-8.0
+2024,344,Mississippi State,fbs,SEC,,2.296442691976717,12,2,10,0,0.192,0.859,-0.667,Jeff Lebby,False,32.0,35.0,-3.0
+2022,2400,Mississippi Valley State,fcs,SWAC,East,0.0718284628239357,11,2,9,0,,,,,False,2.0,0.0,2.0
+2023,2400,Mississippi Valley State,fcs,SWAC,East,2.3530724264380054,11,1,10,0,,,,,False,0.0,3.0,-3.0
+2024,2400,Mississippi Valley State,fcs,SWAC,East,2.45702858818812,12,1,11,0,,,,,False,3.0,2.0,1.0
+2022,142,Missouri,fbs,SEC,East,6.514781025385571,13,6,7,0,2.559,,,Eli Drinkwitz,False,8.0,20.0,-12.0
+2023,142,Missouri,fbs,SEC,East,10.36495124722564,13,11,2,0,15.277,2.559,12.718,Eli Drinkwitz,False,15.0,19.0,-4.0
+2024,142,Missouri,fbs,SEC,,7.470898516993272,13,10,3,0,12.197,15.277,-3.08,Eli Drinkwitz,False,21.0,24.0,-3.0
+2022,2623,Missouri State,fcs,MVFC,,3.2730389578218366,11,5,6,0,,,,,False,4.0,7.0,-3.0
+2023,2623,Missouri State,fcs,MVFC,,4.6260520953019055,11,4,7,0,,,,,False,7.0,2.0,5.0
+2024,2623,Missouri State,fcs,MVFC,,7.110597266840618,12,8,4,0,,,,,False,15.0,12.0,3.0
+2022,2405,Monmouth,fcs,CAA,,5.951536209387862,11,5,6,0,,,,,False,1.0,2.0,-1.0
+2023,2405,Monmouth,fcs,CAA,,5.5171932042534655,11,4,7,0,,,,,False,3.0,4.0,-1.0
+2024,2405,Monmouth,fcs,CAA,,5.840468924611303,12,6,6,0,,,,,False,5.0,3.0,2.0
+2022,149,Montana,fcs,Big Sky,,5.430479023050807,13,8,5,0,,,,,False,3.0,0.0,3.0
+2023,149,Montana,fcs,Big Sky,,10.692469713339207,15,13,2,0,,,,,False,9.0,3.0,6.0
+2024,149,Montana,fcs,Big Sky,,8.142478449958265,14,9,5,0,,,,,False,12.0,3.0,9.0
+2022,147,Montana State,fcs,Big Sky,,9.103863250969836,14,12,2,0,,,,,False,3.0,1.0,2.0
+2023,147,Montana State,fcs,Big Sky,,9.797122818752928,12,8,4,0,,,,,False,3.0,4.0,-1.0
+2024,147,Montana State,fcs,Big Sky,,13.555354041423795,16,15,1,0,,,,,False,3.0,5.0,-2.0
+2022,2413,Morehead State,fcs,Pioneer,,2.110053561881763,11,2,9,0,,,,,False,,,
+2023,2413,Morehead State,fcs,Pioneer,,3.514999753740799,11,4,7,0,,,,,False,1.0,0.0,1.0
+2024,2413,Morehead State,fcs,Pioneer,,5.9084874883961005,12,7,5,0,,,,,False,1.0,1.0,0.0
+2022,2415,Morgan State,fcs,MEAC,,3.910755103376226,11,4,7,0,,,,,False,2.0,0.0,2.0
+2023,2415,Morgan State,fcs,MEAC,,2.7736616566974734,11,4,6,1,,,,,False,3.0,0.0,3.0
+2024,2415,Morgan State,fcs,MEAC,,1.4636912660169077,12,6,6,0,,,,,False,2.0,1.0,1.0
+2022,93,Murray State,fcs,OVC,,2.8225181928275425,11,2,9,0,,,,,False,,,
+2023,93,Murray State,fcs,MVFC,,2.4477143254668055,11,2,9,0,,,,,False,14.0,2.0,12.0
+2024,93,Murray State,fcs,MVFC,,2.2577935723066274,12,1,11,0,,,,,False,3.0,5.0,-2.0
+2022,152,NC State,fbs,ACC,Atlantic,6.871235621426741,13,8,5,0,6.545,,,Dave Doeren,False,6.0,12.0,-6.0
+2023,152,NC State,fbs,ACC,Atlantic,8.422652449172915,13,9,4,0,6.943,6.545,0.3979999999999997,Dave Doeren,False,15.0,22.0,-7.0
+2024,152,NC State,fbs,ACC,,7.871416005767503,13,6,7,0,0.43,6.943,-6.513,Dave Doeren,False,18.0,19.0,-1.0
+2022,2426,Navy,fbs,American Athletic,,8.608996106859646,12,4,8,0,-3.458,,,Ken Niumatalolo,True,0.0,3.0,-3.0
+2023,2426,Navy,fbs,American Athletic,,5.813718223734726,12,5,7,0,-12.092,-3.458,-8.634,Brian Newberry,False,0.0,6.0,-6.0
+2024,2426,Navy,fbs,American Athletic,,10.639224867368664,13,10,3,0,-0.331,-12.092,11.761000000000001,Brian Newberry,False,0.0,5.0,-5.0
+2022,158,Nebraska,fbs,Big Ten,West,5.026819285649255,12,4,8,0,-0.651,,,Scott Frost,True,13.0,28.0,-15.0
+2023,158,Nebraska,fbs,Big Ten,West,8.114665478272558,12,5,7,0,0.695,-0.651,1.346,Matt Rhule,False,8.0,10.0,-2.0
+2024,158,Nebraska,fbs,Big Ten,,8.110988385540308,13,7,6,0,6.154,0.695,5.459,Matt Rhule,False,15.0,37.0,-22.0
+2022,2440,Nevada,fbs,Mountain West,West,3.0488197584211427,12,2,10,0,-16.465,,,Ken Wilson,False,13.0,13.0,0.0
+2023,2440,Nevada,fbs,Mountain West,West,2.532588155921476,12,2,10,0,-19.065,-16.465,-2.6000000000000014,Ken Wilson,True,22.0,23.0,-1.0
+2024,2440,Nevada,fbs,Mountain West,,5.588096540035893,13,3,10,0,-8.417,-19.065,10.648000000000001,Jeff Choate,False,20.0,30.0,-10.0
+2022,160,New Hampshire,fcs,CAA,,6.398083796895799,13,9,4,0,,,,,False,,,
+2023,160,New Hampshire,fcs,CAA,,4.330971056718656,11,6,5,0,,,,,False,0.0,2.0,-2.0
+2024,160,New Hampshire,fcs,CAA,,6.5454794831802365,13,8,5,0,,,,,False,2.0,3.0,-1.0
+2022,167,New Mexico,fbs,Mountain West,Mountain,2.444179443020334,12,2,10,0,-19.076,,,Danny Gonzales,False,14.0,17.0,-3.0
+2023,167,New Mexico,fbs,Mountain West,Mountain,4.316747674741911,12,4,8,0,-14.483,-19.076,4.593,Danny Gonzales,True,28.0,23.0,5.0
+2024,167,New Mexico,fbs,Mountain West,,4.052849294625585,12,5,7,0,-10.018,-14.483,4.465,Bronco Mendenhall,False,35.0,31.0,4.0
+2022,166,New Mexico State,fbs,FBS Independents,,7.289065248229595,13,7,6,0,-14.896,,,Jerry Kill,False,7.0,7.0,0.0
+2023,166,New Mexico State,fbs,Conference USA,,10.336405910005048,15,10,5,0,-5.585,-14.896,9.311,Jerry Kill,True,13.0,38.0,-25.0
+2024,166,New Mexico State,fbs,Conference USA,,4.6415016944541065,12,3,9,0,-20.775,-5.585,-15.189999999999998,Tony Sanchez,False,21.0,33.0,-12.0
+2022,2447,Nicholls,fcs,Southland,,3.1930921427019245,11,3,8,0,,,,,False,,,
+2023,2447,Nicholls,fcs,Southland,,6.388506076253616,12,7,5,0,,,,,False,2.0,1.0,1.0
+2024,2447,Nicholls,fcs,Southland,,5.882923384741713,12,4,8,0,,,,,False,4.0,2.0,2.0
+2022,2450,Norfolk State,fcs,MEAC,,0.6693672227560815,11,2,9,0,,,,,False,0.0,4.0,-4.0
+2023,2450,Norfolk State,fcs,MEAC,,3.124907836981648,11,3,8,0,,,,,False,2.0,1.0,1.0
+2024,2450,Norfolk State,fcs,MEAC,,4.612378594603813,12,4,8,0,,,,,False,7.0,3.0,4.0
+2022,2453,North Alabama,fcs,Atlantic Sun,,2.6786607215027884,11,1,10,0,,,,,False,3.0,1.0,2.0
+2023,2453,North Alabama,fcs,UAC,,2.3170114848956427,11,3,8,0,,,,,False,8.0,1.0,7.0
+2024,2453,North Alabama,fcs,UAC,,2.7910014605774403,12,3,9,0,,,,,False,9.0,8.0,1.0
+2022,153,North Carolina,fbs,ACC,Coastal,7.118315943121559,14,9,5,0,6.195,,,Mack Brown,False,10.0,18.0,-8.0
+2023,153,North Carolina,fbs,ACC,Coastal,6.94860987844693,13,8,5,0,10.237,6.195,4.042,Mack Brown,False,10.0,23.0,-13.0
+2024,153,North Carolina,fbs,ACC,,5.988871290725752,13,6,7,0,2.602,10.237,-7.635,Mack Brown,False,39.0,48.0,-9.0
+2022,2448,North Carolina A&T,fcs,Big South,,3.3132777584070556,11,7,4,0,,,,,False,2.0,4.0,-2.0
+2023,2448,North Carolina A&T,fcs,CAA,,0.5388264677257746,11,1,10,0,,,,,False,3.0,1.0,2.0
+2024,2448,North Carolina A&T,fcs,CAA,,1.6322320911066135,12,1,11,0,,,,,False,2.0,7.0,-5.0
+2022,2428,North Carolina Central,fcs,MEAC,,7.824362257272715,12,10,2,0,,,,,False,2.0,1.0,1.0
+2023,2428,North Carolina Central,fcs,MEAC,,7.295323914620509,12,9,3,0,,,,,False,5.0,4.0,1.0
+2024,2428,North Carolina Central,fcs,MEAC,,6.791581337433507,11,8,3,0,,,,,False,0.0,3.0,-3.0
+2022,155,North Dakota,fcs,MVFC,,5.724324297327205,12,7,5,0,,,,,False,,,
+2023,155,North Dakota,fcs,MVFC,,5.295597375269573,12,7,5,0,,,,,False,2.0,6.0,-4.0
+2024,155,North Dakota,fcs,MVFC,,5.547958849131428,12,5,7,0,,,,,False,8.0,0.0,8.0
+2022,2449,North Dakota State,fcs,MVFC,,12.407299855127816,15,12,3,0,,,,,False,2.0,3.0,-1.0
+2023,2449,North Dakota State,fcs,MVFC,,11.085958073215238,15,11,4,0,,,,,False,2.0,2.0,0.0
+2024,2449,North Dakota State,fcs,MVFC,,13.10692894292541,16,14,2,0,,,,,False,3.0,5.0,-2.0
+2022,249,North Texas,fbs,Conference USA,,6.483344134746718,14,7,7,0,-3.403,,,Phil Bennett,True,10.0,15.0,-5.0
+2023,249,North Texas,fbs,American Athletic,,3.822272613153824,12,5,7,0,-10.163,-3.403,-6.76,Eric Morris,False,25.0,36.0,-11.0
+2024,249,North Texas,fbs,American Athletic,,5.246005597181846,13,6,7,0,-7.287,-10.163,2.8760000000000003,Eric Morris,False,34.0,49.0,-15.0
+2022,2464,Northern Arizona,fcs,Big Sky,,4.172388203524747,11,3,8,0,,,,,False,5.0,2.0,3.0
+2023,2464,Northern Arizona,fcs,Big Sky,,5.440738852906233,11,5,6,0,,,,,False,9.0,9.0,0.0
+2024,2464,Northern Arizona,fcs,Big Sky,,5.101063507507946,13,8,5,0,,,,,False,4.0,7.0,-3.0
+2022,2458,Northern Colorado,fcs,Big Sky,,1.528766974488711,11,3,8,0,,,,,False,2.0,1.0,1.0
+2023,2458,Northern Colorado,fcs,Big Sky,,2.3769940541978203,11,0,11,0,,,,,False,1.0,5.0,-4.0
+2024,2458,Northern Colorado,fcs,Big Sky,,1.9703351180616535,12,1,11,0,,,,,False,4.0,3.0,1.0
+2022,2459,Northern Illinois,fbs,Mid-American,West,5.659617626280408,12,3,9,0,-14.204,,,Thomas Hammock,False,4.0,11.0,-7.0
+2023,2459,Northern Illinois,fbs,Mid-American,West,7.948583422560658,13,7,6,0,-7.254,-14.204,6.950000000000001,Thomas Hammock,False,6.0,18.0,-12.0
+2024,2459,Northern Illinois,fbs,Mid-American,,10.088076587285729,13,8,5,0,-4.256,-7.254,2.9979999999999993,Thomas Hammock,False,5.0,25.0,-20.0
+2022,2460,Northern Iowa,fcs,MVFC,,6.817896605404642,11,6,5,0,,,,,False,4.0,0.0,4.0
+2023,2460,Northern Iowa,fcs,MVFC,,4.626132947069042,11,6,5,0,,,,,False,4.0,3.0,1.0
+2024,2460,Northern Iowa,fcs,MVFC,,3.3039072427208493,12,3,9,0,,,,,False,4.0,5.0,-1.0
+2022,77,Northwestern,fbs,Big Ten,West,3.47451668694066,12,1,11,0,-7.588,,,Pat Fitzgerald,True,3.0,8.0,-5.0
+2023,77,Northwestern,fbs,Big Ten,West,4.875339892516529,13,8,5,0,-0.304,-7.588,7.284,David Braun,False,6.0,12.0,-6.0
+2024,77,Northwestern,fbs,Big Ten,,4.130524359166857,12,4,8,0,-5.033,-0.304,-4.729,David Braun,False,14.0,12.0,2.0
+2022,2466,Northwestern State,fcs,Southland,,3.198827152588613,11,4,7,0,,,,,False,1.0,1.0,0.0
+2023,2466,Northwestern State,fcs,Southland,,0.4504803083708428,11,0,11,0,,,,,False,3.0,3.0,0.0
+2024,2466,Northwestern State,fcs,Southland,,0.3825589867557209,12,0,12,0,,,,,False,7.0,3.0,4.0
+2022,87,Notre Dame,fbs,FBS Independents,,8.654266789834304,13,9,4,0,12.6,,,Marcus Freeman,False,7.0,11.0,-4.0
+2023,87,Notre Dame,fbs,FBS Independents,,10.637840603697049,13,10,3,0,20.776,12.6,8.176,Marcus Freeman,False,9.0,18.0,-9.0
+2024,87,Notre Dame,fbs,FBS Independents,,13.184164567005586,16,14,2,0,25.305,20.776,4.529,Marcus Freeman,False,8.0,14.0,-6.0
+2022,195,Ohio,fbs,Mid-American,East,7.408813594852338,14,10,4,0,-5.963,,,Tim Albin,False,4.0,6.0,-2.0
+2023,195,Ohio,fbs,Mid-American,East,9.20340869032661,13,10,3,0,-5.037,-5.963,0.9260000000000002,Tim Albin,False,21.0,25.0,-4.0
+2024,195,Ohio,fbs,Mid-American,,10.257367454427296,14,11,3,0,-1.023,-5.037,4.014,Tim Albin,False,21.0,16.0,5.0
+2022,194,Ohio State,fbs,Big Ten,East,9.809388963394197,13,11,2,0,25.771,,,Ryan Day,False,8.0,9.0,-1.0
+2023,194,Ohio State,fbs,Big Ten,East,10.130952321332964,13,11,2,0,27.485,25.771,1.7139999999999986,Ryan Day,False,7.0,25.0,-18.0
+2024,194,Ohio State,fbs,Big Ten,,15.20301777267821,16,14,2,0,24.823,27.485,-2.661999999999999,Ryan Day,False,11.0,14.0,-3.0
+2022,201,Oklahoma,fbs,Big 12,,7.258832896886252,13,6,7,0,9.969,,,Brent Venables,False,18.0,27.0,-9.0
+2023,201,Oklahoma,fbs,Big 12,,10.88962520047889,13,10,3,0,22.492,9.969,12.523000000000001,Brent Venables,False,16.0,25.0,-9.0
+2024,201,Oklahoma,fbs,SEC,,4.97822272964347,13,6,7,0,10.943,22.492,-11.549000000000001,Brent Venables,False,20.0,33.0,-13.0
+2022,197,Oklahoma State,fbs,Big 12,,5.476452362264645,13,7,6,0,6.663,,,Mike Gundy,False,13.0,19.0,-6.0
+2023,197,Oklahoma State,fbs,Big 12,,5.77052764029184,14,10,4,0,6.132,6.663,-0.5310000000000006,Mike Gundy,False,8.0,11.0,-3.0
+2024,197,Oklahoma State,fbs,Big 12,,3.2763890633687,12,3,9,0,-0.188,6.132,-6.319999999999999,Mike Gundy,False,40.0,30.0,10.0
+2022,295,Old Dominion,fbs,Sun Belt,East,1.5267098873951883,12,3,9,0,-10.538,,,Ricky Rahne,False,6.0,20.0,-14.0
+2023,295,Old Dominion,fbs,Sun Belt,East,5.413422875992956,13,6,7,0,-9.52,-10.538,1.0180000000000007,Ricky Rahne,False,15.0,32.0,-17.0
+2024,295,Old Dominion,fbs,Sun Belt,East,5.978360050098397,12,5,7,0,-2.342,-9.52,7.177999999999999,Ricky Rahne,False,12.0,32.0,-20.0
+2022,145,Ole Miss,fbs,SEC,West,9.25705926914302,13,8,5,0,12.342,,,Lane Kiffin,False,25.0,38.0,-13.0
+2023,145,Ole Miss,fbs,SEC,West,9.354529777476506,13,11,2,0,15.302,12.342,2.959999999999999,Lane Kiffin,False,25.0,24.0,1.0
+2024,145,Ole Miss,fbs,SEC,,11.173295804083596,13,10,3,0,20.608,15.302,5.306000000000001,Lane Kiffin,False,28.0,29.0,-1.0
+2022,2483,Oregon,fbs,Pac-12,,10.520552378625103,13,10,3,0,14.225,,,Dan Lanning,False,15.0,34.0,-19.0
+2023,2483,Oregon,fbs,Pac-12,,12.653452222109038,14,12,2,0,25.043,14.225,10.818,Dan Lanning,False,14.0,20.0,-6.0
+2024,2483,Oregon,fbs,Big Ten,,11.512575801334169,14,13,1,0,21.125,25.043,-3.9179999999999993,Dan Lanning,False,11.0,14.0,-3.0
+2022,204,Oregon State,fbs,Pac-12,,11.185678034765074,13,10,3,0,12.157,,,Jonathan Smith,True,7.0,9.0,-2.0
+2023,204,Oregon State,fbs,Pac-12,,9.343547327423035,13,8,5,0,13.996,12.157,1.8390000000000004,Kefense Hynson,True,16.0,25.0,-9.0
+2024,204,Oregon State,fbs,Pac-12,,3.981854275093376,12,5,7,0,-6.875,13.996,-20.871000000000002,Trent Bray,False,14.0,15.0,-1.0
+2022,213,Penn State,fbs,Big Ten,East,10.521386176198106,13,11,2,0,19.477,,,James Franklin,False,6.0,14.0,-8.0
+2023,213,Penn State,fbs,Big Ten,East,9.08791319601373,13,10,3,0,25.618,19.477,6.140999999999998,James Franklin,False,6.0,13.0,-7.0
+2024,213,Penn State,fbs,Big Ten,,12.729323632020687,16,13,3,0,20.037,25.618,-5.5809999999999995,James Franklin,False,8.0,16.0,-8.0
+2022,219,Pennsylvania,fcs,Ivy,,6.39380553860745,10,8,2,0,,,,,False,0.0,7.0,-7.0
+2023,219,Pennsylvania,fcs,Ivy,,6.337337535848848,10,6,4,0,,,,,False,1.0,5.0,-4.0
+2024,219,Pennsylvania,fcs,Ivy,,6.080729904186711,10,4,6,0,,,,,False,0.0,5.0,-5.0
+2022,221,Pittsburgh,fbs,ACC,Coastal,9.349578529177968,13,9,4,0,7.918,,,Pat Narduzzi,False,7.0,13.0,-6.0
+2023,221,Pittsburgh,fbs,ACC,Coastal,4.3186934917016195,12,3,9,0,-0.369,7.918,-8.287,Pat Narduzzi,False,14.0,20.0,-6.0
+2024,221,Pittsburgh,fbs,ACC,,6.521596776808393,13,7,6,0,3.991,-0.369,4.36,Pat Narduzzi,False,15.0,26.0,-11.0
+2022,2502,Portland State,fcs,Big Sky,,5.086837340324562,11,4,7,0,,,,,False,4.0,0.0,4.0
+2023,2502,Portland State,fcs,Big Sky,,4.133802299578327,11,5,6,0,,,,,False,8.0,4.0,4.0
+2024,2502,Portland State,fcs,Big Sky,,4.311375528765036,12,3,8,1,,,,,False,3.0,6.0,-3.0
+2022,2504,Prairie View A&M,fcs,SWAC,West,6.807565623390063,11,6,5,0,,,,,False,0.0,1.0,-1.0
+2023,2504,Prairie View A&M,fcs,SWAC,West,5.417182995564358,12,6,6,0,,,,,False,4.0,1.0,3.0
+2024,2504,Prairie View A&M,fcs,SWAC,West,4.140386220922265,12,5,7,0,,,,,False,21.0,3.0,18.0
+2022,2506,Presbyterian,fcs,Pioneer,,0.7605845042158346,11,1,10,0,,,,,False,0.0,1.0,-1.0
+2023,2506,Presbyterian,fcs,Pioneer,,2.4176918869117254,11,4,7,0,,,,,False,1.0,0.0,1.0
+2024,2506,Presbyterian,fcs,Pioneer,,6.243961278870375,12,6,6,0,,,,,False,0.0,1.0,-1.0
+2022,163,Princeton,fcs,Ivy,,4.815309493663135,10,8,2,0,,,,,False,0.0,1.0,-1.0
+2023,163,Princeton,fcs,Ivy,,5.361191419963191,10,5,5,0,,,,,False,0.0,3.0,-3.0
+2024,163,Princeton,fcs,Ivy,,1.789836101192068,10,3,7,0,,,,,False,1.0,7.0,-6.0
+2022,2509,Purdue,fbs,Big Ten,West,6.460504799625862,14,8,6,0,4.283,,,Brian Brohm,True,15.0,25.0,-10.0
+2023,2509,Purdue,fbs,Big Ten,West,5.206786173050185,12,4,8,0,-0.634,4.283,-4.917000000000001,Ryan Walters,False,18.0,28.0,-10.0
+2024,2509,Purdue,fbs,Big Ten,,2.1867086428319564,12,1,11,0,-13.836,-0.634,-13.202,Ryan Walters,False,51.0,54.0,-3.0
+2022,227,Rhode Island,fcs,CAA,,7.1030977660017305,11,7,4,0,,,,,False,4.0,3.0,1.0
+2023,227,Rhode Island,fcs,CAA,,2.024714121743227,11,6,5,0,,,,,False,5.0,2.0,3.0
+2024,227,Rhode Island,fcs,CAA,,8.653167621045464,14,11,3,0,,,,,False,11.0,2.0,9.0
+2022,242,Rice,fbs,Conference USA,,5.1501491988443755,13,5,8,0,-14.078,,,Mike Bloomgren,False,5.0,4.0,1.0
+2023,242,Rice,fbs,American Athletic,,5.333376090068548,13,6,7,0,-3.93,-14.078,10.148,Mike Bloomgren,True,10.0,3.0,7.0
+2024,242,Rice,fbs,American Athletic,,3.4177199987229425,12,4,8,0,-8.58,-3.93,-4.65,Pete Alamar,False,11.0,19.0,-8.0
+2022,257,Richmond,fcs,CAA,,8.710602987365014,13,9,4,0,,,,,False,0.0,5.0,-5.0
+2023,257,Richmond,fcs,CAA,,6.246527332255188,13,9,4,0,,,,,False,0.0,3.0,-3.0
+2024,257,Richmond,fcs,CAA,,7.453929855906346,13,10,3,0,,,,,False,3.0,10.0,-7.0
+2022,2523,Robert Morris,fcs,Big South,,0.1482470863113328,11,0,11,0,,,,,False,3.0,1.0,2.0
+2023,2523,Robert Morris,fcs,Big South-OVC,,2.2098405950119147,11,4,7,0,,,,,False,1.0,2.0,-1.0
+2024,2523,Robert Morris,fcs,NEC,,6.962986172505178,12,7,5,0,,,,,False,8.0,5.0,3.0
+2022,164,Rutgers,fbs,Big Ten,East,4.850608864250418,12,4,8,0,-7.796,,,Greg Schiano,False,7.0,12.0,-5.0
+2023,164,Rutgers,fbs,Big Ten,East,6.343079326395482,13,7,6,0,2.552,-7.796,10.348,Greg Schiano,False,6.0,15.0,-9.0
+2024,164,Rutgers,fbs,Big Ten,,6.757048603830634,13,7,6,0,3.857,2.552,1.3050000000000002,Greg Schiano,False,19.0,22.0,-3.0
+2022,2545,SE Louisiana,fcs,Southland,,6.197541213777778,13,9,4,0,,,,,False,2.0,3.0,-1.0
+2023,2545,SE Louisiana,fcs,Southland,,4.192723290731533,11,3,8,0,,,,,False,1.0,4.0,-3.0
+2024,2545,SE Louisiana,fcs,Southland,,5.176372378322957,12,7,5,0,,,,,False,,,
+2022,2567,SMU,fbs,American Athletic,,6.546627599579314,13,7,6,0,2.267,,,Rhett Lashlee,False,26.0,23.0,3.0
+2023,2567,SMU,fbs,American Athletic,,10.727556978662738,14,11,3,0,13.838,2.267,11.571,Rhett Lashlee,False,20.0,16.0,4.0
+2024,2567,SMU,fbs,ACC,,11.006808782396062,14,11,3,0,16.414,13.838,2.5760000000000023,Rhett Lashlee,False,20.0,17.0,3.0
+2022,16,Sacramento State,fcs,Big Sky,,10.069637607428945,13,12,1,0,,,,,False,1.0,5.0,-4.0
+2023,16,Sacramento State,fcs,Big Sky,,7.512433443992156,13,8,5,0,,,,,False,8.0,3.0,5.0
+2024,16,Sacramento State,fcs,Big Sky,,3.415923853559655,12,3,9,0,,,,,False,39.0,17.0,22.0
+2022,2529,Sacred Heart,fcs,NEC,,6.473435009874817,11,5,6,0,,,,,False,0.0,2.0,-2.0
+2023,2529,Sacred Heart,fcs,NEC,,3.270425111766278,11,2,9,0,,,,,False,2.0,1.0,1.0
+2024,2529,Sacred Heart,fcs,FCS Independents,,6.26206686122793,11,5,6,0,,,,,False,1.0,3.0,-2.0
+2022,2534,Sam Houston,fcs,Western Athletic,,3.4509458255225174,9,5,4,0,,,,,True,5.0,1.0,4.0
+2023,2534,Sam Houston,fbs,Conference USA,,3.53272730471506,12,3,9,0,-14.085,,,K.C. Keeler,True,12.0,5.0,7.0
+2024,2534,Sam Houston,fbs,Conference USA,,7.057325119162935,13,10,3,0,-6.961,-14.085,7.1240000000000006,Brad Cornelsen,False,26.0,30.0,-4.0
+2022,2535,Samford,fcs,Southern,,7.5415111508917745,13,11,2,0,,,,,False,1.0,0.0,1.0
+2023,2535,Samford,fcs,Southern,,5.204667748176611,11,6,5,0,,,,,False,7.0,3.0,4.0
+2024,2535,Samford,fcs,Southern,,4.214018550502499,12,4,7,1,,,,,False,11.0,7.0,4.0
+2022,301,San Diego,fcs,Pioneer,,4.773161687680657,11,5,5,1,,,,,False,0.0,1.0,-1.0
+2023,301,San Diego,fcs,Pioneer,,5.904876342846525,11,4,7,0,,,,,False,3.0,2.0,1.0
+2024,301,San Diego,fcs,Pioneer,,7.793670472251307,11,8,3,0,,,,,False,4.0,0.0,4.0
+2022,21,San Diego State,fbs,Mountain West,West,7.5563502323064515,13,7,6,0,-5.387,,,Brady Hoke,False,5.0,13.0,-8.0
+2023,21,San Diego State,fbs,Mountain West,West,5.639138927369647,12,4,8,0,-10.899,-5.387,-5.512,Brady Hoke,True,24.0,36.0,-12.0
+2024,21,San Diego State,fbs,Mountain West,,3.5039869240676653,12,3,9,0,-13.599,-10.899,-2.700000000000001,Sean Lewis,False,19.0,23.0,-4.0
+2022,23,San José State,fbs,Mountain West,West,5.503003438066545,12,7,5,0,-5.871,,,Brent Brennan,False,7.0,9.0,-2.0
+2023,23,San José State,fbs,Mountain West,West,7.054976053626107,13,7,6,0,0.229,-5.871,6.1000000000000005,Brent Brennan,True,14.0,25.0,-11.0
+2024,23,San José State,fbs,Mountain West,,6.2596128897058225,13,7,6,0,-5.133,0.229,-5.362,Ken Niumatalolo,False,13.0,16.0,-3.0
+2022,6,South Alabama,fbs,Sun Belt,West,10.263201454416196,13,10,3,0,-1.447,,,Kane Wommack,False,9.0,4.0,5.0
+2023,6,South Alabama,fbs,Sun Belt,West,7.771549249783735,13,7,6,0,0.785,-1.447,2.232,Kane Wommack,True,15.0,15.0,0.0
+2024,6,South Alabama,fbs,Sun Belt,West,7.901882477744811,13,7,6,0,0.261,0.785,-0.524,Major Applewhite,False,23.0,22.0,1.0
+2022,2579,South Carolina,fbs,SEC,East,6.840453841147032,13,8,5,0,4.416,,,Shane Beamer,False,10.0,17.0,-7.0
+2023,2579,South Carolina,fbs,SEC,East,5.604162594441235,12,5,7,0,6.054,4.416,1.638,Shane Beamer,False,22.0,26.0,-4.0
+2024,2579,South Carolina,fbs,SEC,,10.006863300044262,13,9,4,0,14.834,6.054,8.78,Shane Beamer,False,18.0,24.0,-6.0
+2022,2569,South Carolina State,fcs,MEAC,,1.626086505772251,11,3,8,0,,,,,False,0.0,1.0,-1.0
+2023,2569,South Carolina State,fcs,MEAC,,2.0086396009702816,11,5,6,0,,,,,False,1.0,2.0,-1.0
+2024,2569,South Carolina State,fcs,MEAC,,6.5341762628368425,12,9,3,0,,,,,False,5.0,6.0,-1.0
+2022,233,South Dakota,fcs,MVFC,,3.445226735733926,11,3,8,0,,,,,False,0.0,2.0,-2.0
+2023,233,South Dakota,fcs,MVFC,,7.761949242242101,13,10,3,0,,,,,False,3.0,0.0,3.0
+2024,233,South Dakota,fcs,MVFC,,9.701571151299254,15,11,3,1,,,,,False,12.0,8.0,4.0
+2022,2571,South Dakota State,fcs,MVFC,,10.976940784070662,15,14,1,0,,,,,False,1.0,1.0,0.0
+2023,2571,South Dakota State,fcs,MVFC,,13.10620751977494,15,15,0,0,,,,,False,2.0,0.0,2.0
+2024,2571,South Dakota State,fcs,MVFC,,11.851943352734397,15,12,3,0,,,,,False,13.0,21.0,-8.0
+2022,58,South Florida,fbs,American Athletic,,3.3903067784797445,12,1,11,0,-10.481,,,Daniel Da Prato,True,19.0,26.0,-7.0
+2023,58,South Florida,fbs,American Athletic,,6.797797443628671,13,7,6,0,-9.854,-10.481,0.6270000000000007,Alex Golesh,False,14.0,20.0,-6.0
+2024,58,South Florida,fbs,American Athletic,,6.759114997222183,13,7,6,0,-3.472,-9.854,6.382,Alex Golesh,False,23.0,24.0,-1.0
+2022,2546,Southeast Missouri State,fcs,OVC,,7.63052355630712,12,9,3,0,,,,,False,0.0,3.0,-3.0
+2023,2546,Southeast Missouri State,fcs,Big South-OVC,,5.238729079073407,11,4,7,0,,,,,False,3.0,2.0,1.0
+2024,2546,Southeast Missouri State,fcs,Big South-OVC,,6.7048879201584235,13,9,4,0,,,,,False,5.0,5.0,0.0
+2022,2582,Southern,fcs,SWAC,West,5.988119440603798,12,7,5,0,,,,,False,0.0,1.0,-1.0
+2023,2582,Southern,fcs,SWAC,West,4.408735956907242,11,6,5,0,,,,,False,4.0,2.0,2.0
+2024,2582,Southern,fcs,SWAC,West,5.850503534227803,13,8,5,0,,,,,False,2.0,6.0,-4.0
+2022,79,Southern Illinois,fcs,MVFC,,6.291809229178552,11,5,6,0,,,,,False,2.0,2.0,0.0
+2023,79,Southern Illinois,fcs,MVFC,,8.12905288720143,13,8,5,0,,,,,False,6.0,4.0,2.0
+2024,79,Southern Illinois,fcs,MVFC,,4.157093864282836,12,4,8,0,,,,,False,3.0,8.0,-5.0
+2022,2572,Southern Miss,fbs,Sun Belt,West,6.896306654106202,13,7,6,0,-6.085,,,Will Hall,False,8.0,6.0,2.0
+2023,2572,Southern Miss,fbs,Sun Belt,West,4.140541627917707,12,3,9,0,-14.169,-6.085,-8.084,Will Hall,False,17.0,7.0,10.0
+2024,2572,Southern Miss,fbs,Sun Belt,West,1.5151647558977213,12,1,11,0,-21.712,-14.169,-7.542999999999999,Will Hall,False,52.0,41.0,11.0
+2022,253,Southern Utah,fcs,Western Athletic,,4.050117472271147,11,5,6,0,,,,,False,1.0,5.0,-4.0
+2023,253,Southern Utah,fcs,UAC,,6.302664031397204,11,6,5,0,,,,,False,4.0,1.0,3.0
+2024,253,Southern Utah,fcs,UAC,,7.211093555712421,12,7,5,0,,,,,False,7.0,7.0,0.0
+2022,2598,St. Francis (PA),fcs,NEC,,6.1837882007069505,12,9,3,0,,,,,False,,,
+2023,2598,St. Francis (PA),fcs,NEC,,3.853996857974962,10,4,6,0,,,,,False,,,
+2024,2598,St. Francis (PA),fcs,NEC,,4.894964545985758,11,4,7,0,,,,,False,,,
+2022,2900,St. Thomas (MN),fcs,Pioneer,,9.966499266834694,11,10,1,0,,,,,False,,,
+2023,2900,St. Thomas (MN),fcs,Pioneer,,6.672249929951704,11,8,3,0,,,,,False,,,
+2024,2900,St. Thomas (MN),fcs,Pioneer,,5.864783932461477,12,6,6,0,,,,,False,,,
+2022,24,Stanford,fbs,Pac-12,,2.9377392466469097,12,3,9,0,-3.917,,,David Shaw,True,4.0,21.0,-17.0
+2023,24,Stanford,fbs,Pac-12,,2.647337089501702,12,3,9,0,-9.769,-3.917,-5.852,Troy Taylor,False,4.0,14.0,-10.0
+2024,24,Stanford,fbs,ACC,,3.810818710546931,12,3,9,0,-5.299,-9.769,4.47,Troy Taylor,False,17.0,27.0,-10.0
+2022,2617,Stephen F. Austin,fcs,Western Athletic,,4.8191585199453115,11,6,5,0,,,,,False,3.0,2.0,1.0
+2023,2617,Stephen F. Austin,fcs,UAC,,4.107713412527595,11,3,8,0,,,,,False,15.0,3.0,12.0
+2024,2617,Stephen F. Austin,fcs,Southland,,6.486684261007166,12,7,5,0,,,,,False,10.0,3.0,7.0
+2022,56,Stetson,fcs,Pioneer,,2.0477414147616413,11,4,6,1,,,,,False,,,
+2023,56,Stetson,fcs,Pioneer,,0.6460126776329128,11,3,8,0,,,,,False,2.0,1.0,1.0
+2024,56,Stetson,fcs,Pioneer,,2.0413025122741875,12,2,9,1,,,,,False,2.0,2.0,0.0
+2022,284,Stonehill,fcs,NEC,,0.1810288578658377,9,4,5,0,,,,,False,,,
+2023,284,Stonehill,fcs,NEC,,2.6900446492791112,10,5,5,0,,,,,False,,,
+2024,284,Stonehill,fcs,NEC,,1.5124897157388246,11,1,10,0,,,,,False,,,
+2022,2619,Stony Brook,fcs,CAA,,2.714713008433999,11,2,9,0,,,,,False,7.0,2.0,5.0
+2023,2619,Stony Brook,fcs,CAA,,0.6487516296028543,11,0,10,1,,,,,False,1.0,1.0,0.0
+2024,2619,Stony Brook,fcs,CAA,,6.1406567783482355,12,8,4,0,,,,,False,4.0,2.0,2.0
+2022,183,Syracuse,fbs,ACC,Atlantic,6.247216096987285,13,7,6,0,5.084,,,Dino Babers,False,9.0,15.0,-6.0
+2023,183,Syracuse,fbs,ACC,Atlantic,6.109475485787092,13,6,7,0,2.396,5.084,-2.6879999999999997,Dino Babers,True,19.0,28.0,-9.0
+2024,183,Syracuse,fbs,ACC,,6.149897698376089,13,10,3,0,3.99,2.396,1.5940000000000003,Fran Brown,False,16.0,24.0,-8.0
+2022,2628,TCU,fbs,Big 12,,10.324848578954755,15,13,2,0,14.378,,,Sonny Dykes,False,13.0,17.0,-4.0
+2023,2628,TCU,fbs,Big 12,,6.209705223056343,12,5,7,0,9.511,14.378,-4.867000000000001,Sonny Dykes,False,23.0,19.0,4.0
+2024,2628,TCU,fbs,Big 12,,8.906212192410981,13,9,4,0,8.023,9.511,-1.4879999999999995,Sonny Dykes,False,11.0,18.0,-7.0
+2022,2627,Tarleton State,fcs,Western Athletic,,5.392004029747148,11,6,5,0,,,,,False,2.0,2.0,0.0
+2023,2627,Tarleton State,fcs,UAC,,6.768794913674509,11,8,3,0,,,,,False,2.0,2.0,0.0
+2024,2627,Tarleton State,fcs,UAC,,10.607905886973771,14,10,4,0,,,,,False,6.0,1.0,5.0
+2022,218,Temple,fbs,American Athletic,,4.443983901191349,12,3,9,0,-11.777,,,Stan Drayton,False,11.0,28.0,-17.0
+2023,218,Temple,fbs,American Athletic,,2.847281087613609,12,3,9,0,-19.353,-11.777,-7.576000000000002,Stan Drayton,False,15.0,31.0,-16.0
+2024,218,Temple,fbs,American Athletic,,2.501061874077142,12,3,9,0,-18.721,-19.353,0.6320000000000014,Stan Drayton,False,24.0,22.0,2.0
+2022,2633,Tennessee,fbs,SEC,East,9.749081155455064,13,11,2,0,22.728,,,Josh Heupel,False,8.0,22.0,-14.0
+2023,2633,Tennessee,fbs,SEC,East,8.817403246997422,13,9,4,0,14.091,22.728,-8.637000000000002,Josh Heupel,False,9.0,16.0,-7.0
+2024,2633,Tennessee,fbs,SEC,,9.764479085666787,13,10,3,0,20.786,14.091,6.695000000000002,Josh Heupel,False,7.0,24.0,-17.0
+2022,2634,Tennessee State,fcs,OVC,,4.828375498568803,11,4,7,0,,,,,False,1.0,1.0,0.0
+2023,2634,Tennessee State,fcs,Big South-OVC,,5.622067291614566,11,6,5,0,,,,,False,11.0,7.0,4.0
+2024,2634,Tennessee State,fcs,Big South-OVC,,7.6239873463368335,13,9,4,0,,,,,False,12.0,15.0,-3.0
+2022,2635,Tennessee Tech,fcs,OVC,,3.108252522852845,11,4,7,0,,,,,False,,,
+2023,2635,Tennessee Tech,fcs,Big South-OVC,,4.0136738909417415,11,4,7,0,,,,,False,7.0,4.0,3.0
+2024,2635,Tennessee Tech,fcs,Big South-OVC,,6.604607092379615,12,7,5,0,,,,,False,12.0,4.0,8.0
+2022,251,Texas,fbs,Big 12,,9.791174312752483,13,8,5,0,19.379,,,Steve Sarkisian,False,5.0,20.0,-15.0
+2023,251,Texas,fbs,Big 12,,11.296934751329628,14,12,2,0,23.196,19.379,3.817,Steve Sarkisian,False,10.0,24.0,-14.0
+2024,251,Texas,fbs,SEC,,12.344395372482223,16,13,3,0,26.107,23.196,2.910999999999998,Steve Sarkisian,False,11.0,13.0,-2.0
+2022,245,Texas A&M,fbs,SEC,West,4.6657725755918635,12,5,7,0,7.2,,,Jimbo Fisher,False,13.0,32.0,-19.0
+2023,245,Texas A&M,fbs,SEC,West,8.414501282881327,13,7,6,0,15.36,7.2,8.16,Jimbo Fisher,True,26.0,30.0,-4.0
+2024,245,Texas A&M,fbs,SEC,,8.231245363251418,13,8,5,0,14.297,15.36,-1.0629999999999988,Mike Elko,False,13.0,30.0,-17.0
+2022,2640,Texas Southern,fcs,SWAC,West,5.375069102064609,11,5,6,0,,,,,False,2.0,1.0,1.0
+2023,2640,Texas Southern,fcs,SWAC,West,1.7343992996461657,11,3,8,0,,,,,False,6.0,2.0,4.0
+2024,2640,Texas Southern,fcs,SWAC,West,5.369197759161259,11,5,6,0,,,,,False,4.0,8.0,-4.0
+2022,326,Texas State,fbs,Sun Belt,West,4.443363952073579,12,4,8,0,-12.869,,,Jake Spavital,True,37.0,24.0,13.0
+2023,326,Texas State,fbs,Sun Belt,West,8.479230792898626,13,8,5,0,-8.459,-12.869,4.41,G.J. Kinne,False,30.0,22.0,8.0
+2024,326,Texas State,fbs,Sun Belt,West,8.589085210810687,13,8,5,0,2.247,-8.459,10.706,G.J. Kinne,False,34.0,33.0,1.0
+2022,2641,Texas Tech,fbs,Big 12,,6.383732635580702,13,8,5,0,8.326,,,Joey McGuire,False,7.0,18.0,-11.0
+2023,2641,Texas Tech,fbs,Big 12,,6.04586070190089,13,7,6,0,6.237,8.326,-2.0890000000000004,Joey McGuire,False,16.0,23.0,-7.0
+2024,2641,Texas Tech,fbs,Big 12,,5.98720107064572,13,8,5,0,6.204,6.237,-0.03300000000000036,Joey McGuire,False,21.0,24.0,-3.0
+2022,2643,The Citadel,fcs,Southern,,5.802981593388418,11,4,7,0,,,,,False,,,
+2023,2643,The Citadel,fcs,Southern,,1.4691874979100688,11,0,11,0,,,,,False,1.0,0.0,1.0
+2024,2643,The Citadel,fcs,Southern,,4.676710475626465,12,5,7,0,,,,,False,3.0,0.0,3.0
+2022,2649,Toledo,fbs,Mid-American,West,10.061377734019237,14,9,5,0,-3.347,,,Jason Candle,False,3.0,9.0,-6.0
+2023,2649,Toledo,fbs,Mid-American,West,10.717935440988349,14,11,3,0,0.536,-3.347,3.883,Jason Candle,False,7.0,11.0,-4.0
+2024,2649,Toledo,fbs,Mid-American,,6.155344581815647,13,8,5,0,-5.318,0.536,-5.853999999999999,Jason Candle,False,20.0,17.0,3.0
+2022,119,Towson,fcs,CAA,,3.557800623601378,11,6,5,0,,,,,False,1.0,1.0,0.0
+2023,119,Towson,fcs,CAA,,4.304410365450917,11,5,6,0,,,,,False,3.0,2.0,1.0
+2024,119,Towson,fcs,CAA,,5.91743589931046,12,7,5,0,,,,,False,7.0,2.0,5.0
+2022,2653,Troy,fbs,Sun Belt,West,9.641550460963668,14,12,2,0,1.884,,,Jon Sumrall,True,8.0,9.0,-1.0
+2023,2653,Troy,fbs,Sun Belt,West,10.079827670218418,14,11,3,0,5.742,1.884,3.858,Greg Gasparato,True,10.0,23.0,-13.0
+2024,2653,Troy,fbs,Sun Belt,West,6.4430176126277665,12,4,8,0,-7.249,5.742,-12.991,Gerad Parker,False,4.0,12.0,-8.0
+2022,2655,Tulane,fbs,American Athletic,,10.069436737123477,14,12,2,0,9.496,,,Willie Fritz,False,7.0,11.0,-4.0
+2023,2655,Tulane,fbs,American Athletic,,9.914853247807606,14,11,3,0,3.05,9.496,-6.446000000000001,Willie Fritz,True,22.0,24.0,-2.0
+2024,2655,Tulane,fbs,American Athletic,,9.750732842271267,14,9,5,0,10.537,3.05,7.487000000000001,Jon Sumrall,False,30.0,26.0,4.0
+2022,202,Tulsa,fbs,American Athletic,,4.999757325228414,12,5,7,0,-4.107,,,Philip Montgomery,True,8.0,11.0,-3.0
+2023,202,Tulsa,fbs,American Athletic,,5.364906297901139,12,4,8,0,-13.345,-4.107,-9.238,Kevin Wilson,True,12.0,24.0,-12.0
+2024,202,Tulsa,fbs,American Athletic,,3.136740737611128,12,3,9,0,-23.104,-13.345,-9.758999999999999,Ryan Switzer,False,31.0,26.0,5.0
+2022,5,UAB,fbs,Conference USA,,9.223410176098104,13,7,6,0,0.176,,,Bryant Vincent,True,7.0,13.0,-6.0
+2023,5,UAB,fbs,American Athletic,,6.126876907002459,12,4,8,0,-10.908,0.176,-11.084,Trent Dilfer,False,19.0,21.0,-2.0
+2024,5,UAB,fbs,American Athletic,,4.587440342212202,12,3,9,0,-12.74,-10.908,-1.8320000000000007,Trent Dilfer,False,29.0,31.0,-2.0
+2022,399,UAlbany,fcs,CAA,,3.6424048258405177,11,3,8,0,,,,,False,1.0,1.0,0.0
+2023,399,UAlbany,fcs,CAA,,8.334947323398282,15,11,4,0,,,,,False,7.0,4.0,3.0
+2024,399,UAlbany,fcs,CAA,,2.076625908255683,12,4,8,0,,,,,False,,,
+2022,302,UC Davis,fcs,Big Sky,,5.22124743617035,11,6,5,0,,,,,False,0.0,1.0,-1.0
+2023,302,UC Davis,fcs,Big Sky,,7.00786209867913,11,7,4,0,,,,,False,1.0,2.0,-1.0
+2024,302,UC Davis,fcs,Big Sky,,9.364472457081732,14,11,3,0,,,,,False,9.0,2.0,7.0
+2022,2116,UCF,fbs,American Athletic,,8.575552106388,14,9,5,0,6.904,,,Gus Malzahn,False,18.0,19.0,-1.0
+2023,2116,UCF,fbs,Big 12,,9.300313107028485,13,6,7,0,9.736,6.904,2.8320000000000007,Gus Malzahn,False,25.0,26.0,-1.0
+2024,2116,UCF,fbs,Big 12,,7.383046939154127,12,4,8,0,5.283,9.736,-4.453,Gus Malzahn,False,38.0,46.0,-8.0
+2022,26,UCLA,fbs,Pac-12,,9.786850718124285,13,9,4,0,8.553,,,Chip Kelly,False,14.0,7.0,7.0
+2023,26,UCLA,fbs,Pac-12,,8.61597362323131,13,8,5,0,7.056,8.553,-1.4970000000000008,Chip Kelly,True,21.0,17.0,4.0
+2024,26,UCLA,fbs,Big Ten,,5.220820764547191,12,5,7,0,2.781,7.056,-4.275,Deshaun Foster,False,30.0,34.0,-4.0
+2022,41,UConn,fbs,FBS Independents,,6.266431161912275,13,6,7,0,-14.733,,,Jim Mora,False,12.0,10.0,2.0
+2023,41,UConn,fbs,FBS Independents,,3.616995477203681,12,3,9,0,-15.874,-14.733,-1.141,Jim Mora,False,24.0,19.0,5.0
+2024,41,UConn,fbs,FBS Independents,,9.164834146277462,13,9,4,0,-3.325,-15.874,12.549,Jim Mora,False,23.0,19.0,4.0
+2022,2433,UL Monroe,fbs,Sun Belt,West,2.932622848605087,12,4,8,0,-13.687,,,Terry Bowden,False,7.0,21.0,-14.0
+2023,2433,UL Monroe,fbs,Sun Belt,West,1.3038651471992004,12,2,10,0,-19.6,-13.687,-5.913000000000002,Terry Bowden,True,16.0,25.0,-9.0
+2024,2433,UL Monroe,fbs,Sun Belt,West,5.1850684390796005,12,5,7,0,-11.333,-19.6,8.267000000000001,Bryant Vincent,False,14.0,21.0,-7.0
+2022,2439,UNLV,fbs,Mountain West,West,5.649057691845799,12,5,7,0,-10.768,,,Marcus Arroyo,True,9.0,18.0,-9.0
+2023,2439,UNLV,fbs,Mountain West,West,8.35712683027659,14,9,5,0,-1.823,-10.768,8.945,Barry Odom,False,19.0,19.0,0.0
+2024,2439,UNLV,fbs,Mountain West,,10.928636756589317,14,11,3,0,5.991,-1.823,7.814,Barry Odom,False,39.0,40.0,-1.0
+2022,30,USC,fbs,Pac-12,,9.836385439453885,14,11,3,0,13.164,,,Lincoln Riley,False,16.0,21.0,-5.0
+2023,30,USC,fbs,Pac-12,,6.2600445580270625,13,8,5,0,13.091,13.164,-0.0730000000000004,Lincoln Riley,False,16.0,29.0,-13.0
+2024,30,USC,fbs,Big Ten,,6.6266730506343725,13,7,6,0,13.269,13.091,0.17800000000000082,Lincoln Riley,False,15.0,27.0,-12.0
+2022,2630,UT Martin,fcs,OVC,,6.8360916278096315,11,7,4,0,,,,,False,1.0,1.0,0.0
+2023,2630,UT Martin,fcs,Big South-OVC,,7.422125890236519,11,8,3,0,,,,,False,11.0,5.0,6.0
+2024,2630,UT Martin,fcs,Big South-OVC,,9.502854091098884,14,9,5,0,,,,,False,8.0,7.0,1.0
+2022,2638,UTEP,fbs,Conference USA,,4.494274713124155,12,5,7,0,-11.393,,,Dana Dimel,False,2.0,5.0,-3.0
+2023,2638,UTEP,fbs,Conference USA,,4.653267694648889,12,3,9,0,-14.68,-11.393,-3.286999999999999,Dana Dimel,True,27.0,37.0,-10.0
+2024,2638,UTEP,fbs,Conference USA,,4.497080439568821,12,3,9,0,-19.407,-14.68,-4.727,Scotty Walden,False,26.0,39.0,-13.0
+2022,2636,UTSA,fbs,Conference USA,,9.775110014725774,14,11,3,0,3.336,,,Jeff Traylor,False,8.0,13.0,-5.0
+2023,2636,UTSA,fbs,American Athletic,,9.093620246043988,13,9,4,0,1.111,3.336,-2.2249999999999996,Jeff Traylor,False,15.0,12.0,3.0
+2024,2636,UTSA,fbs,American Athletic,,7.451140420531065,13,7,6,0,-5.581,1.111,-6.692,Jeff Traylor,False,20.0,20.0,0.0
+2022,254,Utah,fbs,Pac-12,,9.62514945020242,14,10,4,0,19.146,,,Kyle Whittingham,False,9.0,19.0,-10.0
+2023,254,Utah,fbs,Pac-12,,8.74529921971851,13,8,5,0,10.768,19.146,-8.378,Kyle Whittingham,False,11.0,24.0,-13.0
+2024,254,Utah,fbs,Big 12,,6.636350929869128,12,5,7,0,5.029,10.768,-5.739000000000001,Kyle Whittingham,False,21.0,32.0,-11.0
+2022,328,Utah State,fbs,Mountain West,Mountain,5.616414921447496,13,6,7,0,-11.489,,,Blake Anderson,False,7.0,21.0,-14.0
+2023,328,Utah State,fbs,Mountain West,Mountain,6.337432901954777,13,6,7,0,-7.651,-11.489,3.838000000000001,Blake Anderson,False,20.0,26.0,-6.0
+2024,328,Utah State,fbs,Mountain West,,5.045168449018577,12,4,8,0,-10.773,-7.651,-3.122,Blake Anderson,False,24.0,38.0,-14.0
+2022,3101,Utah Tech,fcs,Western Athletic,,3.947513895972936,11,4,7,0,,,,,False,0.0,5.0,-5.0
+2023,3101,Utah Tech,fcs,UAC,,2.005948847921791,11,2,9,0,,,,,False,8.0,4.0,4.0
+2024,3101,Utah Tech,fcs,UAC,,1.3156463047214588,12,1,11,0,,,,,False,9.0,8.0,1.0
+2022,2678,VMI,fcs,Southern,,0.1227511193450533,11,1,10,0,,,,,False,0.0,3.0,-3.0
+2023,2678,VMI,fcs,Southern,,3.7071017860344857,11,5,6,0,,,,,False,0.0,4.0,-4.0
+2024,2678,VMI,fcs,Southern,,1.0502531772101775,12,1,11,0,,,,,False,0.0,2.0,-2.0
+2022,2674,Valparaiso,fcs,Pioneer,,4.942745250688765,12,5,7,0,,,,,False,,,
+2023,2674,Valparaiso,fcs,Pioneer,,2.8572073133618745,11,3,8,0,,,,,False,0.0,1.0,-1.0
+2024,2674,Valparaiso,fcs,Pioneer,,3.2049262662296223,12,4,7,1,,,,,False,0.0,2.0,-2.0
+2022,238,Vanderbilt,fbs,SEC,East,4.84516554793668,12,5,7,0,-6.834,,,Clark Lea,False,3.0,13.0,-10.0
+2023,238,Vanderbilt,fbs,SEC,East,1.3351751097476925,12,2,10,0,-9.102,-6.834,-2.2680000000000007,Clark Lea,False,22.0,23.0,-1.0
+2024,238,Vanderbilt,fbs,SEC,,7.077453743282387,13,7,6,0,6.463,-9.102,15.565000000000001,Clark Lea,False,20.0,21.0,-1.0
+2022,222,Villanova,fcs,CAA,,5.083687159389945,11,6,5,0,,,,,False,0.0,2.0,-2.0
+2023,222,Villanova,fcs,CAA,,10.1006589751137,13,10,3,0,,,,,False,0.0,4.0,-4.0
+2024,222,Villanova,fcs,CAA,,6.907479644254576,14,10,4,0,,,,,False,3.0,1.0,2.0
+2022,258,Virginia,fbs,ACC,Coastal,4.070386934757569,10,3,7,0,-3.957,,,Tony Elliott,False,8.0,14.0,-6.0
+2023,258,Virginia,fbs,ACC,Coastal,5.28305039795405,12,3,9,0,-5.286,-3.957,-1.3289999999999997,Tony Elliott,False,13.0,16.0,-3.0
+2024,258,Virginia,fbs,ACC,,4.258877965863164,12,5,7,0,-1.289,-5.286,3.997,Tony Elliott,False,31.0,23.0,8.0
+2022,259,Virginia Tech,fbs,ACC,Coastal,5.0060560099313465,11,3,8,0,-6.192,,,Brent Pry,False,9.0,21.0,-12.0
+2023,259,Virginia Tech,fbs,ACC,Coastal,7.124493280588259,13,7,6,0,4.101,-6.192,10.293,Brent Pry,False,7.0,18.0,-11.0
+2024,259,Virginia Tech,fbs,ACC,,7.1543297462908875,13,6,7,0,8.853,4.101,4.752,Brent Pry,False,30.0,31.0,-1.0
+2022,2681,Wagner,fcs,NEC,,1.2243956917938652,11,1,10,0,,,,,False,1.0,2.0,-1.0
+2023,2681,Wagner,fcs,NEC,,2.611559020811601,11,4,7,0,,,,,False,2.0,1.0,1.0
+2024,2681,Wagner,fcs,NEC,,4.068333395969437,12,4,8,0,,,,,False,1.0,2.0,-1.0
+2022,154,Wake Forest,fbs,ACC,Atlantic,8.369783449580337,13,8,5,0,7.586,,,Dave Clawson,False,3.0,11.0,-8.0
+2023,154,Wake Forest,fbs,ACC,Atlantic,4.234224632197234,12,4,8,0,-1.563,7.586,-9.149000000000001,Dave Clawson,False,5.0,15.0,-10.0
+2024,154,Wake Forest,fbs,ACC,,4.1396489805563155,12,4,8,0,-5.059,-1.563,-3.4960000000000004,Dave Clawson,False,33.0,26.0,7.0
+2022,264,Washington,fbs,Pac-12,,8.230901694511436,13,11,2,0,11.472,,,Kalen DeBoer,False,10.0,22.0,-12.0
+2023,264,Washington,fbs,Pac-12,,10.632341177096174,15,14,1,0,17.544,11.472,6.072000000000001,Kalen DeBoer,True,27.0,30.0,-3.0
+2024,264,Washington,fbs,Big Ten,,7.248212292779996,13,6,7,0,5.047,17.544,-12.497,Jedd Fisch,False,18.0,32.0,-14.0
+2022,265,Washington State,fbs,Pac-12,,5.490055236697067,13,7,6,0,3.766,,,Jake Dickert,False,9.0,36.0,-27.0
+2023,265,Washington State,fbs,Pac-12,,5.648213428157859,12,5,7,0,3.221,3.766,-0.5449999999999999,Jake Dickert,False,12.0,27.0,-15.0
+2024,265,Washington State,fbs,Pac-12,,8.873875310293844,13,8,5,0,1.667,3.221,-1.554,Jake Dickert,False,34.0,60.0,-26.0
+2022,2692,Weber State,fcs,Big Sky,,9.012398408468297,13,10,3,0,,,,,False,2.0,5.0,-3.0
+2023,2692,Weber State,fcs,Big Sky,,4.524732560404309,11,6,5,0,,,,,False,5.0,7.0,-2.0
+2024,2692,Weber State,fcs,Big Sky,,6.176202675193222,12,4,8,0,,,,,False,6.0,8.0,-2.0
+2024,2698,West Georgia,fcs,UAC,,3.2061370908744147,11,4,7,0,,,,,False,5.0,9.0,-4.0
+2022,277,West Virginia,fbs,Big 12,,5.324602623833775,12,5,7,0,4.097,,,Neal Brown,False,14.0,22.0,-8.0
+2023,277,West Virginia,fbs,Big 12,,8.816005172762647,13,9,4,0,5.931,4.097,1.8339999999999996,Neal Brown,False,13.0,25.0,-12.0
+2024,277,West Virginia,fbs,Big 12,,4.905630370385611,13,6,7,0,1.795,5.931,-4.136,Neal Brown,False,51.0,49.0,2.0
+2022,2717,Western Carolina,fcs,Southern,,4.322392830095871,11,6,5,0,,,,,False,1.0,2.0,-1.0
+2023,2717,Western Carolina,fcs,Southern,,6.765143911026888,11,7,4,0,,,,,False,0.0,2.0,-2.0
+2024,2717,Western Carolina,fcs,Southern,,6.4421301257301264,12,7,5,0,,,,,False,5.0,10.0,-5.0
+2022,2710,Western Illinois,fcs,MVFC,,2.4592512018232218,11,0,11,0,,,,,False,0.0,3.0,-3.0
+2023,2710,Western Illinois,fcs,MVFC,,0.1671556805425703,11,0,11,0,,,,,False,5.0,1.0,4.0
+2024,2710,Western Illinois,fcs,Big South-OVC,,3.5330936712865575,12,4,8,0,,,,,False,3.0,6.0,-3.0
+2022,98,Western Kentucky,fbs,Conference USA,,8.582883913889692,14,9,5,0,5.077,,,Tyson Helton,False,12.0,20.0,-8.0
+2023,98,Western Kentucky,fbs,Conference USA,,6.18475319617502,13,8,5,0,-5.151,5.077,-10.228,Tyson Helton,False,21.0,28.0,-7.0
+2024,98,Western Kentucky,fbs,Conference USA,,6.4133321610878635,14,8,6,0,-7.663,-5.151,-2.5120000000000005,Tyson Helton,False,42.0,34.0,8.0
+2022,2711,Western Michigan,fbs,Mid-American,West,4.301971730411199,12,5,7,0,-12.495,,,Tim Lester,True,6.0,10.0,-4.0
+2023,2711,Western Michigan,fbs,Mid-American,West,4.468933161342783,12,4,8,0,-13.543,-12.495,-1.048,Lance Taylor,False,11.0,23.0,-12.0
+2024,2711,Western Michigan,fbs,Mid-American,,5.329759304646534,13,6,7,0,-10.952,-13.543,2.5909999999999993,Lance Taylor,False,23.0,26.0,-3.0
+2022,2729,William & Mary,fcs,CAA,,9.209783383057088,13,11,2,0,,,,,False,,,
+2023,2729,William & Mary,fcs,CAA,,5.935499091732632,11,6,5,0,,,,,False,2.0,1.0,1.0
+2024,2729,William & Mary,fcs,CAA,,7.189391670385092,12,7,5,0,,,,,False,4.0,2.0,2.0
+2022,275,Wisconsin,fbs,Big Ten,West,8.8171866766723,13,7,6,0,8.148,,,Paul Chryst,True,14.0,19.0,-5.0
+2023,275,Wisconsin,fbs,Big Ten,West,6.44006280777893,13,7,6,0,6.043,8.148,-2.1049999999999995,Luke Fickell,False,16.0,23.0,-7.0
+2024,275,Wisconsin,fbs,Big Ten,,4.7935133967450545,12,5,7,0,4.781,6.043,-1.2620000000000005,Luke Fickell,False,18.0,32.0,-14.0
+2022,2747,Wofford,fcs,Southern,,2.684400866715483,11,3,8,0,,,,,False,0.0,3.0,-3.0
+2023,2747,Wofford,fcs,Southern,,3.0380746173928665,11,2,9,0,,,,,False,3.0,2.0,1.0
+2024,2747,Wofford,fcs,Southern,,4.3570215843916555,12,5,7,0,,,,,False,6.0,3.0,3.0
+2022,2751,Wyoming,fbs,Mountain West,Mountain,6.0187623865977224,13,7,6,0,-9.34,,,Craig Bohl,False,3.0,16.0,-13.0
+2023,2751,Wyoming,fbs,Mountain West,Mountain,7.251306020864472,13,9,4,0,-2.253,-9.34,7.087,Craig Bohl,True,3.0,13.0,-10.0
+2024,2751,Wyoming,fbs,Mountain West,,3.9030346318186,12,3,9,0,-11.258,-2.253,-9.004999999999999,Jay Sawvel,False,17.0,22.0,-5.0
+2022,43,Yale,fcs,Ivy,,6.001470085250013,10,8,2,0,,,,,False,0.0,1.0,-1.0
+2023,43,Yale,fcs,Ivy,,7.932870491928576,10,7,3,0,,,,,False,0.0,5.0,-5.0
+2024,43,Yale,fcs,Ivy,,5.418378213209314,10,7,3,0,,,,,False,1.0,12.0,-11.0
+2022,2754,Youngstown State,fcs,MVFC,,5.316334352161349,11,7,4,0,,,,,False,,,
+2023,2754,Youngstown State,fcs,MVFC,,7.3361753345510365,13,8,5,0,,,,,False,8.0,8.0,0.0
+2024,2754,Youngstown State,fcs,MVFC,,5.084993980684543,12,4,8,0,,,,,False,4.0,9.0,-5.0
