@@ -16,10 +16,21 @@ $ source .venv/bin/activate
 
 This opens the following [notebook](./eda_final_project_code_group_5.ipynb)
 
+To format the code better, we have added pre-commit hooks. As of now, nothing is done for the Jupyter notebooks. To enable `pre-commit`, use the following commands.
+
+```sh
+$ pre-commit install
+```
+
+# Enhanced Team Metadata
+A small helper module called `transfer_viz` is created for the purposes of organizing and getting code for the teams metadata and the plan is to add further visualization utils.
+
+## Progress as of 2025-Nov-15
+1. Parsed the teams data to include location. The file is saved [here]('./data/raw/team_info')
 
 # To Get Done
 
-Visualize Transfers out vs Coaching Change 
+Visualize Transfers out vs Coaching Change
 Visualize Transfers in vs Coaching Change
 Visualize Transfers out vs losses
 Visualize Transfers in vs losses
@@ -32,4 +43,4 @@ Visualize Transfers in vs (Difference between Past Season FPI and Current Season
 
 Network Graph between Each conference Transfers (G6, ACC, Big 10, Big 12, SEC)
 Map and Network Graph between interconference Transfers (SEC)
-Average Recruiting Rankings between each team in the 
+Average Recruiting Rankings between each team in the
