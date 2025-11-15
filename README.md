@@ -26,7 +26,14 @@ $ pre-commit install
 A small helper module called `transfer_viz` is created for the purposes of organizing and getting code for the teams metadata and the plan is to add further visualization utils.
 
 ## Progress as of 2025-Nov-15
-1. Parsed the teams data to include location. The file is saved [here]('./data/raw/team_info')
+1. Parsed the teams data to include location. The file is saved [here]('./data/raw/team_info/teams_details.csv').
+
+```sh
+$ export CFBD_ACCESS_TOKEN=YOUR_ACCESS_TOKEN
+$ python -m transfer_viz teams
+```
+
+This rewrites the csv file.
 
 # To Get Done
 
