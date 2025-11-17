@@ -2,17 +2,17 @@ import cfbd
 import pandas as pd
 import folium
 
-from transfer_viz.utils import load_dataset
+from transfer_viz.utils import load_dataset, custom_icon
 
 
-class TeamsParser:
+class CFBDParser:
     def __init__(self, url: str, bearer_token: str):
         configuration = cfbd.Configuration()
         configuration.access_token = bearer_token
         configuration.host = url
         self.api_instance = cfbd.TeamsApi(cfbd.ApiClient(configuration))
 
-    def parse(self) -> pd.DataFrame:
+    def parse_teams(self) -> pd.DataFrame:
         """Parse and return the list of teams from the API.
 
         Returns:
@@ -67,9 +67,9 @@ class TeamsParser:
 
 def parse_teams(url: str, bearer_token: str) -> pd.DataFrame:
     """Parse and return the list of teams from the API."""
-    parser = TeamsParser(url=url, bearer_token=bearer_token)
+    parser = CFBDParser(url=url, bearer_token=bearer_token)
 
-    return parser.parse()
+    return parser.parse_teams()
 
 
 def filter_teams() -> pd.DataFrame:
@@ -95,8 +95,12 @@ def teams_map():
             folium.Marker(
                 location=[row["location_latitude"], row["location_longitude"]],
                 popup=f"{row['school']} ({row['abbreviation']})",
-                icon=folium.Icon(
-                    color="white", icon="info-sign", icon_color=row["color"]
+                icon=custom_icon(
+                    icon_image=row["logos"].split(",")[0]
+                    if pd.notnull(row["logos"])
+                    else "https://placehold.co/30x30",
+                    icon_size=(30, 30),
+                    icon_anchor=(15, 15),
                 ),
             ).add_to(teams_map)
 
