@@ -1,6 +1,7 @@
 from typing import Literal
 import pandas as pd
 from pathlib import Path
+from folium.features import CustomIcon
 
 
 def load_dataset(
@@ -46,3 +47,16 @@ def load_dataset(
             f"Dataset {name} not found at {dataset_path}. Please ensure the file exists and run any necessary data preparation scripts."
         )
     return dataset
+
+
+def custom_icon(
+    icon_image: str,
+    icon_size: tuple[int, int] = (30, 30),
+    icon_anchor: tuple[int, int] = (15, 15),
+) -> CustomIcon:
+    """Create a custom DivIcon for folium markers."""
+    return CustomIcon(
+        icon_image=icon_image,
+        icon_size=icon_size,
+        icon_anchor=icon_anchor,
+    )
