@@ -21,7 +21,7 @@ def load_dataset(
     """Load dataset by name from the data/raw directory."""
     raw_processed_dir = {
         "team_metadata": "processed",
-        "transfers_data": "processed",
+        "transfer_data": "processed",
         "teams_details": "processed",
         "raw_teams_details": "raw/team_info",
         "2022_FPI": "raw/team_info",
