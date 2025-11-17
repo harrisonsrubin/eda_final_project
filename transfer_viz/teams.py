@@ -3,6 +3,7 @@ import pandas as pd
 import folium
 
 from transfer_viz.utils import load_dataset, custom_icon
+from folium.plugins import TagFilterButton
 
 
 class CFBDParser:
@@ -87,6 +88,12 @@ def teams_map():
     teams_details_df = load_dataset("teams_details")
     map_center = [39.8283, -98.5795]  # Center of the US
     teams_map = folium.Map(location=map_center, zoom_start=4)
+    conferences = teams_details_df["conference"].dropna().unique()
+    TagFilterButton(
+        clear_text="Show All",
+        data=conferences.tolist(),
+        title="Filter by Conference",
+    ).add_to(teams_map)
 
     for _, row in teams_details_df.iterrows():
         if pd.notnull(row["location_latitude"]) and pd.notnull(
@@ -102,6 +109,7 @@ def teams_map():
                     icon_size=(30, 30),
                     icon_anchor=(15, 15),
                 ),
+                tags=[row["conference"]] if pd.notnull(row["conference"]) else [],
             ).add_to(teams_map)
 
     return teams_map
