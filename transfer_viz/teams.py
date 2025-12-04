@@ -161,9 +161,7 @@ def run(args=None):
 
     elif parsed_args.command == "teams_map":
         teams_map_obj = teams_map()
-        map_path = (
-            Path(__file__).parent.parent / "data" / "processed" / "teams_map.html"
-        )
+        map_path = Path(__file__).parent.parent / "data" / "plots" / "teams_map.html"
         map_path.parent.mkdir(parents=True, exist_ok=True)
         teams_map_obj.save(str(map_path))
         print(f"Teams map saved to {map_path}")

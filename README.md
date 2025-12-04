@@ -35,6 +35,15 @@ $ python -m transfer_viz teams
 
 This rewrites the csv file.
 
+## Visualizing HTML Diagrams
+To visualize the html diagrams:
+
+```sh
+$ python -m http.server 8000
+```
+
+Then open the browser at `http://localhost:8000/data/plots` to see the html files.
+
 # To Get Done
 
 Visualize Transfers out vs Coaching Change
