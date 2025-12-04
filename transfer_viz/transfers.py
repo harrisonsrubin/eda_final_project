@@ -41,11 +41,20 @@ def power_5_shankey_diagram(
         for conf in all_conferences
     ]
 
+    link_colors = []
+    for t in target:
+        nc = node_colors[t]
+        if isinstance(nc, str) and nc.startswith("rgba"):
+            base = nc.rsplit(",", 1)[0]
+            link_colors.append(f"{base}, 0.4)")
+        else:
+            link_colors.append("rgba(192,192,192,0.4)")
+
     fig = go.Figure(
         data=[
             go.Sankey(
                 node=dict(
-                    pad=100,
+                    pad=10,
                     thickness=50,
                     line=dict(color="black", width=2),
                     label=labels,
@@ -55,20 +64,20 @@ def power_5_shankey_diagram(
                     source=source,
                     target=target,
                     value=value,
-                    color="rgba(0, 0, 0, 0.2)",
+                    color=link_colors,
                 ),
             )
         ]
     )
 
     fig.update_layout(
-        title=f"Power 5 Conference Transfer Flows - {year}",
+        title=f"Power 5 Conference Transfer Flows after the {year} Season",
         font=dict(size=14),
         height=600,
         width=1200,
     )
 
-    fig.write_html(f"data/processed/power_5_sankey_{year}.html")
+    fig.write_html(f"data/plots/power_5_sankey_{year}.html")
     return fig
 
 
@@ -150,26 +159,15 @@ def power_5_transfer_network_graph(year: int):
     )
 
     plt.title(
-        f"Power 5 Transfer Network - {year}\n(Arrow shows direction: Origin → Destination)",
+        f"Power 5 Transfer Network after {year} Season \n(Arrow shows direction: Origin → Destination)",
         fontsize=16,
         fontweight="bold",
-    )
-
-    legend_text = "• Arrow direction: Shows transfer flow (FROM → TO)\n• Arrow thickness: Transfer volume\n• Arrow color: Transfer intensity (darker = more transfers)"
-    plt.text(
-        0.02,
-        0.98,
-        legend_text,
-        transform=plt.gca().transAxes,
-        fontsize=10,
-        verticalalignment="top",
-        bbox=dict(boxstyle="round", facecolor="wheat", alpha=0.8),
     )
 
     plt.axis("off")
     plt.tight_layout()
     plt.savefig(
-        f"data/processed/power_5_transfer_network_{year}.png",
+        f"data/plots/power_5_transfer_network_{year}.png",
         dpi=300,
         bbox_inches="tight",
     )
@@ -234,9 +232,7 @@ class TransfersExplorer:
                 - Avg_Stars: Average star rating of transfers (if available)
                 - Avg_Rating: Average recruiting rating of transfers (if available)
         """
-        if year == 2025:
-            year = 2024  # Assume no change in conferences for 2025 season
-        data = self.get_transfers_by_year(year)
+        data = self.get_transfers_by_year(year + 1)
 
         team_conf = self.teams_metadata[self.teams_metadata["Year"] == year][
             ["Team", "Conference"]
@@ -378,6 +374,8 @@ def run(args=None):
                 "Please provide a season year using --season for this command."
             )
         power_5_shankey_diagram(parsed_args.season)
-        print(f"Power 5 transfer Sankey diagram for {parsed_args.season} saved as PNG.")
+        print(
+            f"Power 5 transfer Sankey diagram for {parsed_args.season} saved as HTML."
+        )
     else:
         parser.print_help()
