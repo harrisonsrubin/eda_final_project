@@ -1,4 +1,4 @@
-from transfer_viz import teams
+from transfer_viz import teams, transfers
 
 
 if __name__ == "__main__":
@@ -8,7 +8,9 @@ if __name__ == "__main__":
     parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
 
     parser.add_argument(
-        "command", metavar="COMMAND", help=", ".join(sorted(["teams", "viz"]))
+        "command",
+        metavar="COMMAND",
+        help=", ".join(sorted(["teams", "viz", "transfers"])),
     )
 
     args = parser.parse_args(sys.argv[1:2])
@@ -19,5 +21,7 @@ if __name__ == "__main__":
 
     if args.command == "teams":
         teams.run(sys.argv[2:])
+    if args.command == "transfers":
+        transfers.run(sys.argv[2:])
     else:
         parser.print_help()
