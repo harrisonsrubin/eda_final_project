@@ -8,3 +8,6 @@ seaborn
 ebooklet
 pre-commit
 folium
+networkx
+plotly
+kaleido
