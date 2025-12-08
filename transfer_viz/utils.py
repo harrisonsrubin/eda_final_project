@@ -7,7 +7,7 @@ from folium.features import CustomIcon
 def load_dataset(
     name: Literal[
         "team_metadata",
-        "transfers_data",
+        "transfer_data",
         "teams_details",
         "raw_teams_details",
         "2022_FPI",
